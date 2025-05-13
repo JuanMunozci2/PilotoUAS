@@ -1,0 +1,155 @@
+[
+  {
+    "category": "Factores Humanos y Actuación Humana",
+    "number": 1,
+    "q": "¿Cuál de los siguientes factores humanos afecta significativamente la actuación en la aviación no tripulada?",
+    "options": [
+      "Altitud. Fatiga. Peso de las antenas del control remoto."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Factores Humanos y Actuación Humana",
+    "number": 2,
+    "q": "¿Cuál es un ejemplo adecuado de la carga de trabajo en la aviación no tripulada?",
+    "options": [
+      "La cantidad de combustible en un UAS. La demanda cognitiva y física impuesta a un piloto a distancia. El peso máximo que un UAS puede llevar."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Factores Humanos y Actuación Humana",
+    "number": 3,
+    "q": "¿Cuál es el fin de la capacitación en actuaciones humanas?",
+    "options": [
+      "Para reducir los costos operativos. Para aumentar la velocidad de vuelo. Para tomar decisiones seguras y efectivas durante las operaciones."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Factores Humanos y Actuación Humana",
+    "number": 4,
+    "q": "¿Una de las siguientes opciones que desempeñan los sistemas de apoyo digitales (app) a la decisión en la actuación humana con UAS?",
+    "options": [
+      "Automatizan completamente las operaciones de UAS. Ayudan a los operadores y pilotos a tomar decisiones informadas. Realizan mantenimiento en tiempo real de los UAS."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Factores Humanos y Actuación Humana",
+    "number": 5,
+    "q": "¿Una de las consecuencias de cómo puede la fatiga afectar la actuación de los pilotos de UAS, es?",
+    "options": [
+      "Aumentando la toma de decisiones efectivas por el cansancio. Mejorando la concentración en la medida que progresa el vuelo. Reduciendo la atención y el tiempo de reacción."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Factores Humanos y Actuación Humana",
+    "number": 6,
+    "q": "¿Cuál de las siguientes opciones no constituye un factor que afecte la carga de trabajo mental para los pilotos UAS en la aviación no tripulada?",
+    "options": [
+      "Toma de decisiones. Demanda cognitiva. Altitud de vuelo."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Factores Humanos y Actuación Humana",
+    "number": 7,
+    "q": "¿Qué tipo de entrenamiento se debe fortalecer para mejorar la actuación del piloto a distancia en situaciones de emergencia en la operación de vuelo?",
+    "options": [
+      "Entrenamiento físico intensivo (Gimnasio). Entrenamiento de resistencia (Ditching). Práctica de reacciones de emergencia en escenarios de entrenamiento."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Factores Humanos y Actuación Humana",
+    "number": 8,
+    "q": "¿Qué tecnología ayuda a mitigar la carga de trabajo en los pilotos y operadores de UAS?",
+    "options": [
+      "Inteligencia artificial y automatización. Cámaras de alta resolución. Sistema anticollision - ADS-B."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Factores Humanos y Actuación Humana",
+    "number": 9,
+    "q": "¿Qué impacto puede tener el estrés en la actuación de los pilotos y operadores de UAS?",
+    "options": [
+      "Aumenta la adrenalina y propicia la claridad mental. Aumenta exponencialmente los errores y reduce la eficiencia. Facilita la comunicación y el nivel de concentración."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Factores Humanos y Actuación Humana",
+    "number": 10,
+    "q": "¿Qué rol juegan las habilidades de liderazgo en la aviación no tripulada?",
+    "options": [
+      "Son esenciales para los pilotos a distancia, pero no lo son para los operadores de UAS. Son importantes para la toma de decisiones y organización del equipo de trabajo. Solo son relevantes en operaciones militares."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Factores Humanos y Actuación Humana",
+    "number": 11,
+    "q": "¿Cuál es la importancia de la comunicación entre el equipo de trabajo en la aviación no tripulada?",
+    "options": [
+      "No es relevante, ya que los UAS operan de forma automática según la planificación del vuelo gestionada. Es vital para coordinar las operaciones y garantizar las acciones de seguridad operacional. La comunicación se utiliza sólo en situaciones de emergencia."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Factores Humanos y Actuación Humana",
+    "number": 12,
+    "q": "¿Cuál de los siguientes factores humanos es clave para la actuación segura en la aviación no tripulada?",
+    "options": [
+      "La elección de rutas de vuelo. La capacitación del piloto. La velocidad del viento en vuelo."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Factores Humanos y Actuación Humana",
+    "number": 13,
+    "q": "¿Qué factor o comportamiento humano es fundamental para evitar la fatiga del piloto en operaciones de vuelo?",
+    "options": [
+      "Cumplimiento de regulaciones de tiempo de vuelo y descanso. Realizar múltiples tareas durante el vuelo. Uso de estimulantes en la medida que el piloto los necesite."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Factores Humanos y Actuación Humana",
+    "number": 14,
+    "q": "¿Qué es la ergonomía cognitiva aplicada a la aviación no tripulada?",
+    "options": [
+      "Es el estudio de la postura de los operadores y pilotos cuando están en operaciones aéreas con sus aeronaves. Es el mejoramiento de la relación entre máquinas y personas para entrelazar factores como la comunicación, trabajo en equipo, percepción, memoria, razonamiento e interrelacionarlo con las capacidades cognitivas humanas de cada persona. Es el proceso de mejora de las condiciones y resistencia física de los pilotos y operadores de aeronaves no tripuladas."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Factores Humanos y Actuación Humana",
+    "number": 15,
+    "q": "¿Cómo puede colaborar la ergonomía cognitiva para mejorar la actuación en vuelo de un piloto a distancia de aeronaves no tripuladas?",
+    "options": [
+      "Optimizando la interfaz de usuario de software. Diseñando asientos más cómodos para poder operar. Aumentando las cargas intelectuales de trabajo."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Factores Humanos y Actuación Humana",
+    "number": 16,
+    "q": "¿De las siguientes apreciaciones cuáles constituyen falla humana en contra de la seguridad operacional?",
+    "options": [
+      "Operar un dron desconociendo las regulaciones y legislaciones que aplican en el desarrollo de las operaciones de vuelo. Maniobrar mi dron de forma irresponsable y temeraria en espacios públicos y el empleo de sustancias psicoactivas en la realización de operaciones de vuelo. Todas las anteriores."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Factores Humanos y Actuación Humana",
+    "number": 17,
+    "q": "¿Cuál es el propósito de las regulaciones de tiempo de vuelo y descanso en la aviación?",
+    "options": [
+      "Aumentar la carga de trabajo de los operadores. Evitar la fatiga de los pilotos. Aumentar el tiempo de vuelo de los UAS."
+    ],
+    "correct": 0
+  }
+]

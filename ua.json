@@ -1,0 +1,317 @@
+[
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 1,
+    "q": "De acuerdo con el RAC 1, la definición de aeronave es:",
+    "options": [
+      "Toda nave o aparato que sin importar su peso puede surcar el cielo, y está destinada a volar con o sin piloto. Toda máquina que puede sustentarse en la atmósfera por reacciones del aire que no sean las reacciones de éste contra la superficie de la tierra. Todas las anteriores."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 2,
+    "q": "En el mundo aeronáutico, ¿A qué se refiere la expresión “drone”?",
+    "options": [
+      "Palabra genérica empleada para referirse a cualquier aeronave no tripulada o pilotada a distancia. Abejorro o zángano, “por el zumbido de los motores”. Cualquier tipo de vehículo aéreo tripulado o aeromodelo."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 3,
+    "q": "La sigla “RPAS” se emplea genéricamente para referirnos a cualquier clase de aeronaves no tripuladas y tripuladas. Este postulado es:",
+    "options": [
+      "Verdadero. Falso."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 4,
+    "q": "¿Qué significa la sigla “UAS”?",
+    "options": [
+      "Unmanned Aircraft System / Sistema de Aeronave No Tripulada. Aerial Aircraft Support / Aeronave No Tripulada. Aerial Vehicle System / Vehículo Aéreo No Tripulado."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 5,
+    "q": "¿Qué significa la sigla “RPAS”?",
+    "options": [
+      "Remotely Piloted Aircraft Software / Aeronaves piloteadas remotamente por software. Remotely Pylon Aerial System / Aeronaves Pilotadas a la Distancia. Remotely Piloted Aircraft System / Sistema de Aeronaves Remotamente Pilotadas."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 6,
+    "q": "¿Qué significa la sigla “UAV”?",
+    "options": [
+      "Unmanned Aircraft Visual / Sistema Visual Aéreo No Tripulado. Unmanned Aerial System / Sistemas de Aeronaves Remotamente Piloteadas. Unmanned Aerial Vehicle / Vehículo Aéreo No Tripulado."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 7,
+    "q": "¿Cuáles componentes no hacen parte de un UAS?",
+    "options": [
+      "Fuselaje, baterías, antenas, tren de aterrizaje, satélites. Chasis, baterías, planta(s) de potencia, tarjeta controladora. Chasis, computadora, sensores, baterías y control remoto."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 8,
+    "q": "¿Qué tipo de motores eléctricos empleados por los UA son más eficientes?",
+    "options": [
+      "Motores trifásicos. Motores con escobillas. Motores sin escobillas."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 9,
+    "q": "¿Qué tipo de baterías empleadas por los UA son las más comunes?",
+    "options": [
+      "Li-Fe. Ni-Cd. Li-Po."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 10,
+    "q": "¿Cuál es la principal precaución que se debe tener cuando se inicia un ciclo de carga de las baterías?",
+    "options": [
+      "Sobrepasar el tiempo de carga. Supervisarlas siempre mientras estas se cargan. Cargarlas inmediatamente después del vuelo."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 11,
+    "q": "¿Cuál es la funcionalidad del ESC en un sistema de propulsión eléctrico?",
+    "options": [
+      "Control de velocidad electrónico, para medir la fuerza del motor. Electronic Speed Controller que envía la corriente necesaria para mantener las revoluciones de los motores exigidas por la controladora. Electronic Speed Controller, controla la corriente que produce el generador."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 12,
+    "q": "¿Qué función realiza la computadora de vuelo del UA?",
+    "options": [
+      "Controla la carga de las baterías. Controla el funcionamiento en vuelo del UA. Programa el control remoto."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 13,
+    "q": "¿Para qué se usa un sistema RTK (Real Time Kinetic)?",
+    "options": [
+      "Utiliza una antena en tierra para aumentar la precisión de la UA. Aumenta la señal de los satélites. Emite una señal que evita la interferencia electrónica."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 14,
+    "q": "¿Qué es el OSD?",
+    "options": [
+      "Sensor de Obstáculos Direccional. On Screen Display, mezcla la imagen de la cámara con la información de telemetría. On Screen Display, transmite únicamente la señal de la cámara a la pantalla."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 15,
+    "q": "¿Cuál frecuencia es más común en la transmisión de señal de una estación de tierra con un UA?",
+    "options": [
+      "326 Ghz. 2,4 Ghz. 1,5 Ghz."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 16,
+    "q": "¿Cuáles de las siguientes frecuencias de transmisión de la señal desde el control son las más comunes?",
+    "options": [
+      "2,4 Ghz a 5,8 Ghz. 2,4 Mhz a 5,8 Mhz. 118 Mhz a 2,4 Ghz."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 17,
+    "q": "¿Qué función cumple el Gimbal?",
+    "options": [
+      "Aumenta la precisión del GPS. Mejora la señal de transmisión de video. Estabiliza el movimiento a la cámara."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 18,
+    "q": "¿Qué precaución hay que tener con los sensores ópticos?",
+    "options": [
+      "Sólo funcionan con buena luminosidad. Deben estar alejados de la luz fuerte o láser porque los puede dañar. Las dos opciones son correctas."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 19,
+    "q": "En la región de América del sur, para la configuración del movimiento de las palancas de la estación terrena, ¿Qué clase de modo debe ser seleccionado?",
+    "options": [
+      "Modo uno. Modo dos. Modo cine, normal, sport."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 20,
+    "q": "¿Cuál es la característica de operación del comando RTH?",
+    "options": [
+      "La UA mantiene su posición cuando pierde señal. La UA regresa automáticamente al origen. La UA regresa a su última posición de vuelo."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 21,
+    "q": "¿Con cuántos satélites enlazados al sistema de navegación mínimos se recomienda volar en modo de asistencia satelital?",
+    "options": [
+      "Tres satélites. Doce satélites. Cinco satélites."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 22,
+    "q": "En zonas de despegue, ¿Qué tipos de superficies pueden generar interferencia en la operación de la UA?",
+    "options": [
+      "Superficies lisas. Superficies metálicas. Superficies de madera."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 23,
+    "q": "¿Cuántos voltios tiene cada celda de las baterías LiPo?",
+    "options": [
+      "3,7 voltios. 12 voltios. 3,5 voltios."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 24,
+    "q": "¿Qué es el índice KP?",
+    "options": [
+      "Cantidad de satélites que puede obtener el dron. Índice geomagnético planetario. Cantidad de luminosidad del día."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 25,
+    "q": "¿Con qué porcentaje de carga de batería se deben almacenar las baterías Li-Po, para evitar su deterioro?",
+    "options": [
+      "0%. 20%. 50-60%."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 26,
+    "q": "¿Qué es el enlace C2?",
+    "options": [
+      "Es la vía de comunicación que conecta la UA con su control y permite la transmisión de datos en ambas direcciones. Es el canal que permite el control de la UA, pero no tiene retroalimentación de las condiciones de la aeronave en tiempo real. Es una tecnología automatizada que permite recopilar, desarrollar y transmitir información de un dispositivo electrónico a otro."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 27,
+    "q": "Al sistema de medición de magnitudes físicas que permite transmitir los datos obtenidos a un observador lejano, se conoce como:",
+    "options": [
+      "Transmisión de datos. Telemetría. Enlace C2."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 28,
+    "q": "La estación de control en tierra de una aeronave no tripulada permite al Operador UA o Piloto UA dirigir el vuelo de la UA. Este postulado es:",
+    "options": [
+      "Verdadero Falso"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 29,
+    "q": "La función “ALTITUDE HOLD” hace referencia a:",
+    "options": [
+      "Ayuda a mantener siempre la misma altura, sin importar los comandos que le dé el piloto. Ayuda a mantener la altura establecida por el piloto en el RTH. Corrige automáticamente la altura de vuelo del dron a la última altura establecida en el vuelo, por causas externas a la aeronave."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 30,
+    "q": "¿Qué significa el modo “RTH” y para qué sirve?",
+    "options": [
+      "Reset to House. Permite regresar la configuración del UA a la de la casa fabricante. Return to Home. Permite que la UA retorne a las coordenadas previas establecidas como de despegue. Re-Start and Hold. Permite reencender el dron en vuelo y mantenerlo en espera."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 31,
+    "q": "¿Qué parámetros requiere el modo RTH?",
+    "options": [
+      "Establecer las coordenadas de salida por parte del piloto y la altura segura de retorno. Solamente se debe establecer la altura segura de regreso. No requiero parametrizar el RTH, ya está establecido de fábrica."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 32,
+    "q": "El modo RTH en algunos modelos de UAS, es el mismo modo RTL en otros modelos. Este postulado es:",
+    "options": [
+      "Verdadero Falso"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 33,
+    "q": "Unas de las tecnologías que permiten la detección de obstáculos en tiempo real en UAS, pueden ser:",
+    "options": [
+      "Sistemas de radar, sensores ópticos y lidar. Sistemas de mensajería instantánea. Códigos QR."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 34,
+    "q": "¿Cuál de las siguientes tecnologías no se utiliza para el control de operaciones aéreas con UAS?",
+    "options": [
+      "5G. GPS. Radiocontrol."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Conocimientos Generales de las UA",
+    "number": 35,
+    "q": "¿Qué significa VTOL?",
+    "options": [
+      "Vertical Take Off and Landing / Aeronave de despegue y aterrizaje vertical. Visual Talk off line / Aeronave de despegue y aterrizaje horizontal. Virtual Takeoff and Landing / Despegue y aterrizaje virtual."
+    ],
+    "correct": 0
+  }
+]

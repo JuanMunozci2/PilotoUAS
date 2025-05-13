@@ -1,0 +1,290 @@
+[
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 1,
+    "q": "La Aerodinámica es el estudio del movimiento de las masas de aire y sus efectos en la tierra. Este postulado es:",
+    "options": [
+      "Verdadero Falso"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 2,
+    "q": "La definición más acertada para “AERODINÁMICA” es:",
+    "options": [
+      "Es el estudio del comportamiento del aire en movimiento al interactuar con un objeto. El estudio de las propiedades químicas de los gases en el aire. Es el movimiento del aire en la tierra."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 3,
+    "q": "¿Cuál de las siguientes opciones describe adecuadamente las tres leyes de Newton?",
+    "options": [
+      "Ley de la termodinámica, de la física y la presión. Ley de la inercia, dinámica y de la acción y reacción. Ley del flujo, estática y reacción."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 4,
+    "q": "Una de las Leyes de Newton y que es uno de los principios clave para el funcionamiento de la aerodinámica en vuelo y que se aplica a los UAS es:",
+    "options": [
+      "Principio de conservación de la energía. Principio de acción y reacción. Principio de la termodinámica."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 5,
+    "q": "La Ecuación de Bernoulli describe que todo cuerpo sumergido en un líquido experimenta una fuerza hacia arriba equivalente al peso del volumen desalojado; este postulado es:",
+    "options": [
+      "Falso Verdadero"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 6,
+    "q": "¿De qué trata la Ecuación de Bernoulli?",
+    "options": [
+      "Describe el comportamiento de un objeto. Describe los cambios de velocidad por la temperatura. Describe la conservación de energía relacionando presión y velocidad."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 7,
+    "q": "¿Cuál es la relación entre la presión y la velocidad relativa entre el aire con una aeronave?",
+    "options": [
+      "A mayor velocidad relativa del aire, mayor presión sobre el plano aerodinámico de la aeronave. A mayor velocidad relativa del aire, menor presión sobre el plano aerodinámico de la aeronave. A mayor velocidad relativa del aire, menor colchón de aire bajo el plano aerodinámico de la aeronave."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 8,
+    "q": "En el contexto aerodinámico, ¿qué es un perfil aerodinámico?",
+    "options": [
+      "La capacidad de una aeronave para realizar maniobras acrobáticas. La forma y las características del perfil transversal de una superficie sustentadora. La velocidad máxima que puede alcanzar una aeronave."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 9,
+    "q": "La capa de la atmósfera donde se desarrolla la mayoría de la aviación se llama:",
+    "options": [
+      "Mesósfera Termósfera Tropósfera"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 10,
+    "q": "Son los movimientos angulares naturales de una aeronave sobre sus ejes:",
+    "options": [
+      "Guiñada, torsión y alabeo. Guiñada, alabeo y cabeceo. Guiñada, bamboleo y torsión."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 11,
+    "q": "¿Qué consideraciones se tienen para el cálculo del PMBO?",
+    "options": [
+      "Peso bruto máximo de operación de la aeronave y Presión Atmosférica local. Peso Potencial de Inercia. Variación de presión por temperatura."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 12,
+    "q": "¿Cuál es la función principal del borde de ataque de un perfil aerodinámico?",
+    "options": [
+      "Borde en donde se manifiestan los vectores de fuerza. Borde en donde la presión ejerce fuerza de sustentación. Borde que recibe el aire de impacto y lo divide para recorrer el perfil aerodinámico."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 13,
+    "q": "¿Cuál es la principal función que identifica el borde de fuga o borde de salida?",
+    "options": [
+      "Borde en donde la sustentación ejerce su fuerza. Borde en donde la velocidad cambia la presión del aire. Borde por donde sale el aire."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 14,
+    "q": "¿A qué se denomina línea de cuerda en un perfil aerodinámico?",
+    "options": [
+      "Línea que recorre un perfil por su borde superior. Línea recta que va del borde de ataque al borde de fuga. Línea que mide el espesor máximo del perfil."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 15,
+    "q": "¿Qué es un perfil aerodinámico simétrico?",
+    "options": [
+      "Perfil en donde el camber (la línea de curvatura media) coincide con la cuerda. Perfil que produce sustentación con ángulo de ataque cero. Perfil de medidas iguales entre el espesor máximo y la cuerda."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 16,
+    "q": "¿Qué es un perfil aerodinámico asimétrico?",
+    "options": [
+      "Perfil en donde el extrados y el intrados son iguales. Perfil que produce sustentación con ángulo de ataque cero. Perfil similar en medidas entre borde de fuga y borde de ataque."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 17,
+    "q": "¿Cuáles son los vectores de fuerza resultantes que actúan en una aeronave?",
+    "options": [
+      "Sustentación, peso, empuje y resistencia. Sustentación, elevación, empuje y resistencia. Elevación, gravedad, empuje y potencia."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 18,
+    "q": "¿Cómo se podría describir la fuerza sustentadora (lift) para una aeronave?",
+    "options": [
+      "La fuerza resultante que hala a una aeronave hacia arriba. La fuerza que impulsa una aeronave hacia adelante. La fuerza que hala a la aeronave hacia la tierra."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 19,
+    "q": "¿Cómo se podría describir el arrastre (drag) en una aeronave?",
+    "options": [
+      "La fuerza que mantiene una aeronave en el aire. La resistencia al avance de una aeronave. La fuerza que hala a la aeronave hacia la tierra."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 20,
+    "q": "¿Cómo afecta la forma del ala de un UAS a su aerodinámica?",
+    "options": [
+      "La forma del ala determina la velocidad máxima de vuelo. La forma del ala influye directamente en la sustentación y el arrastre. La forma del ala determina la altura máxima de servicio del UA."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 21,
+    "q": "¿Cuál es la característica del centro de gravedad de un multicóptero?",
+    "options": [
+      "Que se ubica en cada uno de los motores de la aeronave. Que se ubica cerca del centro geométrico de la aeronave, dependiendo de la distribución de los motores. Los multicópteros no tienen centro de gravedad definido."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 22,
+    "q": "¿En dónde se debería ubicar el centro de gravedad de un avión?",
+    "options": [
+      "En el tren de aterrizaje. En la cola del avión. En el centro de presión de las alas."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 23,
+    "q": "El centro de gravedad de una aeronave generalmente se expresa en términos de posición en el sistema de referencia de la aeronave, que incluye los ejes longitudinal, lateral y vertical. Estas “coordenadas” permiten determinar la ubicación precisa del punto del centro de gravedad, este postulado es:",
+    "options": [
+      "Verdadero Falso"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 24,
+    "q": "¿Qué sucede si el centro de gravedad de una UA se encuentra por fuera de los límites establecidos por el fabricante?",
+    "options": [
+      "Afecta negativamente la capacidad de control y estabilidad de la UA en el aire. Se aprovecha para poder hacer vuelos acrobáticos con más facilidad. La aeronave en sí misma censa la condición y no permite el despegue del UA."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 25,
+    "q": "¿Qué es el ángulo de ataque?",
+    "options": [
+      "Ángulo formado entre la cuerda y el viento relativo resultante. Ángulo formado entre el borde de ataque y la cuerda. Ángulo formado entre la línea de curvatura media y el viento."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 26,
+    "q": "¿Por qué se produce la pérdida aerodinámica?",
+    "options": [
+      "Pérdida de sustentación por aumento de velocidad en el intrados. La sustentación disminuye por acercarse a velocidad subsónica. Pérdida de sustentación por aumento de ángulo de ataque."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 27,
+    "q": "¿Cuál de las siguientes opciones se consideran superficies hipersustentadoras?",
+    "options": [
+      "Alas rotatorias. Spoilers. Flaps."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 28,
+    "q": "¿Cómo influye la temperatura en el vuelo de un UA a una presión constante?",
+    "options": [
+      "A mayor temperatura, más difícil volar, menos tiempo de vuelo. A menor temperatura, más difícil volar, menos tiempo de vuelo. A menor temperatura, más fácil volar, menos tiempo de vuelo."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 29,
+    "q": "¿Cómo se contrarresta el torque de las hélices en un multirrotor?",
+    "options": [
+      "Todas las hélices giran en sentido de las manecillas del reloj. Un solo motor no se ve afectado por el torque. Las hélices se contrarrestan por pares girando en sentidos contrarios."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 30,
+    "q": "¿Qué tipos de resistencia aerodinámica existen?",
+    "options": [
+      "Contorno, de superficie, de presión. Inducida y parásita. Parásita, inducida y de presión."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 31,
+    "q": "Entre los efectos aerodinámicos que tienen ocurrencia en una superficie alar, ¿qué conocemos como “STALL”?",
+    "options": [
+      "Pérdida de sustentación por disminución de la densidad del aire. Pérdida de sustentación por alto ángulo de ataque. Pérdida de velocidad de la aeronave por alto ángulo de ataque."
+    ],
+    "correct": 0
+  },
+  {
+    "category": "Aerodinámica Aplicada",
+    "number": 32,
+    "q": "¿Cuál de los siguientes elementos no es considerado una superficie sustentadora?",
+    "options": [
+      "Hélices. Flaps y Slaps. Tubo Pitot."
+    ],
+    "correct": 0
+  }
+]
