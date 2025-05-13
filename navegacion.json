@@ -4,7 +4,9 @@
     "number": 1,
     "q": "¿Cuál de las siguientes opciones se ajusta más a la definición de espacio aéreo?",
     "options": [
-      "Es aquella porción de la atmósfera terrestre, sobre tierra o agua que está sometida y regulada a la soberanía y jurisdicción de un estado en particular, el cual utiliza para facilitar el tránsito aéreo. Es aquella porción del aire, sobre tierra de un país que se emplea para facilitar el tránsito aéreo, sin restricciones de ninguna clase para cualquier aeronave que la requiera sobrevolar. Ninguna de las opciones es correcta."
+      "Es aquella porción de la atmósfera terrestre, sobre tierra o agua que está sometida y regulada a la soberanía y jurisdicción de un estado en particular, el cual utiliza para facilitar el tránsito aéreo.",
+      "Es aquella porción del aire, sobre tierra de un país que se emplea para facilitar el tránsito aéreo, sin restricciones de ninguna clase para cualquier aeronave que la requiera sobrevolar.",
+      "Ninguna de las opciones es correcta."
     ],
     "correct": 0
   },
@@ -13,7 +15,9 @@
     "number": 2,
     "q": "El espacio aéreo controlado es:",
     "options": [
-      "Zona del espacio aéreo de un país donde su Autoridad Aeronáutica solamente presta servicios de reglamentación y asesoría para el vuelo. Zona del espacio aéreo de un país donde su Autoridad Aeronáutica presta los servicios de regulación y control para la actividad aérea. Una porción de la atmósfera determinada en donde las aeronaves están no obligadas a pedir permiso para volar."
+      "Zona del espacio aéreo de un país donde su Autoridad Aeronáutica solamente presta servicios de reglamentación y asesoría para el vuelo.",
+      "Zona del espacio aéreo de un país donde su Autoridad Aeronáutica presta los servicios de regulación y control para la actividad aérea.",
+      "Una porción de la atmósfera determinada en donde las aeronaves están no obligadas a pedir permiso para volar."
     ],
     "correct": 0
   },
@@ -22,16 +26,19 @@
     "number": 3,
     "q": "El espacio aéreo controlado es un espacio aéreo especialmente diseñado para que los UAS puedan realizar operaciones legales y dentro de los más altos estándares de seguridad operacional. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Navegación Aérea",
     "number": 4,
     "q": "En Colombia, el espacio aéreo controlado Civil comprende: 1- Zonas de control de aeródromo (ATZ). 2- Zonas prohibidas. 3- Áreas terminales de maniobra (TMA). 4- Zonas de entrenamiento. 5- Regiones de control (CTR). 6- Clasificadas en A, B, C, D y E. 7- Zonas restringidas.",
     "options": [
-      "Los numerales 1, 2, 3 y 4 son correctos. Los numerales 1, 3, 5 y 6 son correctos. Los numerales 2, 4 y 7 son correctos."
+      "Los numerales 1, 2, 3 y 4 son correctos.",
+      "Los numerales 1, 3, 5 y 6 son correctos.",
+      "Los numerales 2, 4 y 7 son correctos."
     ],
     "correct": 0
   },
@@ -40,16 +47,19 @@
     "number": 5,
     "q": "El espacio aéreo no controlado es un tipo de espacio aéreo con dimensiones conocidas donde se facilitan los servicios completos de tránsito aéreo. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Navegación Aérea",
     "number": 6,
     "q": "El espacio aéreo no controlado es:",
     "options": [
-      "Una zona del espacio aéreo de jurisdicción de un país donde la Autoridad Aeronáutica no presta los servicios de regulación y control para la actividad aérea, puede llegar a prestarse asesoría al vuelo. Un concepto de espacio aéreo que incluye áreas restringidas, peligrosas y prohibidas. Están clasificados como espacios aéreos clase B y C."
+      "Una zona del espacio aéreo de jurisdicción de un país donde la Autoridad Aeronáutica no presta los servicios de regulación y control para la actividad aérea, puede llegar a prestarse asesoría al vuelo.",
+      "Un concepto de espacio aéreo que incluye áreas restringidas, peligrosas y prohibidas.",
+      "Están clasificados como espacios aéreos clase B y C."
     ],
     "correct": 0
   },
@@ -58,7 +68,9 @@
     "number": 7,
     "q": "El espacio aéreo no controlado en Colombia comprende:",
     "options": [
-      "Espacios aéreos ATZ. Espacios aéreos con clasificación F y G. Espacios aéreos segregados."
+      "Espacios aéreos ATZ.",
+      "Espacios aéreos con clasificación F y G.",
+      "Espacios aéreos segregados."
     ],
     "correct": 0
   },
@@ -67,25 +79,29 @@
     "number": 8,
     "q": "En las áreas o zonas restringidas están absolutamente prohibidos toda clase de vuelos. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Navegación Aérea",
     "number": 9,
     "q": "Las áreas o zonas prohibidas están administradas únicamente por la Autoridad de Aviación de Estado. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Navegación Aérea",
     "number": 10,
     "q": "¿Cuál es la definición de rumbo?",
     "options": [
-      "Es el camino general que se traza en una carta de navegación. Es el ángulo formado entre el norte geográfico y la posición en donde me encuentro con respecto a donde quiero llegar. Es la dirección respecto al norte magnético en la que una aeronave se desplaza en vuelo."
+      "Es el camino general que se traza en una carta de navegación.",
+      "Es el ángulo formado entre el norte geográfico y la posición en donde me encuentro con respecto a donde quiero llegar.",
+      "Es la dirección respecto al norte magnético en la que una aeronave se desplaza en vuelo."
     ],
     "correct": 0
   },
@@ -94,7 +110,9 @@
     "number": 11,
     "q": "¿A qué se le conoce como “HEADING”?",
     "options": [
-      "La dirección a la cual apunta la nariz de la aeronave en vuelo. La dirección que se estima a donde llegará la aeronave posterior al vuelo. La dirección hacia donde se traslada la aeronave en vuelo."
+      "La dirección a la cual apunta la nariz de la aeronave en vuelo.",
+      "La dirección que se estima a donde llegará la aeronave posterior al vuelo.",
+      "La dirección hacia donde se traslada la aeronave en vuelo."
     ],
     "correct": 0
   },
@@ -103,7 +121,8 @@
     "number": 12,
     "q": "La Rosa de los Vientos es un símbolo en forma de círculo que tiene marcado alrededor los rumbos en que se divide la circunferencia del horizonte, así mismo se representan en letras los puntos cardinales y está referenciado con respecto al norte magnético. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -112,7 +131,9 @@
     "number": 13,
     "q": "De acuerdo con la rosa de los vientos los cuatro puntos cardinales principales son:",
     "options": [
-      "NNW, SSW, ENE, WNW. N, S, E, W. NW, NE, SE, SW."
+      "NNW, SSW, ENE, WNW.",
+      "N, S, E, W.",
+      "NW, NE, SE, SW."
     ],
     "correct": 0
   },
@@ -121,7 +142,9 @@
     "number": 14,
     "q": "Seleccione los tipos de Navegación según la Técnica de utilización: 1- Visual. 2- Marítima. 3- A la estima. 4- Espacial. 5- Astronómica. 6- Instrumentos. 7- Aérea. 8- Satelital. 9- Terrestre.",
     "options": [
-      "Los numerales 1, 2, 3, 4 y 7 son correctos. Los numerales 1, 3, 5, 6 y 8 son correctos. Los numerales 2, 4, 7 y 9 son correctos."
+      "Los numerales 1, 2, 3, 4 y 7 son correctos.",
+      "Los numerales 1, 3, 5, 6 y 8 son correctos.",
+      "Los numerales 2, 4, 7 y 9 son correctos."
     ],
     "correct": 0
   },
@@ -130,7 +153,8 @@
     "number": 15,
     "q": "La navegación aérea se define como el conjunto de técnicas y procedimientos que permiten guiar de manera eficiente una aeronave de un punto de partida hasta un punto de destino, respecto a la superficie de la tierra, manteniendo en todo momento la ruta deseada. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -139,16 +163,19 @@
     "number": 16,
     "q": "Para poder volar una aeronave no tripulada con seguridad, es requisito indispensable que el piloto UAS tenga conocimiento y entrenamiento en técnicas de navegación por Instrumentos. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Navegación Aérea",
     "number": 17,
     "q": "La palabra usada para definir la distancia vertical comprendida entre el nivel medio del mar y la posición de una aeronave en el aire es:",
     "options": [
-      "Altura. Elevación. Altitud."
+      "Altura.",
+      "Elevación.",
+      "Altitud."
     ],
     "correct": 0
   },
@@ -157,7 +184,9 @@
     "number": 18,
     "q": "¿Qué significa la Sigla GNSS?",
     "options": [
-      "Global Navigation Satellite System. Ground Navigation Syncronic System. Global New Positioning System."
+      "Global Navigation Satellite System.",
+      "Ground Navigation Syncronic System.",
+      "Global New Positioning System."
     ],
     "correct": 0
   },
@@ -166,16 +195,19 @@
     "number": 19,
     "q": "Los satélites de comunicaciones fueron diseñados para determinar las coordenadas geográficas de un receptor sin importar si está en el mar, en el aire o en una montaña. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Navegación Aérea",
     "number": 20,
     "q": "¿Qué es la navegación GNSS?",
     "options": [
-      "Es un tipo de navegación que se comunica con todos los satélites en el mundo, proporcionando referencias de coordenadas en lugares específicos de la tierra. Es un tipo de navegación que emplea sistemas pasivos de emisión de radiofrecuencia de los satélites emisores, proporcionando referencias espaciotemporales en cualquier lugar de la tierra. Es un tipo de navegación que emplea sistemas retroactivos de emisión de radiofrecuencia con satélites de comunicaciones, proporcionando referencias de coordenadas en cualquier lugar de la tierra."
+      "Es un tipo de navegación que se comunica con todos los satélites en el mundo, proporcionando referencias de coordenadas en lugares específicos de la tierra.",
+      "Es un tipo de navegación que emplea sistemas pasivos de emisión de radiofrecuencia de los satélites emisores, proporcionando referencias espaciotemporales en cualquier lugar de la tierra.",
+      "Es un tipo de navegación que emplea sistemas retroactivos de emisión de radiofrecuencia con satélites de comunicaciones, proporcionando referencias de coordenadas en cualquier lugar de la tierra."
     ],
     "correct": 0
   },
@@ -184,7 +216,9 @@
     "number": 21,
     "q": "Para la Aviación No Tripulada, los sistemas de navegación satelital son considerados como:",
     "options": [
-      "Un complemento de la navegación visual. Un suplemento de la navegación a la estima. El sistema de Navegación principal."
+      "Un complemento de la navegación visual.",
+      "Un suplemento de la navegación a la estima.",
+      "El sistema de Navegación principal."
     ],
     "correct": 0
   },
@@ -193,16 +227,19 @@
     "number": 22,
     "q": "El sistema de recepción de satélites de una aeronave no tripulada en Colombia, solamente puede ver satélites de la constelación autorizada por la Aerocivil. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Navegación Aérea",
     "number": 23,
     "q": "¿Cuál es la definición más acertada para definir meridianos y paralelos?",
     "options": [
-      "Conceptos geográficos que consisten en líneas imaginarias trazadas sobre el globo y que se utilizan para poder orientarse en la superficie de la tierra. Son líneas isogónicas trazadas sobre la superficie del globo terráqueo, con la cual se establece la posición de un objetivo. Es la cuadrícula estructurada sobre los mapas referenciada con el norte magnético que nos da una idea cercana de donde nos podemos encontrar."
+      "Conceptos geográficos que consisten en líneas imaginarias trazadas sobre el globo y que se utilizan para poder orientarse en la superficie de la tierra.",
+      "Son líneas isogónicas trazadas sobre la superficie del globo terráqueo, con la cual se establece la posición de un objetivo.",
+      "Es la cuadrícula estructurada sobre los mapas referenciada con el norte magnético que nos da una idea cercana de donde nos podemos encontrar."
     ],
     "correct": 0
   },
@@ -211,16 +248,19 @@
     "number": 24,
     "q": "Los paralelos dividen a la tierra en dos partes iguales, y son los que nos dan referencia del día y la noche. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Navegación Aérea",
     "number": 25,
     "q": "En el sistema de orientación terrestre, la latitud hace referencia a:",
     "options": [
-      "Línea de orientación paralela a la línea Meridiano de Greenwich y va de 0° a 180° hacia el oriente o hacia el occidente. Línea de orientación paralela a la línea del Ecuador y va de 0° al norte y se extiende hasta los 90° hacia el sur. Línea de orientación paralela a la línea del Ecuador y va de 0° a 90° hacia el norte o hacia el sur."
+      "Línea de orientación paralela a la línea Meridiano de Greenwich y va de 0° a 180° hacia el oriente o hacia el occidente.",
+      "Línea de orientación paralela a la línea del Ecuador y va de 0° al norte y se extiende hasta los 90° hacia el sur.",
+      "Línea de orientación paralela a la línea del Ecuador y va de 0° a 90° hacia el norte o hacia el sur."
     ],
     "correct": 0
   },
@@ -229,7 +269,9 @@
     "number": 26,
     "q": "En el sistema de orientación terrestre, la longitud hace referencia a:",
     "options": [
-      "Línea de orientación paralela a la línea Meridiano de Greenwich y va de 0° a 180° hacia el oriente o hacia el occidente. Línea de orientación paralela a la línea Meridiano de Greenwich y va de 0° al oriente hasta los 180° al occidente. Línea de orientación paralela a la línea del Ecuador y va de 0° a 90° hacia el norte o hacia el sur."
+      "Línea de orientación paralela a la línea Meridiano de Greenwich y va de 0° a 180° hacia el oriente o hacia el occidente.",
+      "Línea de orientación paralela a la línea Meridiano de Greenwich y va de 0° al oriente hasta los 180° al occidente.",
+      "Línea de orientación paralela a la línea del Ecuador y va de 0° a 90° hacia el norte o hacia el sur."
     ],
     "correct": 0
   },
@@ -238,7 +280,9 @@
     "number": 27,
     "q": "Complete el siguiente enunciado con la palabra clave faltante: “Los paralelos son a la latitud como los meridianos a _______.”",
     "options": [
-      "La Altitud. La Longitud. La Línea Ecuatorial."
+      "La Altitud.",
+      "La Longitud.",
+      "La Línea Ecuatorial."
     ],
     "correct": 0
   },
@@ -247,7 +291,9 @@
     "number": 28,
     "q": "Complete el siguiente enunciado con las palabras clave en su orden respectivo: “La principal línea de referencia en los paralelos, es el ________ y en los meridianos es el _____________.”",
     "options": [
-      "Meridiano de Greenwich – Ecuador. Trópico de Capricornio – Círculo Polar Ártico. Ecuador – Meridiano de Greenwich."
+      "Meridiano de Greenwich – Ecuador.",
+      "Trópico de Capricornio – Círculo Polar Ártico.",
+      "Ecuador – Meridiano de Greenwich."
     ],
     "correct": 0
   },
@@ -256,7 +302,9 @@
     "number": 29,
     "q": "Con respecto a los meridianos seleccione las características correctas:",
     "options": [
-      "Nos dan la referencia para las estaciones climatológicas. Van del Polo Norte al Polo Sur y son semicírculos. No se emplean para determinar usos horarios."
+      "Nos dan la referencia para las estaciones climatológicas.",
+      "Van del Polo Norte al Polo Sur y son semicírculos.",
+      "No se emplean para determinar usos horarios."
     ],
     "correct": 0
   },
@@ -265,7 +313,9 @@
     "number": 30,
     "q": "¿Qué es el Meridiano de Greenwich?",
     "options": [
-      "Se le conoce como el Meridiano de Referencia o Meridiano 0, divide a la tierra en Longitud Este y Oeste y es la base de referencia para el Primer uso Horario (Hora ZULU). Se le conoce como el Meridiano de Referencia o Meridiano 1, divide a la tierra en Longitud Norte y Sur y es la base de referencia para el establecimiento de la hora local. Es una línea imaginaria que pasa por el Círculo Polar Ártico y Antártico y forma un ángulo de corte con el Ecuador de 90 grados."
+      "Se le conoce como el Meridiano de Referencia o Meridiano 0, divide a la tierra en Longitud Este y Oeste y es la base de referencia para el Primer uso Horario (Hora ZULU).",
+      "Se le conoce como el Meridiano de Referencia o Meridiano 1, divide a la tierra en Longitud Norte y Sur y es la base de referencia para el establecimiento de la hora local.",
+      "Es una línea imaginaria que pasa por el Círculo Polar Ártico y Antártico y forma un ángulo de corte con el Ecuador de 90 grados."
     ],
     "correct": 0
   },
@@ -274,7 +324,8 @@
     "number": 31,
     "q": "Las coordenadas geográficas son un sistema de referencia que permite que cada ubicación en la tierra sea especificada por un conjunto de números, letras o símbolos. Un conjunto representa una posición horizontal, y el otro conjunto una posición vertical. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -283,43 +334,51 @@
     "number": 32,
     "q": "Un sistema geodésico de coordenadas geográficas usado mundialmente es:",
     "options": [
-      "WPD84 WGS84 WPD30"
+      "WPD84",
+      "WGS84",
+      "WPD30"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Navegación Aérea",
     "number": 33,
     "q": "Un Formato de Coordenadas geográficas usado mundialmente es:",
     "options": [
-      "Grados, Décimas y Centésimas Grados, Minutos y Segundos Radianes y decimales"
+      "Grados, Décimas y Centésimas",
+      "Grados, Minutos y Segundos",
+      "Radianes y decimales"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Navegación Aérea",
     "number": 34,
     "q": "De las siguientes opciones, indique cuál es la coordenada correcta:",
     "options": [
-      "07°62’30”N 72°49’37”W 05°52’30”N 78°22’29”W 04°33’25”W 76°55’74”N"
+      "07°62’30”N 72°49’37”W",
+      "05°52’30”N 78°22’29”W",
+      "04°33’25”W 76°55’74”N"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Navegación Aérea",
     "number": 35,
     "q": "¿El Ecuador es el Meridiano más importante de la tierra, ya que divide a esta en dos hemisferios iguales?",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Navegación Aérea",
     "number": 36,
     "q": "¿La medida máxima de los Paralelos equivale a 90° al norte y 90° al sur y la de los Meridianos equivale a 180° al W y a 180° al E?",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -328,16 +387,19 @@
     "number": 37,
     "q": "¿El Norte Geográfico siempre corresponde al Norte Magnético?",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Navegación Aérea",
     "number": 38,
     "q": "¿Cómo se llama la diferencia entre el Norte Geográfico y el Norte Magnético?",
     "options": [
-      "Declinación Magnética. Variación Magnética. Corrección Magnética."
+      "Declinación Magnética.",
+      "Variación Magnética.",
+      "Corrección Magnética."
     ],
     "correct": 0
   },
@@ -346,7 +408,9 @@
     "number": 39,
     "q": "¿Qué son los ATZ?",
     "options": [
-      "Son espacios aéreos establecidos alrededor de un aeródromo, para la protección del tránsito aéreo de dicha pista. Son espacios aéreos establecidos para la protección de las radioayudas que emplean las aeronaves para poder llevar el control de su vuelo. Son espacios aéreos establecidos para la protección de las aproximaciones de las aeronaves en condiciones instrumentos a una pista de aterrizaje."
+      "Son espacios aéreos establecidos alrededor de un aeródromo, para la protección del tránsito aéreo de dicha pista.",
+      "Son espacios aéreos establecidos para la protección de las radioayudas que emplean las aeronaves para poder llevar el control de su vuelo.",
+      "Son espacios aéreos establecidos para la protección de las aproximaciones de las aeronaves en condiciones instrumentos a una pista de aterrizaje."
     ],
     "correct": 0
   },
@@ -355,25 +419,31 @@
     "number": 40,
     "q": "¿Qué es un TMA?",
     "options": [
-      "Son espacios aéreos establecidos para la protección de las aproximaciones de las aeronaves por instrumentos a una pista de aterrizaje. Son espacios aéreos establecidos para la recepción de la confluencia de aerovías. Son espacios aéreos establecidos para la protección del presidente."
+      "Son espacios aéreos establecidos para la protección de las aproximaciones de las aeronaves por instrumentos a una pista de aterrizaje.",
+      "Son espacios aéreos establecidos para la recepción de la confluencia de aerovías.",
+      "Son espacios aéreos establecidos para la protección del presidente."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Navegación Aérea",
     "number": 41,
     "q": "La siguiente definición corresponde a: “Espacio aéreo establecido alrededor de un aeródromo para la protección del tránsito de aeródromo.”",
     "options": [
-      "CTR TMA ATZ"
+      "CTR",
+      "TMA",
+      "ATZ"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Navegación Aérea",
     "number": 42,
     "q": "¿Qué significa la sigla ATZ?",
     "options": [
-      "Zona de Tráfico Aéreo de Aeródromo. Zona de Tráfico de Vehículos. Zona de Control de Tráfico Aéreo."
+      "Zona de Tráfico Aéreo de Aeródromo.",
+      "Zona de Tráfico de Vehículos.",
+      "Zona de Control de Tráfico Aéreo."
     ],
     "correct": 0
   },
@@ -382,7 +452,9 @@
     "number": 43,
     "q": "¿Qué significa la sigla CTR?",
     "options": [
-      "Región de concentración de Tráfico Aéreo. Región comunal de Tráfico Aéreo. Región de Control de Tráfico Aéreo."
+      "Región de concentración de Tráfico Aéreo.",
+      "Región comunal de Tráfico Aéreo.",
+      "Región de Control de Tráfico Aéreo."
     ],
     "correct": 0
   },
@@ -391,7 +463,9 @@
     "number": 44,
     "q": "¿Qué significa la sigla TMA?",
     "options": [
-      "Área Táctica de Maniobras. Área Terminal de Maniobras. Área transicional de Maniobras."
+      "Área Táctica de Maniobras.",
+      "Área Terminal de Maniobras.",
+      "Área transicional de Maniobras."
     ],
     "correct": 0
   },
@@ -400,7 +474,8 @@
     "number": 45,
     "q": "¿La sigla AWY significa “Air Way”?",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -409,7 +484,9 @@
     "number": 46,
     "q": "¿Qué significa la sigla FIR?",
     "options": [
-      "Región de Control Distante de Vuelo. Región de No Control de Vuelo. Región de Información de Vuelo."
+      "Región de Control Distante de Vuelo.",
+      "Región de No Control de Vuelo.",
+      "Región de Información de Vuelo."
     ],
     "correct": 0
   },
@@ -418,7 +495,9 @@
     "number": 47,
     "q": "La definición “porción de agua o tierra destinada al aterrizaje, despegue y movimiento de aeronaves en superficie” corresponde a:",
     "options": [
-      "Aeródromo. Área de aterrizaje. Pista."
+      "Aeródromo.",
+      "Área de aterrizaje.",
+      "Pista."
     ],
     "correct": 0
   },
@@ -427,16 +506,19 @@
     "number": 48,
     "q": "¿El espacio aéreo “FIR” es un espacio aéreo controlado?",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Navegación Aérea",
     "number": 49,
     "q": "¿Cuáles de los siguientes satélites son empleados por las UA para seguir las trayectorias de vuelo durante su operación aérea?",
     "options": [
-      "Observación de la tierra. Telecomunicaciones. Navegación."
+      "Observación de la tierra.",
+      "Telecomunicaciones.",
+      "Navegación."
     ],
     "correct": 0
   },
@@ -445,7 +527,9 @@
     "number": 50,
     "q": "¿Qué información de valor para el planeamiento de una operación de vuelo con UAS se puede obtener de las cartas de navegación?",
     "options": [
-      "Visualización de todas las áreas de operación. Información sobre áreas y rutas de aeronaves tripuladas, elevación del terreno y frecuencias. No tienen información relevante, no sirve de nada consultarlas."
+      "Visualización de todas las áreas de operación.",
+      "Información sobre áreas y rutas de aeronaves tripuladas, elevación del terreno y frecuencias.",
+      "No tienen información relevante, no sirve de nada consultarlas."
     ],
     "correct": 0
   },
@@ -454,7 +538,9 @@
     "number": 51,
     "q": "¿Qué es el “geofencing”?",
     "options": [
-      "Hace referencia a una cerca delimitando un perímetro virtual, el cual tiene su representación en un área geográfica del mundo real. Son las limitaciones que la casa matriz del dron coloca en su tarjeta madre para evitar accidentes con la aeronave por falta de pericia del piloto. Es una restricción virtual del dron que solo se puede utilizar cuando tengo un sistema GIS."
+      "Hace referencia a una cerca delimitando un perímetro virtual, el cual tiene su representación en un área geográfica del mundo real.",
+      "Son las limitaciones que la casa matriz del dron coloca en su tarjeta madre para evitar accidentes con la aeronave por falta de pericia del piloto.",
+      "Es una restricción virtual del dron que solo se puede utilizar cuando tengo un sistema GIS."
     ],
     "correct": 0
   },
@@ -463,7 +549,9 @@
     "number": 52,
     "q": "¿Qué significa la sigla “UTM”?",
     "options": [
-      "Por sus siglas en inglés Upper Traffic Management / Gestión de tráfico alto. Por sus siglas en inglés Unmanned Traffic Management / Gestión de tráfico aéreo no tripulado. Por sus siglas en inglés Unmanned Traffic Maintenance / Gestión de Mantenimiento de tráfico."
+      "Por sus siglas en inglés Upper Traffic Management / Gestión de tráfico alto.",
+      "Por sus siglas en inglés Unmanned Traffic Management / Gestión de tráfico aéreo no tripulado.",
+      "Por sus siglas en inglés Unmanned Traffic Maintenance / Gestión de Mantenimiento de tráfico."
     ],
     "correct": 0
   },
@@ -472,7 +560,9 @@
     "number": 53,
     "q": "¿Cuál de las siguientes opciones se ajusta más a la definición de UTM?",
     "options": [
-      "Es un sistema o plataforma digital colaborativa que permite integrar la gestión del espacio aéreo con las UAS. Es un sistema o plataforma análoga, no colaborativa que permite integrar la gestión administrativa para el control de los UAS a baja altura con limitaciones de seguridad y eficiencia en un espacio aéreo determinado. Es un formulario digital creado para permitir que los usuarios puedan gestionar sus solicitudes de vuelo con UAS y con celeridad ante la Autoridad Aeronáutica en un espacio aéreo determinado."
+      "Es un sistema o plataforma digital colaborativa que permite integrar la gestión del espacio aéreo con las UAS.",
+      "Es un sistema o plataforma análoga, no colaborativa que permite integrar la gestión administrativa para el control de los UAS a baja altura con limitaciones de seguridad y eficiencia en un espacio aéreo determinado.",
+      "Es un formulario digital creado para permitir que los usuarios puedan gestionar sus solicitudes de vuelo con UAS y con celeridad ante la Autoridad Aeronáutica en un espacio aéreo determinado."
     ],
     "correct": 0
   },
@@ -481,7 +571,9 @@
     "number": 54,
     "q": "¿Cuáles de las siguientes son funcionalidades del UTM? 1- Registro e identificación electrónica. 2- Geofencing. 3- Comunicaciones C2 aeronave – control. 4- Solicitudes de vuelo electrónicas. 5- Seguimiento radar de aeronaves.",
     "options": [
-      "Los numerales 1, 2 y 4 son correctos. Los numerales 3, 4 y 5 son correctos. Todos los numerales son correctos."
+      "Los numerales 1, 2 y 4 son correctos.",
+      "Los numerales 3, 4 y 5 son correctos.",
+      "Todos los numerales son correctos."
     ],
     "correct": 0
   }
