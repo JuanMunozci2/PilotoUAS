@@ -2762,18 +2762,18 @@
     "number": 35,
     "q": "¿El Ecuador es el Meridiano más importante de la tierra, ya que divide a esta en dos hemisferios iguales?",
     "options": [
-      "Verdadero Falso",
-      "---"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Navegación Aérea",
     "number": 36,
     "q": "¿La medida máxima de los Paralelos equivale a 90° al norte y 90° al sur y la de los Meridianos equivale a 180° al W y a 180° al E?",
     "options": [
-      "Verdadero Falso",
-      "---"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -2782,18 +2782,19 @@
     "number": 37,
     "q": "¿El Norte Geográfico siempre corresponde al Norte Magnético?",
     "options": [
-      "Verdadero Falso",
-      "---"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Navegación Aérea",
     "number": 38,
     "q": "¿Cómo se llama la diferencia entre el Norte Geográfico y el Norte Magnético?",
     "options": [
-      "Declinación Magnética. Variación Magnética. Corrección Magnética.",
-      "---"
+      "Declinación Magnética.",
+      "Variación Magnética.",
+      "Corrección Magnética."
     ],
     "correct": 0
   },
@@ -2802,8 +2803,9 @@
     "number": 39,
     "q": "¿Qué son los ATZ?",
     "options": [
-      "Son espacios aéreos establecidos alrededor de un aeródromo, para la protección del tránsito aéreo de dicha pista. Son espacios aéreos establecidos para la protección de las radioayudas que emplean las aeronaves para poder llevar el control de su vuelo. Son espacios aéreos establecidos para la protección de las aproximaciones de las aeronaves en condiciones instrumentos a una pista de aterrizaje.",
-      "---"
+      "Son espacios aéreos establecidos alrededor de un aeródromo, para la protección del tránsito aéreo de dicha pista.",
+      "Son espacios aéreos establecidos para la protección de las radioayudas que emplean las aeronaves para poder llevar el control de su vuelo.",
+      "Son espacios aéreos establecidos para la protección de las aproximaciones de las aeronaves en condiciones instrumentos a una pista de aterrizaje."
     ],
     "correct": 0
   },
@@ -2812,28 +2814,31 @@
     "number": 40,
     "q": "¿Qué es un TMA?",
     "options": [
-      "Son espacios aéreos establecidos para la protección de las aproximaciones de las aeronaves por instrumentos a una pista de aterrizaje. Son espacios aéreos establecidos para la recepción de la confluencia de aerovías. Son espacios aéreos establecidos para la protección del presidente.",
-      "---"
+      "Son espacios aéreos establecidos para la protección de las aproximaciones de las aeronaves por instrumentos a una pista de aterrizaje.",
+      "Son espacios aéreos establecidos para la recepción de la confluencia de aerovías.",
+      "Son espacios aéreos establecidos para la protección del presidente."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Navegación Aérea",
     "number": 41,
     "q": "La siguiente definición corresponde a: “Espacio aéreo establecido alrededor de un aeródromo para la protección del tránsito de aeródromo.”",
     "options": [
-      "CTR TMA ATZ",
-      "---"
+      "CTR",
+      "TMA",
+      "ATZ"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Navegación Aérea",
     "number": 42,
     "q": "¿Qué significa la sigla ATZ?",
     "options": [
-      "Zona de Tráfico Aéreo de Aeródromo. Zona de Tráfico de Vehículos. Zona de Control de Tráfico Aéreo.",
-      "---"
+      "Zona de Tráfico Aéreo de Aeródromo.",
+      "Zona de Tráfico de Vehículos.",
+      "Zona de Control de Tráfico Aéreo."
     ],
     "correct": 0
   },
@@ -2842,8 +2847,9 @@
     "number": 43,
     "q": "¿Qué significa la sigla CTR?",
     "options": [
-      "Región de concentración de Tráfico Aéreo. Región comunal de Tráfico Aéreo. Región de Control de Tráfico Aéreo.",
-      "---"
+      "Región de concentración de Tráfico Aéreo.",
+      "Región comunal de Tráfico Aéreo.",
+      "Región de Control de Tráfico Aéreo."
     ],
     "correct": 0
   },
@@ -2852,8 +2858,9 @@
     "number": 44,
     "q": "¿Qué significa la sigla TMA?",
     "options": [
-      "Área Táctica de Maniobras. Área Terminal de Maniobras. Área transicional de Maniobras.",
-      "---"
+      "Área Táctica de Maniobras.",
+      "Área Terminal de Maniobras.",
+      "Área transicional de Maniobras."
     ],
     "correct": 0
   },
@@ -2862,8 +2869,8 @@
     "number": 45,
     "q": "¿La sigla AWY significa “Air Way”?",
     "options": [
-      "Verdadero Falso",
-      "---"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -2872,8 +2879,9 @@
     "number": 46,
     "q": "¿Qué significa la sigla FIR?",
     "options": [
-      "Región de Control Distante de Vuelo. Región de No Control de Vuelo. Región de Información de Vuelo.",
-      "---"
+      "Región de Control Distante de Vuelo.",
+      "Región de No Control de Vuelo.",
+      "Región de Información de Vuelo."
     ],
     "correct": 0
   },
@@ -2882,8 +2890,9 @@
     "number": 47,
     "q": "La definición “porción de agua o tierra destinada al aterrizaje, despegue y movimiento de aeronaves en superficie” corresponde a:",
     "options": [
-      "Aeródromo. Área de aterrizaje. Pista.",
-      "---"
+      "Aeródromo.",
+      "Área de aterrizaje.",
+      "Pista."
     ],
     "correct": 0
   },
@@ -2892,18 +2901,19 @@
     "number": 48,
     "q": "¿El espacio aéreo “FIR” es un espacio aéreo controlado?",
     "options": [
-      "Verdadero Falso",
-      "---"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Navegación Aérea",
     "number": 49,
     "q": "¿Cuáles de los siguientes satélites son empleados por las UA para seguir las trayectorias de vuelo durante su operación aérea?",
     "options": [
-      "Observación de la tierra. Telecomunicaciones. Navegación.",
-      "---"
+      "Observación de la tierra.",
+      "Telecomunicaciones.",
+      "Navegación."
     ],
     "correct": 0
   },
@@ -2912,8 +2922,9 @@
     "number": 50,
     "q": "¿Qué información de valor para el planeamiento de una operación de vuelo con UAS se puede obtener de las cartas de navegación?",
     "options": [
-      "Visualización de todas las áreas de operación. Información sobre áreas y rutas de aeronaves tripuladas, elevación del terreno y frecuencias. No tienen información relevante, no sirve de nada consultarlas.",
-      "---"
+      "Visualización de todas las áreas de operación.",
+      "Información sobre áreas y rutas de aeronaves tripuladas, elevación del terreno y frecuencias.",
+      "No tienen información relevante, no sirve de nada consultarlas."
     ],
     "correct": 0
   },
@@ -2922,8 +2933,9 @@
     "number": 51,
     "q": "¿Qué es el “geofencing”?",
     "options": [
-      "Hace referencia a una cerca delimitando un perímetro virtual, el cual tiene su representación en un área geográfica del mundo real. Son las limitaciones que la casa matriz del dron coloca en su tarjeta madre para evitar accidentes con la aeronave por falta de pericia del piloto. Es una restricción virtual del dron que solo se puede utilizar cuando tengo un sistema GIS.",
-      "---"
+      "Hace referencia a una cerca delimitando un perímetro virtual, el cual tiene su representación en un área geográfica del mundo real.",
+      "Son las limitaciones que la casa matriz del dron coloca en su tarjeta madre para evitar accidentes con la aeronave por falta de pericia del piloto.",
+      "Es una restricción virtual del dron que solo se puede utilizar cuando tengo un sistema GIS."
     ],
     "correct": 0
   },
@@ -2932,8 +2944,9 @@
     "number": 52,
     "q": "¿Qué significa la sigla “UTM”?",
     "options": [
-      "Por sus siglas en inglés Upper Traffic Management / Gestión de tráfico alto. Por sus siglas en inglés Unmanned Traffic Management / Gestión de tráfico aéreo no tripulado. Por sus siglas en inglés Unmanned Traffic Maintenance / Gestión de Mantenimiento de tráfico.",
-      "---"
+      "Por sus siglas en inglés Upper Traffic Management / Gestión de tráfico alto.",
+      "Por sus siglas en inglés Unmanned Traffic Management / Gestión de tráfico aéreo no tripulado.",
+      "Por sus siglas en inglés Unmanned Traffic Maintenance / Gestión de Mantenimiento de tráfico."
     ],
     "correct": 0
   },
@@ -2942,8 +2955,9 @@
     "number": 53,
     "q": "¿Cuál de las siguientes opciones se ajusta más a la definición de UTM?",
     "options": [
-      "Es un sistema o plataforma digital colaborativa que permite integrar la gestión del espacio aéreo con las UAS. Es un sistema o plataforma análoga, no colaborativa que permite integrar la gestión administrativa para el control de los UAS a baja altura con limitaciones de seguridad y eficiencia en un espacio aéreo determinado. Es un formulario digital creado para permitir que los usuarios puedan gestionar sus solicitudes de vuelo con UAS y con celeridad ante la Autoridad Aeronáutica en un espacio aéreo determinado.",
-      "---"
+      "Es un sistema o plataforma digital colaborativa que permite integrar la gestión del espacio aéreo con las UAS.",
+      "Es un sistema o plataforma análoga, no colaborativa que permite integrar la gestión administrativa para el control de los UAS a baja altura con limitaciones de seguridad y eficiencia en un espacio aéreo determinado.",
+      "Es un formulario digital creado para permitir que los usuarios puedan gestionar sus solicitudes de vuelo con UAS y con celeridad ante la Autoridad Aeronáutica en un espacio aéreo determinado."
     ],
     "correct": 0
   },
@@ -2952,8 +2966,9 @@
     "number": 54,
     "q": "¿Cuáles de las siguientes son funcionalidades del UTM? 1- Registro e identificación electrónica. 2- Geofencing. 3- Comunicaciones C2 aeronave – control. 4- Solicitudes de vuelo electrónicas. 5- Seguimiento radar de aeronaves.",
     "options": [
-      "Los numerales 1, 2 y 4 son correctos. Los numerales 3, 4 y 5 son correctos. Todos los numerales son correctos.",
-      "---"
+      "Los numerales 1, 2 y 4 son correctos.",
+      "Los numerales 3, 4 y 5 son correctos.",
+      "Todos los numerales son correctos."
     ],
     "correct": 0
   },
@@ -2962,8 +2977,9 @@
     "number": 1,
     "q": "¿En qué bandas de frecuencias operan las comunicaciones aéreas?",
     "options": [
-      "VLF Muy Baja Frecuencia. VHF Muy Alta Frecuencia. UHF Ultra Alta Frecuencia.",
-      "---"
+      "VLF Muy Baja Frecuencia.",
+      "VHF Muy Alta Frecuencia.",
+      "UHF Ultra Alta Frecuencia."
     ],
     "correct": 0
   },
@@ -2972,8 +2988,9 @@
     "number": 2,
     "q": "¿Cuál es el dial de la frecuencia de emergencia aeronáutica?",
     "options": [
-      "118,0 MHz. 121,5 MHz. 122,9 KHz.",
-      "---"
+      "118,0 MHz.",
+      "121,5 MHz.",
+      "122,9 KHz."
     ],
     "correct": 0
   },
@@ -2982,8 +2999,9 @@
     "number": 3,
     "q": "¿En dónde se pueden verificar las frecuencias aeronáuticas de comunicación de un aeródromo?",
     "options": [
-      "En la carta aérea del ATM nacional. En las diferentes cartas aeronáuticas publicadas en el AIP – AD Aeródromo. Directamente en las instalaciones del aeródromo para confirmar su dial.",
-      "---"
+      "En la carta aérea del ATM nacional.",
+      "En las diferentes cartas aeronáuticas publicadas en el AIP – AD Aeródromo.",
+      "Directamente en las instalaciones del aeródromo para confirmar su dial."
     ],
     "correct": 0
   },
@@ -2992,8 +3010,9 @@
     "number": 4,
     "q": "¿Qué es interferencia?",
     "options": [
-      "Propagación de muchas ondas de radio. Intermitencia de una onda de frecuencia. Cuando dos señales en la misma onda se interrumpen entre sí.",
-      "---"
+      "Propagación de muchas ondas de radio.",
+      "Intermitencia de una onda de frecuencia.",
+      "Cuando dos señales en la misma onda se interrumpen entre sí."
     ],
     "correct": 0
   },
@@ -3002,8 +3021,9 @@
     "number": 5,
     "q": "¿Qué tipo de interferencias existen?",
     "options": [
-      "Ruido atmosférico. Ruido producido por el hombre. Las dos opciones son correctas.",
-      "---"
+      "Ruido atmosférico.",
+      "Ruido producido por el hombre.",
+      "Las dos opciones son correctas."
     ],
     "correct": 0
   },
@@ -3012,8 +3032,9 @@
     "number": 6,
     "q": "¿Cuál es el alfabeto utilizado para deletrear palabras en la aviación?",
     "options": [
-      "Código “Q” de comunicaciones. Lenguaje militar táctico. Alfabeto Fonético Internacional OACI.",
-      "---"
+      "Código “Q” de comunicaciones.",
+      "Lenguaje militar táctico.",
+      "Alfabeto Fonético Internacional OACI."
     ],
     "correct": 0
   },
@@ -3022,8 +3043,9 @@
     "number": 7,
     "q": "De acuerdo con el Alfabeto Fonético OACI, ¿cuál es el correcto deletreo de la palabra “VUELO”?",
     "options": [
-      "Vaca – Uva – Enano – Limón – Opera. Victor – Uniform – Eco – Lima – Oscar. Vision – Uniform – Eco – Liceo – Omar.",
-      "---"
+      "Vaca – Uva – Enano – Limón – Opera.",
+      "Victor – Uniform – Eco – Lima – Oscar.",
+      "Vision – Uniform – Eco – Liceo – Omar."
     ],
     "correct": 0
   },
@@ -3032,18 +3054,20 @@
     "number": 8,
     "q": "Según el alfabeto fonético de la OACI, la letra equis (x) se pronuncia:",
     "options": [
-      "Exruy Exrey Extrey",
-      "---"
+      "Exruy",
+      "Exrey",
+      "Extrey"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Comunicaciones Aeronáuticas",
     "number": 9,
     "q": "¿Cómo se verifica que la información suministrada por radio haya sido correctamente recibida?",
     "options": [
-      "Obturando el PTT tres veces al terminar el mensaje. Se debe colacionar la información. Respondiendo “RECIBIDO” al terminar de escucharla.",
-      "---"
+      "Obturando el PTT tres veces al terminar el mensaje.",
+      "Se debe colacionar la información.",
+      "Respondiendo “RECIBIDO” al terminar de escucharla."
     ],
     "correct": 0
   },
@@ -3052,8 +3076,9 @@
     "number": 10,
     "q": "¿Qué no puede existir en el proceso de la comunicación?",
     "options": [
-      "Dudas, confusión y ambigüedad. Que la información sea veraz. Que el idioma sea el mismo.",
-      "---"
+      "Dudas, confusión y ambigüedad.",
+      "Que la información sea veraz.",
+      "Que el idioma sea el mismo."
     ],
     "correct": 0
   },
@@ -3062,8 +3087,9 @@
     "number": 11,
     "q": "¿Qué significa PAN-PAN?",
     "options": [
-      "Señal de aviso de Urgencia. Señal de aviso de emergencia. Aviso de información aeronáutica.",
-      "---"
+      "Señal de aviso de Urgencia.",
+      "Señal de aviso de emergencia.",
+      "Aviso de información aeronáutica."
     ],
     "correct": 0
   },
@@ -3072,8 +3098,9 @@
     "number": 12,
     "q": "¿Qué significa MAY DAY - MAY DAY - MAY DAY?",
     "options": [
-      "Señal de aviso de Urgencia. Señal de aviso de emergencia. Aviso de información aeronáutica.",
-      "---"
+      "Señal de aviso de Urgencia.",
+      "Señal de aviso de emergencia.",
+      "Aviso de información aeronáutica."
     ],
     "correct": 0
   },
@@ -3082,8 +3109,9 @@
     "number": 13,
     "q": "Cuando una aeronave se encuentra en una situación de emergencia, radiotelefonicamente utiliza las palabras:",
     "options": [
-      "Mayday, mayday, mayday Pan, pan, pan Sos, sos, sos",
-      "---"
+      "Mayday, mayday, mayday",
+      "Pan, pan, pan",
+      "Sos, sos, sos"
     ],
     "correct": 0
   },
@@ -3092,18 +3120,20 @@
     "number": 14,
     "q": "Cuando una aeronave se encuentra en una situación de urgencia, radiotelefonicamente utiliza las palabras:",
     "options": [
-      "Mayday, mayday, mayday Pan, pan, pan Sos, sos, sos",
-      "---"
+      "Mayday, mayday, mayday",
+      "Pan, pan, pan",
+      "Sos, sos, sos"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Factores Humanos y Actuación Humana",
     "number": 1,
     "q": "¿Cuál de los siguientes factores humanos afecta significativamente la actuación en la aviación no tripulada?",
     "options": [
-      "Altitud. Fatiga. Peso de las antenas del control remoto.",
-      "---"
+      "Altitud.",
+      "Fatiga.",
+      "Peso de las antenas del control remoto."
     ],
     "correct": 0
   },
@@ -3112,8 +3142,9 @@
     "number": 2,
     "q": "¿Cuál es un ejemplo adecuado de la carga de trabajo en la aviación no tripulada?",
     "options": [
-      "La cantidad de combustible en un UAS. La demanda cognitiva y física impuesta a un piloto a distancia. El peso máximo que un UAS puede llevar.",
-      "---"
+      "La cantidad de combustible en un UAS.",
+      "La demanda cognitiva y física impuesta a un piloto a distancia.",
+      "El peso máximo que un UAS puede llevar."
     ],
     "correct": 0
   },
@@ -3122,8 +3153,9 @@
     "number": 3,
     "q": "¿Cuál es el fin de la capacitación en actuaciones humanas?",
     "options": [
-      "Para reducir los costos operativos. Para aumentar la velocidad de vuelo. Para tomar decisiones seguras y efectivas durante las operaciones.",
-      "---"
+      "Para reducir los costos operativos.",
+      "Para aumentar la velocidad de vuelo.",
+      "Para tomar decisiones seguras y efectivas durante las operaciones."
     ],
     "correct": 0
   },
@@ -3132,8 +3164,9 @@
     "number": 4,
     "q": "¿Una de las siguientes opciones que desempeñan los sistemas de apoyo digitales (app) a la decisión en la actuación humana con UAS?",
     "options": [
-      "Automatizan completamente las operaciones de UAS. Ayudan a los operadores y pilotos a tomar decisiones informadas. Realizan mantenimiento en tiempo real de los UAS.",
-      "---"
+      "Automatizan completamente las operaciones de UAS.",
+      "Ayudan a los operadores y pilotos a tomar decisiones informadas.",
+      "Realizan mantenimiento en tiempo real de los UAS."
     ],
     "correct": 0
   },
@@ -3142,8 +3175,9 @@
     "number": 5,
     "q": "¿Una de las consecuencias de cómo puede la fatiga afectar la actuación de los pilotos de UAS, es?",
     "options": [
-      "Aumentando la toma de decisiones efectivas por el cansancio. Mejorando la concentración en la medida que progresa el vuelo. Reduciendo la atención y el tiempo de reacción.",
-      "---"
+      "Aumentando la toma de decisiones efectivas por el cansancio.",
+      "Mejorando la concentración en la medida que progresa el vuelo.",
+      "Reduciendo la atención y el tiempo de reacción."
     ],
     "correct": 0
   },
@@ -3152,8 +3186,9 @@
     "number": 6,
     "q": "¿Cuál de las siguientes opciones no constituye un factor que afecte la carga de trabajo mental para los pilotos UAS en la aviación no tripulada?",
     "options": [
-      "Toma de decisiones. Demanda cognitiva. Altitud de vuelo.",
-      "---"
+      "Toma de decisiones.",
+      "Demanda cognitiva.",
+      "Altitud de vuelo."
     ],
     "correct": 0
   },
@@ -3162,8 +3197,9 @@
     "number": 7,
     "q": "¿Qué tipo de entrenamiento se debe fortalecer para mejorar la actuación del piloto a distancia en situaciones de emergencia en la operación de vuelo?",
     "options": [
-      "Entrenamiento físico intensivo (Gimnasio). Entrenamiento de resistencia (Ditching). Práctica de reacciones de emergencia en escenarios de entrenamiento.",
-      "---"
+      "Entrenamiento físico intensivo (Gimnasio).",
+      "Entrenamiento de resistencia (Ditching).",
+      "Práctica de reacciones de emergencia en escenarios de entrenamiento."
     ],
     "correct": 0
   },
@@ -3172,8 +3208,9 @@
     "number": 8,
     "q": "¿Qué tecnología ayuda a mitigar la carga de trabajo en los pilotos y operadores de UAS?",
     "options": [
-      "Inteligencia artificial y automatización. Cámaras de alta resolución. Sistema anticollision - ADS-B.",
-      "---"
+      "Inteligencia artificial y automatización.",
+      "Cámaras de alta resolución.",
+      "Sistema anticollision - ADS-B."
     ],
     "correct": 0
   },
@@ -3182,8 +3219,9 @@
     "number": 9,
     "q": "¿Qué impacto puede tener el estrés en la actuación de los pilotos y operadores de UAS?",
     "options": [
-      "Aumenta la adrenalina y propicia la claridad mental. Aumenta exponencialmente los errores y reduce la eficiencia. Facilita la comunicación y el nivel de concentración.",
-      "---"
+      "Aumenta la adrenalina y propicia la claridad mental.",
+      "Aumenta exponencialmente los errores y reduce la eficiencia.",
+      "Facilita la comunicación y el nivel de concentración."
     ],
     "correct": 0
   },
@@ -3192,8 +3230,9 @@
     "number": 10,
     "q": "¿Qué rol juegan las habilidades de liderazgo en la aviación no tripulada?",
     "options": [
-      "Son esenciales para los pilotos a distancia, pero no lo son para los operadores de UAS. Son importantes para la toma de decisiones y organización del equipo de trabajo. Solo son relevantes en operaciones militares.",
-      "---"
+      "Son esenciales para los pilotos a distancia, pero no lo son para los operadores de UAS.",
+      "Son importantes para la toma de decisiones y organización del equipo de trabajo.",
+      "Solo son relevantes en operaciones militares."
     ],
     "correct": 0
   },
@@ -3202,8 +3241,9 @@
     "number": 11,
     "q": "¿Cuál es la importancia de la comunicación entre el equipo de trabajo en la aviación no tripulada?",
     "options": [
-      "No es relevante, ya que los UAS operan de forma automática según la planificación del vuelo gestionada. Es vital para coordinar las operaciones y garantizar las acciones de seguridad operacional. La comunicación se utiliza sólo en situaciones de emergencia.",
-      "---"
+      "No es relevante, ya que los UAS operan de forma automática según la planificación del vuelo gestionada.",
+      "Es vital para coordinar las operaciones y garantizar las acciones de seguridad operacional.",
+      "La comunicación se utiliza sólo en situaciones de emergencia."
     ],
     "correct": 0
   },
@@ -3212,8 +3252,9 @@
     "number": 12,
     "q": "¿Cuál de los siguientes factores humanos es clave para la actuación segura en la aviación no tripulada?",
     "options": [
-      "La elección de rutas de vuelo. La capacitación del piloto. La velocidad del viento en vuelo.",
-      "---"
+      "La elección de rutas de vuelo.",
+      "La capacitación del piloto.",
+      "La velocidad del viento en vuelo."
     ],
     "correct": 0
   },
@@ -3222,8 +3263,9 @@
     "number": 13,
     "q": "¿Qué factor o comportamiento humano es fundamental para evitar la fatiga del piloto en operaciones de vuelo?",
     "options": [
-      "Cumplimiento de regulaciones de tiempo de vuelo y descanso. Realizar múltiples tareas durante el vuelo. Uso de estimulantes en la medida que el piloto los necesite.",
-      "---"
+      "Cumplimiento de regulaciones de tiempo de vuelo y descanso.",
+      "Realizar múltiples tareas durante el vuelo.",
+      "Uso de estimulantes en la medida que el piloto los necesite."
     ],
     "correct": 0
   },
@@ -3232,8 +3274,9 @@
     "number": 14,
     "q": "¿Qué es la ergonomía cognitiva aplicada a la aviación no tripulada?",
     "options": [
-      "Es el estudio de la postura de los operadores y pilotos cuando están en operaciones aéreas con sus aeronaves. Es el mejoramiento de la relación entre máquinas y personas para entrelazar factores como la comunicación, trabajo en equipo, percepción, memoria, razonamiento e interrelacionarlo con las capacidades cognitivas humanas de cada persona. Es el proceso de mejora de las condiciones y resistencia física de los pilotos y operadores de aeronaves no tripuladas.",
-      "---"
+      "Es el estudio de la postura de los operadores y pilotos cuando están en operaciones aéreas con sus aeronaves.",
+      "Es el mejoramiento de la relación entre máquinas y personas para entrelazar factores como la comunicación, trabajo en equipo, percepción, memoria, razonamiento e interrelacionarlo con las capacidades cognitivas humanas de cada persona.",
+      "Es el proceso de mejora de las condiciones y resistencia física de los pilotos y operadores de aeronaves no tripuladas."
     ],
     "correct": 0
   },
@@ -3242,8 +3285,9 @@
     "number": 15,
     "q": "¿Cómo puede colaborar la ergonomía cognitiva para mejorar la actuación en vuelo de un piloto a distancia de aeronaves no tripuladas?",
     "options": [
-      "Optimizando la interfaz de usuario de software. Diseñando asientos más cómodos para poder operar. Aumentando las cargas intelectuales de trabajo.",
-      "---"
+      "Optimizando la interfaz de usuario de software.",
+      "Diseñando asientos más cómodos para poder operar.",
+      "Aumentando las cargas intelectuales de trabajo."
     ],
     "correct": 0
   },
@@ -3252,8 +3296,9 @@
     "number": 16,
     "q": "¿De las siguientes apreciaciones cuáles constituyen falla humana en contra de la seguridad operacional?",
     "options": [
-      "Operar un dron desconociendo las regulaciones y legislaciones que aplican en el desarrollo de las operaciones de vuelo. Maniobrar mi dron de forma irresponsable y temeraria en espacios públicos y el empleo de sustancias psicoactivas en la realización de operaciones de vuelo. Todas las anteriores.",
-      "---"
+      "Operar un dron desconociendo las regulaciones y legislaciones que aplican en el desarrollo de las operaciones de vuelo.",
+      "Maniobrar mi dron de forma irresponsable y temeraria en espacios públicos y el empleo de sustancias psicoactivas en la realización de operaciones de vuelo.",
+      "Todas las anteriores."
     ],
     "correct": 0
   },
@@ -3262,8 +3307,9 @@
     "number": 17,
     "q": "¿Cuál es el propósito de las regulaciones de tiempo de vuelo y descanso en la aviación?",
     "options": [
-      "Aumentar la carga de trabajo de los operadores. Evitar la fatiga de los pilotos. Aumentar el tiempo de vuelo de los UAS.",
-      "---"
+      "Aumentar la carga de trabajo de los operadores.",
+      "Evitar la fatiga de los pilotos.",
+      "Aumentar el tiempo de vuelo de los UAS."
     ],
     "correct": 0
   },
@@ -3272,8 +3318,9 @@
     "number": 1,
     "q": "¿Cómo se traduce la sigla S.M.S. desde el contexto de la seguridad operacional?",
     "options": [
-      "Sistema de la seguridad mixta en operaciones. Manejo de riesgos para la seguridad operacional aérea. Sistema de gestión de la seguridad operacional.",
-      "---"
+      "Sistema de la seguridad mixta en operaciones.",
+      "Manejo de riesgos para la seguridad operacional aérea.",
+      "Sistema de gestión de la seguridad operacional."
     ],
     "correct": 0
   },
@@ -3282,8 +3329,9 @@
     "number": 2,
     "q": "Uno de los 4 componentes del SMS en la aviación aplicable a las UAS es:",
     "options": [
-      "Manual de calidad del sistema. Gestión del riesgo de la seguridad operacional. Manual de operaciones.",
-      "---"
+      "Manual de calidad del sistema.",
+      "Gestión del riesgo de la seguridad operacional.",
+      "Manual de operaciones."
     ],
     "correct": 0
   },
@@ -3292,8 +3340,9 @@
     "number": 3,
     "q": "Es el estado en el que los riesgos asociados a las actividades de aviación relativas a la operación de las aeronaves se reducen y controlan a un nivel aceptable. Esta definición corresponde al concepto de:",
     "options": [
-      "Nivel de aceptabilidad. Seguridad Operacional. Sistema de Gestión de Seguridad Operacional.",
-      "---"
+      "Nivel de aceptabilidad.",
+      "Seguridad Operacional.",
+      "Sistema de Gestión de Seguridad Operacional."
     ],
     "correct": 0
   },
@@ -3302,8 +3351,9 @@
     "number": 4,
     "q": "¿De qué consta la estructura del SMS?",
     "options": [
-      "Consta de cuatro (4) componentes y doce (12) elementos. Consta de doce (12) componentes y cuatro (4) elementos. Ninguna de las opciones es correcta.",
-      "---"
+      "Consta de cuatro (4) componentes y doce (12) elementos.",
+      "Consta de doce (12) componentes y cuatro (4) elementos.",
+      "Ninguna de las opciones es correcta."
     ],
     "correct": 0
   },
@@ -3312,8 +3362,9 @@
     "number": 5,
     "q": "¿Cuáles son los componentes del Sistema de Gestión de la Seguridad Operacional?",
     "options": [
-      "Alcances; Determinación de Peligros; Mantenimiento y Evaluación. Tareas Generales; Tareas específicas; Evaluación y Mejora. Política y Objetivos; Gestión de Riesgos; Aseguramiento y Promoción.",
-      "---"
+      "Alcances; Determinación de Peligros; Mantenimiento y Evaluación.",
+      "Tareas Generales; Tareas específicas; Evaluación y Mejora.",
+      "Política y Objetivos; Gestión de Riesgos; Aseguramiento y Promoción."
     ],
     "correct": 0
   },
