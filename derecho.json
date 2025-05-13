@@ -4,7 +4,8 @@
     "number": 1,
     "q": "La seguridad operacional en el espacio aéreo y la seguridad de las personas en tierra y su privacidad, son aspectos relevantes que se tienen en cuenta para el establecimiento de las Normas para aeronaves no tripuladas a nivel mundial. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -13,25 +14,31 @@
     "number": 2,
     "q": "¿Qué requisitos son básicos y se requiere cumplir para volar un UAS en el espacio aéreo de un país?",
     "options": [
-      "Ningún permiso ni licencia, ya que son no tripulados. Un registro del UAS y el cumplimiento de las regulaciones específicas. Sólo se pueden operar en áreas deshabitadas, sin regulaciones adicionales."
+      "Ningún permiso ni licencia, ya que son no tripulados.",
+      "Un registro del UAS y el cumplimiento de las regulaciones específicas.",
+      "Sólo se pueden operar en áreas deshabitadas, sin regulaciones adicionales."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Derecho Aéreo y Regulaciones",
     "number": 3,
     "q": "¿Cuál es uno de los propósitos principales de las regulaciones de UAS?",
     "options": [
-      "Restringir el acceso público a la tecnología de UAS. Garantizar la seguridad de las operaciones y proteger la integridad del espacio aéreo. Facilitar la adquisición de UAS por parte de particulares sin restricciones."
+      "Restringir el acceso público a la tecnología de UAS.",
+      "Garantizar la seguridad de las operaciones y proteger la integridad del espacio aéreo.",
+      "Facilitar la adquisición de UAS por parte de particulares sin restricciones."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Derecho Aéreo y Regulaciones",
     "number": 4,
     "q": "¿Cuál es la sigla del Organismo de Autoridad de la Aviación Civil a nivel mundial?",
     "options": [
-      "FAA. EASA. OACI."
+      "FAA.",
+      "EASA.",
+      "OACI."
     ],
     "correct": 0
   },
@@ -40,7 +47,9 @@
     "number": 5,
     "q": "¿Cuál es la sigla del Organismo de Autoridad de la Aviación Civil en Colombia?",
     "options": [
-      "AAAE. UAEAC. CIAC."
+      "AAAE.",
+      "UAEAC.",
+      "CIAC."
     ],
     "correct": 0
   },
@@ -49,7 +58,9 @@
     "number": 6,
     "q": "La normatividad aeronáutica válida en Colombia se encuentra compilada en:",
     "options": [
-      "NAN – Normatividad Aeronáutica Nacional. RAC – Reglamentos Aeronáuticos de Colombia. LAR – Reglamentos Aeronáuticos Latinoamericanos."
+      "NAN – Normatividad Aeronáutica Nacional.",
+      "RAC – Reglamentos Aeronáuticos de Colombia.",
+      "LAR – Reglamentos Aeronáuticos Latinoamericanos."
     ],
     "correct": 0
   },
@@ -58,7 +69,9 @@
     "number": 7,
     "q": "¿Cuál de las siguientes normas aplicables en Colombia regulan la actividad aérea con aeronaves no tripuladas?",
     "options": [
-      "RAC 100. RAC 61. Parte 101 y 102 de la OACI."
+      "RAC 100.",
+      "RAC 61.",
+      "Parte 101 y 102 de la OACI."
     ],
     "correct": 0
   },
@@ -67,52 +80,62 @@
     "number": 8,
     "q": "¿Cuál es el objetivo principal del marco normativo de la aviación mundial?",
     "options": [
-      "Ordena implementar la seguridad operacional más elevada posible para todos los estados sean signatarios o no. Lograr y conservar el nivel uniforme de seguridad operacional más elevado posible. Que los diferentes estados signatarios cumplan a cabalidad las reglamentaciones internacionales emitidas por la OACI."
+      "Ordena implementar la seguridad operacional más elevada posible para todos los estados sean signatarios o no.",
+      "Lograr y conservar el nivel uniforme de seguridad operacional más elevado posible.",
+      "Que los diferentes estados signatarios cumplan a cabalidad las reglamentaciones internacionales emitidas por la OACI."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Derecho Aéreo y Regulaciones",
     "number": 9,
     "q": "El Objetivo del marco normativo emitido por la OACI en sus 19 Anexos, radica específicamente en dar pautas de la reglamentación internacional aplicable a los estados signatarios, los cuales tienen que cumplir de forma obligatoria al pie de la letra. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Derecho Aéreo y Regulaciones",
     "number": 10,
     "q": "¿Cuál es el objetivo general y principal de los RAC?",
     "options": [
-      "Dar pautas para el desarrollo de toda la aviación en Colombia. Sugerir diferentes formas de operación aérea para organizar las actividades entre Aviación Civil y Aviación de Estado. Regular la actividad aérea civil en el país y proporcionar una base sólida y legal en las actuaciones administrativas y operativas propias de la aviación."
+      "Dar pautas para el desarrollo de toda la aviación en Colombia.",
+      "Sugerir diferentes formas de operación aérea para organizar las actividades entre Aviación Civil y Aviación de Estado.",
+      "Regular la actividad aérea civil en el país y proporcionar una base sólida y legal en las actuaciones administrativas y operativas propias de la aviación."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Derecho Aéreo y Regulaciones",
     "number": 11,
     "q": "¿Qué se entiende por la Sigla SARP’s?",
     "options": [
-      "Recopilación de Procedimientos, Normas y Métodos Ordenados para la Aviación Civil Internacional. Énfasis para la aplicación de Procedimientos, Normas y Métodos Asistidos para la Aviación Civil. Estudio de Procedimientos y Redacción de Normas y Métodos Recomendados para la Aviación Civil Internacional."
+      "Recopilación de Procedimientos, Normas y Métodos Ordenados para la Aviación Civil Internacional.",
+      "Énfasis para la aplicación de Procedimientos, Normas y Métodos Asistidos para la Aviación Civil.",
+      "Estudio de Procedimientos y Redacción de Normas y Métodos Recomendados para la Aviación Civil Internacional."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Derecho Aéreo y Regulaciones",
     "number": 12,
     "q": "¿Cuál es la relación entre las SARP’s de la OACI y las regulaciones nacionales de aviación?",
     "options": [
-      "Las SARP’s reemplazan por completo las regulaciones nacionales. Las SARP’s son recomendaciones y los estados pueden adoptarlas de manera voluntaria. Las SARP’s se aplican sólo a las aeronaves militares."
+      "Las SARP’s reemplazan por completo las regulaciones nacionales.",
+      "Las SARP’s son recomendaciones y los estados pueden adoptarlas de manera voluntaria.",
+      "Las SARP’s se aplican sólo a las aeronaves militares."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Derecho Aéreo y Regulaciones",
     "number": 13,
     "q": "La Reglamentación Aeronáutica Colombiana (RAC-100) se realizó en concordancia con los SARP’s emitidos por la OACI, y está determinada para mantenimiento y preservación de la seguridad operacional con los más altos estándares. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -121,52 +144,61 @@
     "number": 14,
     "q": "¿Cuál de las siguientes legislaciones colombianas no requiere ser observada para el desarrollo de la Aviación No Tripulada en el país?",
     "options": [
-      "Código Nacional de Policía y Convivencia: Ley 1801/2016. Código Nacional de Tránsito: Ley 769 de 2002. Código de Comercio de Colombia: Decreto 410/1971."
+      "Código Nacional de Policía y Convivencia: Ley 1801/2016.",
+      "Código Nacional de Tránsito: Ley 769 de 2002.",
+      "Código de Comercio de Colombia: Decreto 410/1971."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Derecho Aéreo y Regulaciones",
     "number": 15,
     "q": "El uso indebido o irresponsable de aeronaves no tripuladas, podrá ser sancionado únicamente por la Autoridad Aeronáutica competente. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Derecho Aéreo y Regulaciones",
     "number": 16,
     "q": "¿Qué aspecto importante relacionado con la aviación, debemos conocer sobre el Código del Comercio?",
     "options": [
-      "Los detalles de cómo regular nuestra actividad económica. Las cauciones que se deben formalizar para la actividad aérea comercial con aeronaves de peso inferior a 1000 kilogramos. Los deberes y Obligaciones contractuales como Explotador UAS."
+      "Los detalles de cómo regular nuestra actividad económica.",
+      "Las cauciones que se deben formalizar para la actividad aérea comercial con aeronaves de peso inferior a 1000 kilogramos.",
+      "Los deberes y Obligaciones contractuales como Explotador UAS."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Derecho Aéreo y Regulaciones",
     "number": 17,
     "q": "El Código del Comercio Indica que solamente aeronaves con peso superior a 1000 kilogramos deben constituir una caución (póliza) que garantice la indemnización por eventos aéreos (incidentes o accidentes) de los cuales se genere muerte, lesiones personales, daños y perjuicios a terceras personas. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Derecho Aéreo y Regulaciones",
     "number": 18,
     "q": "El Código del Comercio determina que para aeronaves con peso máximo hasta de 1000 kilogramos, se debe establecer una caución para la Indemnización de terceros en caso de muerte o lesiones personales. Este valor es el equivalente a:",
     "options": [
-      "30.300 kilogramos de oro puro. 33.333 gramos de oro puro. 33.333 libras de oro puro."
+      "30.300 kilogramos de oro puro.",
+      "33.333 gramos de oro puro.",
+      "33.333 libras de oro puro."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Derecho Aéreo y Regulaciones",
     "number": 19,
     "q": "En el proceso de autorización de solicitudes de vuelo UAS, la Aerocivil acepta pólizas RCE de aseguradoras internacionales por periodos inferiores a un año. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -175,7 +207,9 @@
     "number": 20,
     "q": "¿Qué condiciones o alcances debe tener una póliza internacional, para que sea aceptada por la Aerocivil en el proceso de autorización de solicitudes de vuelo de Aeronaves no tripuladas?",
     "options": [
-      "Debe indicar claramente que tiene cobertura en todo el territorio colombiano y que el beneficiario con la cobertura sea el mismo Explotador UAS inscrito. Indiquen las Horas y días de la cobertura. Debe traer una certificación de la empresa aseguradora donde detalle que las condiciones de la póliza están en conformidad con la Legislación del país donde se expide el documento."
+      "Debe indicar claramente que tiene cobertura en todo el territorio colombiano y que el beneficiario con la cobertura sea el mismo Explotador UAS inscrito.",
+      "Indiquen las Horas y días de la cobertura.",
+      "Debe traer una certificación de la empresa aseguradora donde detalle que las condiciones de la póliza están en conformidad con la Legislación del país donde se expide el documento."
     ],
     "correct": 0
   },
@@ -184,16 +218,18 @@
     "number": 21,
     "q": "Para vuelos realizados con aeronaves no tripuladas en la categoría “abierta” la Aerocivil ordena que los operadores de UAS cuenten con una póliza de cubrimiento por daños a terceros producidos como consecuencia de una operación aérea. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Derecho Aéreo y Regulaciones",
     "number": 22,
     "q": "De acuerdo con lo estipulado en la Ley 1801/2016 “Código Nacional de Policía y Convivencia”, las autoridades competentes y actividad de policía podrán suspender e incautar una aeronave no tripulada, cuando con ella se estén infringiendo normas legales. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -202,16 +238,19 @@
     "number": 23,
     "q": "¿Cuál de las siguientes opciones es la más acertada en relación con la privacidad al operar un UAS?",
     "options": [
-      "No existe ninguna consideración de privacidad, ya que no tienen tripulación a bordo. Debe obtenerse el consentimiento por escrito de todas las personas que se encuentren en la cercanía antes de operarlo. Respetar la privacidad de las personas y evitar la vigilancia no autorizada."
+      "No existe ninguna consideración de privacidad, ya que no tienen tripulación a bordo.",
+      "Debe obtenerse el consentimiento por escrito de todas las personas que se encuentren en la cercanía antes de operarlo.",
+      "Respetar la privacidad de las personas y evitar la vigilancia no autorizada."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Derecho Aéreo y Regulaciones",
     "number": 24,
     "q": "De acuerdo con lo estipulado en la Ley 1523/2012 Sistema Nacional de Gestión del Riesgo de Desastres, un piloto de UAS que realice vuelos de asistencia AID con aeronaves no tripuladas en el sitio del desastre, debe ostentar la capacitación requerida y suficiente para estar desarrollando esta labor. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -220,7 +259,9 @@
     "number": 25,
     "q": "¿Qué es el PMU?",
     "options": [
-      "Puesto de Mando Unificado. Hace referencia al lugar físico donde se concentra e implementa la coordinación para asuntos operacionales de un determinado incidente o evento. Puesto Mandatorio Universal. Se refiere al lugar físico donde se concentra e implementan los vehículos y ayudas humanitarias para asuntos de un determinado incidente o evento. Es la Jerarquía de los organismos estatales que se convocan para solucionar asuntos operacionales de un determinado incidente o evento."
+      "Puesto de Mando Unificado. Hace referencia al lugar físico donde se concentra e implementa la coordinación para asuntos operacionales de un determinado incidente o evento.",
+      "Puesto Mandatorio Universal. Se refiere al lugar físico donde se concentra e implementan los vehículos y ayudas humanitarias para asuntos de un determinado incidente o evento.",
+      "Es la Jerarquía de los organismos estatales que se convocan para solucionar asuntos operacionales de un determinado incidente o evento."
     ],
     "correct": 0
   },
@@ -229,16 +270,19 @@
     "number": 26,
     "q": "De acuerdo con la Ley 356/1994, “Estatuto de Seguridad y Vigilancia Privada” Toda empresa de vigilancia que realice actividades con UAS, requiere:",
     "options": [
-      "Pedir permiso de operación aérea a la Superintendencia de seguridad y vigilancia privada. Tener un permiso de la Superintendencia de seguridad y vigilancia privada para el empleo de facilidades tecnológicas aprobadas. Que el gerente General haya realizado un curso de operación de aeronaves no tripuladas."
+      "Pedir permiso de operación aérea a la Superintendencia de seguridad y vigilancia privada.",
+      "Tener un permiso de la Superintendencia de seguridad y vigilancia privada para el empleo de facilidades tecnológicas aprobadas.",
+      "Que el gerente General haya realizado un curso de operación de aeronaves no tripuladas."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Derecho Aéreo y Regulaciones",
     "number": 27,
     "q": "Una empresa de seguridad y vigilancia privada que emplee UAS en el desarrollo de su objeto social, debe tener el debido permiso expedido por la Superintendencia de Seguridad y Vigilancia Privada para su uso. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -247,7 +291,8 @@
     "number": 28,
     "q": "A los pilotos UAS que violen o incumplan las normas establecidas en los RAC, les aplica lo dispuesto en el RAC 13 “Régimen sancionatorio”. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -256,7 +301,9 @@
     "number": 29,
     "q": "¿Qué significa la Sigla “OACI”?",
     "options": [
-      "Organización Internacional de Aviación Civil. Conglomerado de las Naciones para la Aviación Civil. Convención de Aviación Civil Internacional."
+      "Organización Internacional de Aviación Civil.",
+      "Conglomerado de las Naciones para la Aviación Civil.",
+      "Convención de Aviación Civil Internacional."
     ],
     "correct": 0
   },
@@ -265,7 +312,8 @@
     "number": 30,
     "q": "La OACI tiene potestad sobre los Estados miembros para realizar acciones punitivas por incumplimiento a las normas aeronáuticas proferidas por ellos. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -274,16 +322,18 @@
     "number": 31,
     "q": "De acuerdo al RAC 91, es adecuado emplear sustancias como Alcohol y Alucinógenos, ya que éstas no representan un uso problemático en las actividades de vuelo. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Derecho Aéreo y Regulaciones",
     "number": 32,
     "q": "En una aeronave no tripulada, no es permitido realizar trabajos en la modificación del diseño original de la aeronave, que afecten el centro de gravedad o las características de vuelo de dicha aeronave sin permiso del fabricante. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -292,7 +342,8 @@
     "number": 33,
     "q": "Los documentos de la OACI nombrados Partes 101 y 102 del 2020, establecen un modelo de reglamentación para UAS de Categoría abierta y Categoría específica que sugiere la OACI, para que adopten los Estados miembros para el control de este tipo de aviación. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -301,7 +352,9 @@
     "number": 34,
     "q": "¿Qué significa la sigla UAEAC?",
     "options": [
-      "Agencia Administrativa Estatal de Aerodinámica Civil. Unidad Administrativa Especial de Aeronáutica Civil. Ninguna de las anteriores."
+      "Agencia Administrativa Estatal de Aerodinámica Civil.",
+      "Unidad Administrativa Especial de Aeronáutica Civil.",
+      "Ninguna de las anteriores."
     ],
     "correct": 0
   },
@@ -310,7 +363,9 @@
     "number": 35,
     "q": "¿Cuál de los siguientes, es un documento que ha publicado la Aerocivil para el control de la Aviación no tripulada en Colombia?",
     "options": [
-      "Circular 008/2014 (Requisitos Generales de Aeronavegabilidad y operaciones para RPAS). Resolución 02401/2017 – Apéndice 11 RAC 90- (Operación de Sistemas de Aeronaves Tripuladas UAS). Ninguna de las anteriores."
+      "Circular 008/2014 (Requisitos Generales de Aeronavegabilidad y operaciones para RPAS).",
+      "Resolución 02401/2017 – Apéndice 11 RAC 90- (Operación de Sistemas de Aeronaves Tripuladas UAS).",
+      "Ninguna de las anteriores."
     ],
     "correct": 0
   },
@@ -319,7 +374,9 @@
     "number": 36,
     "q": "¿Qué tipo de sanciones se pueden imponer la Aerocivil por el incumplimiento de las regulaciones para UAS?",
     "options": [
-      "Multas económicas e incluso acciones legales. Nada, ya que las regulaciones de UAS son puramente voluntarias. Pérdida de la licencia para conducirlos."
+      "Multas económicas e incluso acciones legales.",
+      "Nada, ya que las regulaciones de UAS son puramente voluntarias.",
+      "Pérdida de la licencia para conducirlos."
     ],
     "correct": 0
   },
@@ -328,16 +385,20 @@
     "number": 37,
     "q": "¿Qué RAC indica el régimen sancionatorio aplicado a los diferentes Explotadores aéreos por cometer actos ilícitos o que vayan en contra de los Reglamentos Aeronáuticos de Colombia?",
     "options": [
-      "RAC 91 RAC 13 RAC 141"
+      "RAC 91",
+      "RAC 13",
+      "RAC 141"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Derecho Aéreo y Regulaciones",
     "number": 38,
     "q": "¿Cuál de las siguientes opciones constituye una violación expresa de las normas?",
     "options": [
-      "Volar en los parámetros de autorización emitidos por la Autoridad Aeronáutica. Volar desconociendo el espacio aéreo en donde estoy volando. Extralimitar las restricciones e indicaciones descritas en la autorización de vuelo."
+      "Volar en los parámetros de autorización emitidos por la Autoridad Aeronáutica.",
+      "Volar desconociendo el espacio aéreo en donde estoy volando.",
+      "Extralimitar las restricciones e indicaciones descritas en la autorización de vuelo."
     ],
     "correct": 0
   },
@@ -346,7 +407,9 @@
     "number": 39,
     "q": "De acuerdo con el RAC 13 “Infracciones Aeronáuticas” ¿Cuáles son los dos tipos de infracciones aeronáuticas que se le pueden imponer a un Explotador UAS que viole la reglamentación?",
     "options": [
-      "Infracciones generales e infracciones particulares. Infracciones de orden técnico e infracciones de orden administrativo. Infracciones de la norma y Sanciones del procedimiento."
+      "Infracciones generales e infracciones particulares.",
+      "Infracciones de orden técnico e infracciones de orden administrativo.",
+      "Infracciones de la norma y Sanciones del procedimiento."
     ],
     "correct": 0
   },
@@ -355,7 +418,9 @@
     "number": 40,
     "q": "Las Sanciones aeronáuticas impuestas por la Aerocivil, que tengan relación directa con acciones u omisiones que atenten contra la seguridad aérea y pongan en peligro la seguridad operacional de las aeronaves está considerada como una sanción:",
     "options": [
-      "De Orden nacional De Orden Técnico. De Orden Gerencial"
+      "De Orden nacional",
+      "De Orden Técnico.",
+      "De Orden Gerencial"
     ],
     "correct": 0
   },
@@ -364,8 +429,9 @@
     "number": 41,
     "q": "La Policía Nacional puede suspender o impedir todas aquellas actividades con UAS o incautar los dispositivos de aeronaves no tripuladas, cuando con ellos no se estén violando ninguna de las normas o leyes legales del país. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   }
 ]
