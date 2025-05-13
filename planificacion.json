@@ -4,16 +4,20 @@
     "number": 1,
     "q": "¿Qué se entiende por la palabra NOTAM?",
     "options": [
-      "Noticias para el hombre del mar Informes operacionales Noticias para el hombre del aire"
+      "Noticias para el hombre del mar",
+      "Informes operacionales",
+      "Noticias para el hombre del aire"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Planificación de Vuelo",
     "number": 2,
     "q": "¿Qué entendemos por AIP?",
     "options": [
-      "Publicación de Información Aeronáutica Airdrome Instrument Procedures Aplicación Informativa Periódica"
+      "Publicación de Información Aeronáutica",
+      "Airdrome Instrument Procedures",
+      "Aplicación Informativa Periódica"
     ],
     "correct": 0
   },
@@ -22,34 +26,42 @@
     "number": 3,
     "q": "¿Qué limitaciones de la UA debemos contemplar en la planificación del vuelo de una UA?",
     "options": [
-      "Estados de ansiedad del piloto u operador Limitaciones de seguridad: Altura Máxima, Distancia Máxima, rango de operación y PMBO Limitaciones físicas y psicológicas del piloto"
+      "Estados de ansiedad del piloto u operador",
+      "Limitaciones de seguridad: Altura Máxima, Distancia Máxima, rango de operación y PMBO",
+      "Limitaciones físicas y psicológicas del piloto"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Planificación de Vuelo",
     "number": 4,
     "q": "Con respecto a los Espacios Aéreos, ¿Cuál es una buena práctica que se debe tener en cuenta antes de planificar un vuelo?",
     "options": [
-      "Revisar la meteorología, para estar seguros de contar con las condiciones favorables para nuestro vuelo Revisar las condiciones normativas, para poder realizar el permiso de vuelo acorde con el trabajo que se requiere hacer Revisar el área de la maniobra aérea en donde vamos a volar, para poder determinar si podríamos estar incurriendo en algún área de control o zona especial"
+      "Revisar la meteorología, para estar seguros de contar con las condiciones favorables para nuestro vuelo",
+      "Revisar las condiciones normativas, para poder realizar el permiso de vuelo acorde con el trabajo que se requiere hacer",
+      "Revisar el área de la maniobra aérea en donde vamos a volar, para poder determinar si podríamos estar incurriendo en algún área de control o zona especial"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Planificación de Vuelo",
     "number": 5,
     "q": "¿Cuál de las siguientes tareas no corresponde a una actividad de preparación operacional de un vuelo UAS?",
     "options": [
-      "Analizar los espacios aéreos y zonas de control Reunión final del vuelo Diseño de las misiones de vuelo y ciclos de baterías"
+      "Analizar los espacios aéreos y zonas de control",
+      "Reunión final del vuelo",
+      "Diseño de las misiones de vuelo y ciclos de baterías"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Planificación de Vuelo",
     "number": 6,
     "q": "De las siguientes, ¿Cuáles son las prácticas que contribuyen a la seguridad operacional del vuelo en la operación con UAS, y que todo piloto debe aplicar?",
     "options": [
-      "Capacitación y Certificación; Planificación de Vuelo y Mantenimiento Regular Comprobaciones Post-Vuelo Entrega de Trabajo Final y Reporte de misión cumplida"
+      "Capacitación y Certificación; Planificación de Vuelo y Mantenimiento Regular",
+      "Comprobaciones Post-Vuelo",
+      "Entrega de Trabajo Final y Reporte de misión cumplida"
     ],
     "correct": 0
   },
@@ -58,16 +70,19 @@
     "number": 7,
     "q": "De las siguientes, ¿Cuáles son las prácticas que contribuyen a la seguridad operacional de vuelo en la operación con UAS, y que todo piloto debe aplicar?",
     "options": [
-      "Actualización de Firmware y Software; Plan de Emergencia Seguimiento Visual; Gestión de la Batería Todas las opciones son correctas"
+      "Actualización de Firmware y Software; Plan de Emergencia",
+      "Seguimiento Visual; Gestión de la Batería",
+      "Todas las opciones son correctas"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Planificación de Vuelo",
     "number": 8,
     "q": "Las limitaciones operacionales están dadas por las características técnicas de la aeronave, el pronóstico meteorológico y el diseño de las maniobras de vuelo para evitar las condiciones de riesgo. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -76,25 +91,31 @@
     "number": 9,
     "q": "¿Cuál de las siguientes consideraciones es crucial al planificar un vuelo con un UAS en cercanías de una zona urbana?",
     "options": [
-      "La altitud máxima permitida La densidad de población y el espacio aéreo La capacidad de carga de la aeronave"
+      "La altitud máxima permitida",
+      "La densidad de población y el espacio aéreo",
+      "La capacidad de carga de la aeronave"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Planificación de Vuelo",
     "number": 10,
     "q": "¿Cuál es el objetivo principal de la seguridad en la aviación no tripulada?",
     "options": [
-      "Garantizar la seguridad de las operaciones de drones y su integración segura en el espacio aéreo Promover una cultura de seguridad y cumplimiento de las regulaciones Las dos opciones son correctas"
+      "Garantizar la seguridad de las operaciones de drones y su integración segura en el espacio aéreo",
+      "Promover una cultura de seguridad y cumplimiento de las regulaciones",
+      "Las dos opciones son correctas"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Planificación de Vuelo",
     "number": 11,
     "q": "¿Cuál es el propósito principal de una operación de vuelo UAS?",
     "options": [
-      "Cumplir con los objetivos de la misión Garantizar que el dron tenga suficiente combustible Definir las restricciones de altura máxima"
+      "Cumplir con los objetivos de la misión",
+      "Garantizar que el dron tenga suficiente combustible",
+      "Definir las restricciones de altura máxima"
     ],
     "correct": 0
   },
@@ -103,16 +124,20 @@
     "number": 12,
     "q": "Algunos requisitos qué se debe incluir en una solicitud de autorización de vuelo de UAS, son:",
     "options": [
-      "Color de equipamiento del personal operacional en campo El equipo de protección personal del piloto UAS La información del análisis de riesgo – SMS, áreas geográficas de vuelo, Tipo y modelo de aeronave UA, Pilotos UA"
+      "Color de equipamiento del personal operacional en campo",
+      "El equipo de protección personal del piloto UAS",
+      "La información del análisis de riesgo – SMS, áreas geográficas de vuelo, Tipo y modelo de aeronave UA, Pilotos UA"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Planificación de Vuelo",
     "number": 13,
     "q": "¿Por qué es importante conocer, entender y verificar la regulación antes de planificar un vuelo con un UAS?",
     "options": [
-      "Para evitar violaciones de las restricciones consignadas en la norma, de espacio aéreo y maximizar la seguridad operacional Para asegurarse de que la aeronave pueda cumplir con las restricciones determinadas en la norma Para determinar el precio de las tarifas que nos pueden aplicar por el trámite administrativo y operacional de nuestro UA"
+      "Para evitar violaciones de las restricciones consignadas en la norma, de espacio aéreo y maximizar la seguridad operacional",
+      "Para asegurarse de que la aeronave pueda cumplir con las restricciones determinadas en la norma",
+      "Para determinar el precio de las tarifas que nos pueden aplicar por el trámite administrativo y operacional de nuestro UA"
     ],
     "correct": 0
   },
@@ -121,16 +146,20 @@
     "number": 14,
     "q": "¿Cuál de las siguientes fuentes de información es esencial para planificar un vuelo seguro con un UAS?",
     "options": [
-      "Listados de actualizaciones de aeronaves no tripuladas expedidos por la página oficial del fabricante Diarios oficiales con las últimas noticias del país e Información económica que afecte los mercados de divisas Espacios Aéreos, pronóstico meteorológico actualizado y NOTAM’s de la localización general donde voy a realizar el vuelo, entre otros"
+      "Listados de actualizaciones de aeronaves no tripuladas expedidos por la página oficial del fabricante",
+      "Diarios oficiales con las últimas noticias del país e Información económica que afecte los mercados de divisas",
+      "Espacios Aéreos, pronóstico meteorológico actualizado y NOTAM’s de la localización general donde voy a realizar el vuelo, entre otros"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Planificación de Vuelo",
     "number": 15,
     "q": "¿Cuál no es una consideración al seleccionar una ubicación de despegue y aterrizaje para un UAS?",
     "options": [
-      "El color de la superficie del terreno El tiempo de vuelo que me da por la cantidad de baterías de cambio o combustible que tengo La dirección e intensidad del viento en ese momento del despegue"
+      "El color de la superficie del terreno",
+      "El tiempo de vuelo que me da por la cantidad de baterías de cambio o combustible que tengo",
+      "La dirección e intensidad del viento en ese momento del despegue"
     ],
     "correct": 0
   },
@@ -139,43 +168,52 @@
     "number": 16,
     "q": "De las Características Técnicas de una UA en cuanto a sus limitaciones operacionales, ¿Qué aspectos se deben tener en cuenta para poder realizar una excelente planificación de vuelo?",
     "options": [
-      "Velocidad Máxima, Autonomía de Vuelo y color de la aeronave UA FPV, Altura Máxima, EPP del piloto UA y Frecuencia de Operación Altura Máxima, Velocidad Máxima y PMBO"
+      "Velocidad Máxima, Autonomía de Vuelo y color de la aeronave UA",
+      "FPV, Altura Máxima, EPP del piloto UA y Frecuencia de Operación",
+      "Altura Máxima, Velocidad Máxima y PMBO"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Planificación de Vuelo",
     "number": 17,
     "q": "¿Cuáles son algunos de los aspectos qué debe verificar antes de encender una UA con el objetivo de volar?",
     "options": [
-      "Si está bien embalada en su contenedor Si se cuenta con la cantidad de baterías suficientes para poder concluir la misión El estado y la funcionalidad de la aeronave, incluyendo fuente de potencia y sensores"
+      "Si está bien embalada en su contenedor",
+      "Si se cuenta con la cantidad de baterías suficientes para poder concluir la misión",
+      "El estado y la funcionalidad de la aeronave, incluyendo fuente de potencia y sensores"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Planificación de Vuelo",
     "number": 18,
     "q": "¿Qué debe hacerse si se encuentra con condiciones meteorológicas adversas durante un vuelo con UAS?",
     "options": [
-      "Aumentar la velocidad para completar la misión rápidamente Aterrizar de manera segura y suspender el vuelo hasta que las condiciones mejoren Llevar en vuelo el dron hacia una zona donde estén mejor las condiciones meteorológicas"
+      "Aumentar la velocidad para completar la misión rápidamente",
+      "Aterrizar de manera segura y suspender el vuelo hasta que las condiciones mejoren",
+      "Llevar en vuelo el dron hacia una zona donde estén mejor las condiciones meteorológicas"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Planificación de Vuelo",
     "number": 19,
     "q": "¿Cuál es una consideración al desarrollar una misión de vuelo con un UAS que requiera operar cerca de aeropuertos o helipuertos?",
     "options": [
-      "Aumentar la altitud de la UA para evitar colisiones y tener la capacidad de realizar maniobras evasivas rápidas Realizar un CDM (si aplica) y obtener los permisos especiales correspondientes de la autoridad aeronáutica Contar con un sistema de mantenimiento en tiempo real para la UA"
+      "Aumentar la altitud de la UA para evitar colisiones y tener la capacidad de realizar maniobras evasivas rápidas",
+      "Realizar un CDM (si aplica) y obtener los permisos especiales correspondientes de la autoridad aeronáutica",
+      "Contar con un sistema de mantenimiento en tiempo real para la UA"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Planificación de Vuelo",
     "number": 20,
     "q": "El propósito principal de consultar los NOTAM’s de un sector específico en relación con mi planificación del vuelo con UAS, es enterarme de las alertas, restricciones del espacio aéreo y eventos especiales con suficiente anticipación. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -184,8 +222,9 @@
     "number": 21,
     "q": "El propósito principal de consultar los NOTAM’s de un sector específico en relación con mi planificación del vuelo con UAS, es enterarme de alertas de fenómenos meteorológicos permanentemente con suficiente anticipación. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   }
 ]
