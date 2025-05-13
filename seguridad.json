@@ -4,7 +4,9 @@
     "number": 1,
     "q": "¿Cómo se traduce la sigla S.M.S. desde el contexto de la seguridad operacional?",
     "options": [
-      "Sistema de la seguridad mixta en operaciones. Manejo de riesgos para la seguridad operacional aérea. Sistema de gestión de la seguridad operacional."
+      "Sistema de la seguridad mixta en operaciones.",
+      "Manejo de riesgos para la seguridad operacional aérea.",
+      "Sistema de gestión de la seguridad operacional."
     ],
     "correct": 0
   },
@@ -13,7 +15,9 @@
     "number": 2,
     "q": "Uno de los 4 componentes del SMS en la aviación aplicable a las UAS es:",
     "options": [
-      "Manual de calidad del sistema. Gestión del riesgo de la seguridad operacional. Manual de operaciones."
+      "Manual de calidad del sistema.",
+      "Gestión del riesgo de la seguridad operacional.",
+      "Manual de operaciones."
     ],
     "correct": 0
   },
@@ -22,7 +26,9 @@
     "number": 3,
     "q": "Es el estado en el que los riesgos asociados a las actividades de aviación relativas a la operación de las aeronaves se reducen y controlan a un nivel aceptable. Esta definición corresponde al concepto de:",
     "options": [
-      "Nivel de aceptabilidad. Seguridad Operacional. Sistema de Gestión de Seguridad Operacional."
+      "Nivel de aceptabilidad.",
+      "Seguridad Operacional.",
+      "Sistema de Gestión de Seguridad Operacional."
     ],
     "correct": 0
   },
@@ -31,7 +37,9 @@
     "number": 4,
     "q": "¿De qué consta la estructura del SMS?",
     "options": [
-      "Consta de cuatro (4) componentes y doce (12) elementos. Consta de doce (12) componentes y cuatro (4) elementos. Ninguna de las opciones es correcta."
+      "Consta de cuatro (4) componentes y doce (12) elementos.",
+      "Consta de doce (12) componentes y cuatro (4) elementos.",
+      "Ninguna de las opciones es correcta."
     ],
     "correct": 0
   },
@@ -40,7 +48,9 @@
     "number": 5,
     "q": "¿Cuáles son los componentes del Sistema de Gestión de la Seguridad Operacional?",
     "options": [
-      "Alcances; Determinación de Peligros; Mantenimiento y Evaluación. Tareas Generales; Tareas específicas; Evaluación y Mejora. Política y Objetivos; Gestión de Riesgos; Aseguramiento y Promoción."
+      "Alcances; Determinación de Peligros; Mantenimiento y Evaluación.",
+      "Tareas Generales; Tareas específicas; Evaluación y Mejora.",
+      "Política y Objetivos; Gestión de Riesgos; Aseguramiento y Promoción."
     ],
     "correct": 0
   },
@@ -49,52 +59,61 @@
     "number": 6,
     "q": "Dentro del componente de políticas y objetivos de la seguridad operacional, el SMS designa la responsabilidad de un ejecutivo de la Empresa.",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 7,
     "q": "EL SMS tiene alcance a __________ de la Empresa, quienes deben participar de manera directa e indirecta en las operaciones de aviación No tripulada.",
     "options": [
-      "Todo personal de pilotos Todo personal operativo Todo el personal"
+      "Todo personal de pilotos",
+      "Todo personal operativo",
+      "Todo el personal"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 8,
     "q": "En el SMS no es necesario que un Explotador UAS cuente con una política para comprometerse a su implementación y desarrollo del mismo. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 9,
     "q": "Un objetivo de la seguridad operacional que debe tener todo Explotador UAS debe ser:",
     "options": [
-      "Reducir y mitigar los riesgos operativos. Capacitar y mantener entrenado a todo el personal de la Empresa. Todas las anteriores."
+      "Reducir y mitigar los riesgos operativos.",
+      "Capacitar y mantener entrenado a todo el personal de la Empresa.",
+      "Todas las anteriores."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 10,
     "q": "La rendición de cuentas, es un elemento que no se considera en la implementación del SMS del Explotador UAS. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 11,
     "q": "La observación y medición del rendimiento en materia de seguridad operacional es un elemento del SMS, que invita a verificar el sistema mediante:",
     "options": [
-      "Estrategias, Indicadores y Metas de rendimiento. Indicadores y Metas de rendimientos. Estrategias e Indicadores."
+      "Estrategias, Indicadores y Metas de rendimiento.",
+      "Indicadores y Metas de rendimientos.",
+      "Estrategias e Indicadores."
     ],
     "correct": 0
   },
@@ -103,7 +122,8 @@
     "number": 12,
     "q": "Un análisis de riesgos realizado para un vuelo UAS, debe contemplar la gestión de riesgos de seguridad operacional del tipo de operación aérea UAS y la condición de vuelo que pretende realizar. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -112,16 +132,19 @@
     "number": 13,
     "q": "Un Incidente aéreo se puede identificar como un evento o suceso que involucra a una aeronave, por lo general no resulta en daños graves, lesiones o pérdidas significativas de vidas humanas ni en la destrucción sustancial de la aeronave.",
     "options": [
-      "Falso Verdadero"
+      "Falso",
+      "Verdadero"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 14,
     "q": "¿Cuál de las siguientes opciones, se ajusta más a la definición de accidente aéreo?",
     "options": [
-      "Todo suceso infortunado, no planificado relacionado con la utilización de una aeronave, entre el momento del inicio de los motores y el apagado de los motores con el ánimo de desplazarse y realizar un vuelo, en el cual cualquier persona sufre lesiones mortales o graves y la aeronave sufre daños considerables. Sucesos programados que, relacionados con la utilización de una aeronave en operación de vuelo, alteran la marcha normal de los acontecimientos y como consecuencia hay daños materiales y fatalidades entre las personas involucradas. Actuaciones inesperadas por parte del piloto que alteran la marcha normal de los acontecimientos y como consecuencia hay daños materiales y fatalidades entre las personas involucradas."
+      "Todo suceso infortunado, no planificado relacionado con la utilización de una aeronave, entre el momento del inicio de los motores y el apagado de los motores con el ánimo de desplazarse y realizar un vuelo, en el cual cualquier persona sufre lesiones mortales o graves y la aeronave sufre daños considerables.",
+      "Sucesos programados que, relacionados con la utilización de una aeronave en operación de vuelo, alteran la marcha normal de los acontecimientos y como consecuencia hay daños materiales y fatalidades entre las personas involucradas.",
+      "Actuaciones inesperadas por parte del piloto que alteran la marcha normal de los acontecimientos y como consecuencia hay daños materiales y fatalidades entre las personas involucradas."
     ],
     "correct": 0
   },
@@ -130,25 +153,31 @@
     "number": 15,
     "q": "¿Qué se busca con la implementación de la gestión de la Seguridad Operacional?",
     "options": [
-      "Busca el cumplimiento de las normas y procedimientos aeronáuticos, por parte de las aeronaves para evitar posibles colisiones en vuelo, preservando de esta forma la vida de las personas. Busca mitigar proactivamente riesgos de la seguridad operacional antes de que resulten en accidentes o incidentes de aviación. Las actividades de seguridad operacional se deben gestionar de una manera disciplinada, integral y enfocada. Busca que todas aquellas actuaciones de conciencia situacional, sean realizadas por todas las personas para evitar posibles problemas con las aeronaves."
+      "Busca el cumplimiento de las normas y procedimientos aeronáuticos, por parte de las aeronaves para evitar posibles colisiones en vuelo, preservando de esta forma la vida de las personas.",
+      "Busca mitigar proactivamente riesgos de la seguridad operacional antes de que resulten en accidentes o incidentes de aviación. Las actividades de seguridad operacional se deben gestionar de una manera disciplinada, integral y enfocada.",
+      "Busca que todas aquellas actuaciones de conciencia situacional, sean realizadas por todas las personas para evitar posibles problemas con las aeronaves."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 16,
     "q": "En general ¿Qué es un Sistema de Gestión de la Seguridad Operacional (SMS)?",
     "options": [
-      "Conjunto de reglamentos y acciones para evitar hurtos o pérdidas de equipo. Conjunto de reglamentos y acciones para mejorar la seguridad en la operación. Sistema para mejorar la seguridad física de las instalaciones."
+      "Conjunto de reglamentos y acciones para evitar hurtos o pérdidas de equipo.",
+      "Conjunto de reglamentos y acciones para mejorar la seguridad en la operación.",
+      "Sistema para mejorar la seguridad física de las instalaciones."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 17,
     "q": "¿Qué características tiene el SMS?",
     "options": [
-      "Estructurado, sistemático y proactivo. Reactivo, proactivo y predictivo. Analítica, reactiva y sancionatoria."
+      "Estructurado, sistemático y proactivo.",
+      "Reactivo, proactivo y predictivo.",
+      "Analítica, reactiva y sancionatoria."
     ],
     "correct": 0
   },
@@ -157,25 +186,31 @@
     "number": 18,
     "q": "La Empresa debe garantizar la cultura del reporte en el SMS y para ello debe realizar:",
     "options": [
-      "Procedimientos Manuales Capacitaciones"
+      "Procedimientos",
+      "Manuales",
+      "Capacitaciones"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 19,
     "q": "Parte del compromiso que debe tener el Explotador UAS en el SMS es el de:",
     "options": [
-      "Sancionar Promocionar la cultura del reporte Implementar protocolos"
+      "Sancionar",
+      "Promocionar la cultura del reporte",
+      "Implementar protocolos"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 20,
     "q": "El medio oficial de comunicación de la seguridad operacional que debe implementar el Explotador UAS, debe ser tan claro que garantice:",
     "options": [
-      "Que todo el personal conozca el SMS, con arreglo al puesto de trabajo que ocupe. Mantener en reserva la información crítica para la seguridad operacional. Las medidas de seguridad operacional que se tomen, son implementadas sin dar indicios del por qué se tomaron."
+      "Que todo el personal conozca el SMS, con arreglo al puesto de trabajo que ocupe.",
+      "Mantener en reserva la información crítica para la seguridad operacional.",
+      "Las medidas de seguridad operacional que se tomen, son implementadas sin dar indicios del por qué se tomaron."
     ],
     "correct": 0
   },
@@ -184,7 +219,8 @@
     "number": 21,
     "q": "La Empresa definirá y mantendrá un proceso para identificar los cambios que puedan afectar al nivel de riesgo de seguridad operacional asociado a sus operaciones UAS, así como para identificar y manejar los riesgos de seguridad operacional que puedan derivarse de esos cambios. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -193,7 +229,9 @@
     "number": 22,
     "q": "El SMS determina que se debe establecer un procedimiento interno de notificación e investigación de sucesos. Esto puede incluir los MOR que significa:",
     "options": [
-      "Reportes obligatorios de eventos Manejo oportuno de reportes Reportes operacionales mínimos"
+      "Reportes obligatorios de eventos",
+      "Manejo oportuno de reportes",
+      "Reportes operacionales mínimos"
     ],
     "correct": 0
   },
@@ -202,34 +240,42 @@
     "number": 23,
     "q": "Dentro del SMS se realizan revisiones periódicas a la operación para la identificación de peligros y la evaluación de riesgos. Participar en la gestión de los riesgos es responsabilidad de:",
     "options": [
-      "Los clientes Los auditores Los pilotos"
+      "Los clientes",
+      "Los auditores",
+      "Los pilotos"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 24,
     "q": "La Empresa deberá nombrar un __________ que será el responsable de la implementación y mantenimiento del SMS.",
     "options": [
-      "Coordinador aéreo Director del sistema Gerente de seguridad operacional"
+      "Coordinador aéreo",
+      "Director del sistema",
+      "Gerente de seguridad operacional"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 25,
     "q": "Es requisito de la norma, contar con documentación para el sistema SMS; entre otros con:",
     "options": [
-      "Código de SMS y Listas de Verificación Manual de SMS o Capítulo SMS Plan de SMS y Formato de registro de UAS"
+      "Código de SMS y Listas de Verificación",
+      "Manual de SMS o Capítulo SMS",
+      "Plan de SMS y Formato de registro de UAS"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 26,
     "q": "El establecimiento de forma correcta del SMS garantiza que las auditorías internas, la rendición de cuentas y el seguimiento a los planes, programas y procedimientos mediante indicadores, aporten:",
     "options": [
-      "Mejora continua y gestión del cambio Cumplimiento a los cronogramas Identificación de peligros"
+      "Mejora continua y gestión del cambio",
+      "Cumplimiento a los cronogramas",
+      "Identificación de peligros"
     ],
     "correct": 0
   },
@@ -238,25 +284,29 @@
     "number": 27,
     "q": "¿Cuáles son los métodos para la identificación de los peligros?",
     "options": [
-      "Método Descriptivo, Método Reactivo y Método Rotativo Método Predictivo, Método Proactivo y Método Reactivo Método Predictivo, Método descriptivo y Método Rotativo"
+      "Método Descriptivo, Método Reactivo y Método Rotativo",
+      "Método Predictivo, Método Proactivo y Método Reactivo",
+      "Método Predictivo, Método descriptivo y Método Rotativo"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 28,
     "q": "El método Predictivo para la identificación de los peligros, se enfoca en tomar medidas preventivas para reducir la probabilidad de que ocurran incidentes o accidentes. Esto implica la implementación de políticas, procedimientos y controles diseñados para mitigar riesgos conocidos o identificados. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 29,
     "q": "El método reactivo se aplica después de que ha ocurrido un incidente o accidente y se centra en responder a las situaciones de emergencia para tomar medidas correctivas y evitar que incidentes similares vuelvan a ocurrir en el futuro. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -265,7 +315,9 @@
     "number": 30,
     "q": "¿La definición más acertada de peligro en el contexto de la seguridad operacional es?",
     "options": [
-      "Condición u objeto que potencialmente puede causar lesiones al personal y/o daños o destrucción del equipo Condición nerviosa frente a una actividad Medida en términos de severidad y probabilidad que algo pueda ocurrir y sus consecuencias"
+      "Condición u objeto que potencialmente puede causar lesiones al personal y/o daños o destrucción del equipo",
+      "Condición nerviosa frente a una actividad",
+      "Medida en términos de severidad y probabilidad que algo pueda ocurrir y sus consecuencias"
     ],
     "correct": 0
   },
@@ -274,61 +326,73 @@
     "number": 31,
     "q": "El peligro es la evaluación de las consecuencias de la posibilidad de que el piloto no pueda controlar la aeronave expresada en términos de probabilidad y severidad. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 32,
     "q": "¿Cuáles son las fuentes más comunes para la identificación de peligros?",
     "options": [
-      "Reportes de Incidentes / Accidentes y Revisión de Documentación Investigaciones de Accidentes, Normativa / Regulaciones Todas las opciones"
+      "Reportes de Incidentes / Accidentes y Revisión de Documentación",
+      "Investigaciones de Accidentes, Normativa / Regulaciones",
+      "Todas las opciones"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 33,
     "q": "Defina qué es riesgo en el contexto de la seguridad operacional.",
     "options": [
-      "Condición nerviosa frente a una actividad Nivel de incertidumbre ante la ocurrencia de un suceso y que este pueda tener componentes perjudiciales Es la probabilidad y gravedad proyectada de la consecuencia o el resultado de una situación o peligro existente"
+      "Condición nerviosa frente a una actividad",
+      "Nivel de incertidumbre ante la ocurrencia de un suceso y que este pueda tener componentes perjudiciales",
+      "Es la probabilidad y gravedad proyectada de la consecuencia o el resultado de una situación o peligro existente"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 34,
     "q": "Los elementos del componente de gestión del riesgo del SMS son: identificación de peligros y evaluación y mitigación de seguridad operacional. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 35,
     "q": "El proceso de gestión de la Seguridad Operacional inicia con:",
     "options": [
-      "La obtención de los datos La implementación de las estrategias La identificación de los peligros"
+      "La obtención de los datos",
+      "La implementación de las estrategias",
+      "La identificación de los peligros"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 36,
     "q": "En el contexto de la seguridad operacional, la definición más acertada para “Probabilidad” es:",
     "options": [
-      "Posibles efectos de un evento o condición insegura Consecuencias de un riesgo Calificación de la frecuencia de posibilidad de que un evento ocurra"
+      "Posibles efectos de un evento o condición insegura",
+      "Consecuencias de un riesgo",
+      "Calificación de la frecuencia de posibilidad de que un evento ocurra"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 37,
     "q": "En el contexto de la seguridad operacional, ¿Qué es severidad del riesgo?",
     "options": [
-      "La calificación de las consecuencias posibles de un evento tomando como referencia el peor escenario previsible Consecuencias de un peligro Posibilidad que un evento no pueda ocurrir"
+      "La calificación de las consecuencias posibles de un evento tomando como referencia el peor escenario previsible",
+      "Consecuencias de un peligro",
+      "Posibilidad que un evento no pueda ocurrir"
     ],
     "correct": 0
   },
@@ -337,52 +401,64 @@
     "number": 38,
     "q": "En el contexto de la seguridad operacional, según la OACI, ¿Cuáles son las clases de severidad?",
     "options": [
-      "Depende del Explotador UAS la forma cómo sean determinadas Catastrófico, peligroso, mayor, menor, insignificante Frecuente, ocasional, remoto, improbable, extremadamente improbable"
+      "Depende del Explotador UAS la forma cómo sean determinadas",
+      "Catastrófico, peligroso, mayor, menor, insignificante",
+      "Frecuente, ocasional, remoto, improbable, extremadamente improbable"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 39,
     "q": "En el contexto de la Seguridad Operacional, ¿Qué es mitigación?",
     "options": [
-      "Reducir la posibilidad de daño por descuido Disminuir la actividad operacional Medidas que eliminan o reducen la probabilidad o severidad del riesgo"
+      "Reducir la posibilidad de daño por descuido",
+      "Disminuir la actividad operacional",
+      "Medidas que eliminan o reducen la probabilidad o severidad del riesgo"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 40,
     "q": "Los propósitos generales perseguidos por la implementación del SMS abarcan: 1-Protección de la seguridad pública e integración segura en el espacio aéreo 2-Protección de la privacidad y prevención de accidentes y daños 3-Gestión de riesgos y cumplimiento legal y regulatorio 4-Fomento de una cultura de seguridad e investigación y análisis de incidentes",
     "options": [
-      "Los numerales 1, 2 y 3 son correctos Todos los numerales son correctos Los numerales 2 y 3 son incorrectos"
+      "Los numerales 1, 2 y 3 son correctos",
+      "Todos los numerales son correctos",
+      "Los numerales 2 y 3 son incorrectos"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 41,
     "q": "¿Cuáles son los focos que promueven la Seguridad Operacional para la aviación en general, entre otros? 1-Gestión del Tráfico Aéreo y Colisiones en el Aire 2-Turbulencia y Condiciones Meteorológicas Adversas 3-Errores Humanos, Mantenimiento y Fiabilidad de las Aeronaves 4-Cultura de Seguridad y Cumplimiento de Regulaciones 5-Gestión de Crisis y Emergencias 6-Integración de Nuevas Tecnologías",
     "options": [
-      "Los numerales 2, 4 y 6 son correctos Todos los numerales son correctos Solamente los numerales 1 y 2 son correctos"
+      "Los numerales 2, 4 y 6 son correctos",
+      "Todos los numerales son correctos",
+      "Solamente los numerales 1 y 2 son correctos"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 42,
     "q": "¿Cuál es el objetivo de la Seguridad Operacional que se aborda con la capacitación adecuada y la gestión de la fatiga?",
     "options": [
-      "Gestión del Tránsito Aéreo Errores Humanos Cultura de Seguridad física"
+      "Gestión del Tránsito Aéreo",
+      "Errores Humanos",
+      "Cultura de Seguridad física"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 43,
     "q": "¿Cuál es el objetivo de la Seguridad Operacional que se aborda mediante la coordinación acertada del flujo de aeronaves y el garantizar un espacio aéreo seguro?",
     "options": [
-      "Gestión del Tránsito Aéreo Mantenimiento y Fiabilidad de las Aeronaves Cultura de Seguridad física"
+      "Gestión del Tránsito Aéreo",
+      "Mantenimiento y Fiabilidad de las Aeronaves",
+      "Cultura de Seguridad física"
     ],
     "correct": 0
   },
@@ -391,7 +467,9 @@
     "number": 44,
     "q": "El ABC del análisis del peligro, es:",
     "options": [
-      "Establecer el peligro genérico (formulación), identificar los componentes específicos del peligro o orientar a la tripulación para evitar los riesgos específicos. Establecer el riesgo específico (formulación), identificar los componentes de ese riesgo específico y orientar a la tripulación para evitar actividades que desencadenen en peligros. Identificar el peligro, analizar y calificar el riesgo, mitigar el riesgo."
+      "Establecer el peligro genérico (formulación), identificar los componentes específicos del peligro o orientar a la tripulación para evitar los riesgos específicos.",
+      "Establecer el riesgo específico (formulación), identificar los componentes de ese riesgo específico y orientar a la tripulación para evitar actividades que desencadenen en peligros.",
+      "Identificar el peligro, analizar y calificar el riesgo, mitigar el riesgo."
     ],
     "correct": 0
   },
@@ -400,16 +478,18 @@
     "number": 45,
     "q": "La información documentada no es considerada un proceso indispensable en el Sistema de Mitigación de la Seguridad Operacional. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Gestión de la Seguridad Operacional",
     "number": 46,
     "q": "La documentación de los peligros es una necesidad de estandarización al interior de la empresa y para ello incluye la definición y comprensión específica de un tipo de peligro, acompañado de su aplicación, reporte, medición y gestión específica del riesgo, como política de seguridad común y general. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -418,7 +498,8 @@
     "number": 47,
     "q": "La identificación de peligros es un proceso continuo del SMS; debe ser parte de un ciclo de mejora continua de la Seguridad Operacional. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -427,7 +508,9 @@
     "number": 48,
     "q": "En el contexto de la seguridad operacional, ¿Cuáles son las clases de severidad?",
     "options": [
-      "Depende del Explotador UAS el cómo sean determinadas Únicamente peligroso e insignificante Frecuente, ocasional, remoto, improbable, extremadamente improbable"
+      "Depende del Explotador UAS el cómo sean determinadas",
+      "Únicamente peligroso e insignificante",
+      "Frecuente, ocasional, remoto, improbable, extremadamente improbable"
     ],
     "correct": 0
   }
