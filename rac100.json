@@ -4,7 +4,9 @@
     "number": 1,
     "q": "¿Cuál es el título del RAC 100?",
     "options": [
-      "Generalidades de las Aeronaves No Tripuladas UAS. Reglamentación Operación De Sistemas De Aeronaves No Tripuladas UAS. Reglamento de Utilización de Aeronaves no Tripuladas UAS."
+      "Generalidades de las Aeronaves No Tripuladas UAS.",
+      "Reglamentación Operación De Sistemas De Aeronaves No Tripuladas UAS.",
+      "Reglamento de Utilización de Aeronaves no Tripuladas UAS."
     ],
     "correct": 0
   },
@@ -13,16 +15,20 @@
     "number": 2,
     "q": "¿Para quiénes aplica la reglamentación Operación De Sistemas De Aeronaves No Tripuladas UAS en Colombia?",
     "options": [
-      "Para toda persona natural o jurídica en el país y que realice operaciones con UAS con fines comerciales únicamente y para los CIAC y Aeroclubes que tengan previsto prestar servicios de capacitación y entrenamiento en la operación de UAS. Para aeronaves no tripuladas que realicen operaciones en territorio colombiano; y para cualquier tipo de centro de instrucción que tenga previsto prestar servicios de capacitación y entrenamiento en la operación de UAS. Para toda persona natural o jurídica, pública o privada, nacional o extranjera, que planee realizar operaciones con UAS (i) sin ánimo de lucro; (ii) con fines comerciales; y (iii) Todo CIAC o CEAC que tengan previsto prestar servicios de instrucción en la operación de UAS."
+      "Para toda persona natural o jurídica en el país y que realice operaciones con UAS con fines comerciales únicamente y para los CIAC y Aeroclubes que tengan previsto prestar servicios de capacitación y entrenamiento en la operación de UAS.",
+      "Para aeronaves no tripuladas que realicen operaciones en territorio colombiano; y para cualquier tipo de centro de instrucción que tenga previsto prestar servicios de capacitación y entrenamiento en la operación de UAS.",
+      "Para toda persona natural o jurídica, pública o privada, nacional o extranjera, que planee realizar operaciones con UAS (i) sin ánimo de lucro; (ii) con fines comerciales; y (iii) Todo CIAC o CEAC que tengan previsto prestar servicios de instrucción en la operación de UAS."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "RAC 100",
     "number": 3,
     "q": "El RAC 100 contiene los requisitos para:",
     "options": [
-      "Los impuestos legales para los UAS y equipos tecnológicos asociados a ellas. La obtención del certificado de idoneidad como piloto UAS. La obtención del permiso de funcionamiento de un Centro de Instrucción de UAS."
+      "Los impuestos legales para los UAS y equipos tecnológicos asociados a ellas.",
+      "La obtención del certificado de idoneidad como piloto UAS.",
+      "La obtención del permiso de funcionamiento de un Centro de Instrucción de UAS."
     ],
     "correct": 0
   },
@@ -31,7 +37,9 @@
     "number": 4,
     "q": "¿Qué ventaja tiene una UA Registrada?",
     "options": [
-      "Se pueden operar de forma legal. Son las únicas que pueden volar a 500ft AGL. Son las únicas que deben cumplir los RAC en general."
+      "Se pueden operar de forma legal.",
+      "Son las únicas que pueden volar a 500ft AGL.",
+      "Son las únicas que deben cumplir los RAC en general."
     ],
     "correct": 0
   },
@@ -40,7 +48,8 @@
     "number": 5,
     "q": "La Bitácora de Vuelo es documento donde se lleva el histórico de los vuelos realizados por una persona en formato libre, el cual debe contener como mínimo los siguientes datos: nombre del piloto UAS, fecha del vuelo, hora de despegue, tiempo total de vuelo y modelo del equipo UAS registrado. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -49,7 +58,8 @@
     "number": 6,
     "q": "El Certificado de Idoneidad de Piloto UAS es un documento expedido por la Aerocivil por medio del cual se otorgan a una persona privilegios para operar un UAS en la categoría específica. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -58,7 +68,8 @@
     "number": 7,
     "q": "El libro de vuelo y mantenimiento de una aeronave no tripulada es un documento de cada una de las Aeronaves No Tripuladas registradas ante la Aerocivil, en el cual se registran todos los datos, condiciones y reportes de vuelo, así como la información correspondiente a problemas de funcionamiento, y trabajos de mantenimiento realizados a cada UA. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -67,16 +78,20 @@
     "number": 8,
     "q": "¿Cuál de las siguientes postulaciones hace parte de la definición del Observador UA?",
     "options": [
-      "Es una persona común y corriente quien, mediante observación visual directa de la aeronave no tripulada, ayuda al Piloto UAS en la realización segura del vuelo, especialmente en operaciones VLOS. Es una persona capacitada y competente, quien, mediante observación visual directa de la aeronave no tripulada, ayuda al Piloto UAS en la realización segura del vuelo, especialmente en operaciones VLOS y EVLOS. Es cualquier persona designada por el Explotador UAS, para que acompañe al Piloto de UAS en la realización de un vuelo."
+      "Es una persona común y corriente quien, mediante observación visual directa de la aeronave no tripulada, ayuda al Piloto UAS en la realización segura del vuelo, especialmente en operaciones VLOS.",
+      "Es una persona capacitada y competente, quien, mediante observación visual directa de la aeronave no tripulada, ayuda al Piloto UAS en la realización segura del vuelo, especialmente en operaciones VLOS y EVLOS.",
+      "Es cualquier persona designada por el Explotador UAS, para que acompañe al Piloto de UAS en la realización de un vuelo."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 9,
     "q": "¿Qué significa la sigla VLOS?",
     "options": [
-      "Visual Line of Sight / Visibilidad en línea de vista Virtual Line of Sight / Visibilidad en línea de vista virtual Visual Line Operation Safety / Visibilidad en línea de vista de operación segura"
+      "Visual Line of Sight / Visibilidad en línea de vista",
+      "Virtual Line of Sight / Visibilidad en línea de vista virtual",
+      "Visual Line Operation Safety / Visibilidad en línea de vista de operación segura"
     ],
     "correct": 0
   },
@@ -85,7 +100,9 @@
     "number": 10,
     "q": "¿Qué significa la sigla BVLOS?",
     "options": [
-      "Beyond Virtual Line of Sight / Visibilidad más allá de la línea virtual de vista. Basic Visual Line Operation Safety / Visibilidad en línea básica de operación segura. Beyond Visual Line of Sight / Visibilidad más allá de la línea de vista."
+      "Beyond Virtual Line of Sight / Visibilidad más allá de la línea virtual de vista.",
+      "Basic Visual Line Operation Safety / Visibilidad en línea básica de operación segura.",
+      "Beyond Visual Line of Sight / Visibilidad más allá de la línea de vista."
     ],
     "correct": 0
   },
@@ -94,34 +111,39 @@
     "number": 11,
     "q": "¿Qué significa la sigla EVLOS?",
     "options": [
-      "Eventual Visual Line of Sight / Visibilidad en línea de vista eventual Extended Visual Line of Sight / Visibilidad en línea de vista extendida Extreme Visual Line Operation Safety / Visibilidad en línea de operación extrema segura"
+      "Eventual Visual Line of Sight / Visibilidad en línea de vista eventual",
+      "Extended Visual Line of Sight / Visibilidad en línea de vista extendida",
+      "Extreme Visual Line Operation Safety / Visibilidad en línea de operación extrema segura"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 12,
     "q": "En las operaciones en condiciones visuales VLOS, está permitido el uso de instrumentos electrónicos, mecánicos, electromagnéticos, ópticos y/o electroópticos para no perder de vista la aeronave en vuelo. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 13,
     "q": "La definición de EVLOS es: operación más allá de la línea de vista, en la cual el Piloto UAS opera un UAS sin mantener contacto visual directo con la UA. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 14,
     "q": "Un sistema tecnológico de gestión de vuelo UAS, es aquella plataforma que integra entre otras facilidades tecnológicas, la gestión en tiempo real la operación aérea de la(s) aeronave(s) no tripulada(s) de un sector específico, garantizando el control operacional del vuelo sobre un Sistema de Información Geográfica – GIS. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -130,16 +152,19 @@
     "number": 15,
     "q": "El Manual de Control de Mantenimiento, en pocas palabras es el mismo Manual del Fabricante. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 16,
     "q": "¿A quién se le denomina Operador UAS?",
     "options": [
-      "A la persona que manipula los mandos de control de una UA en Categoría Abierta durante el tiempo de vuelo de la misma, quien no cuenta con Certificado de Idoneidad como Piloto UAS. A la persona que manipula los mandos de control de una UA en cualquier categoría y quien conoce a profundidad el Manual del Usuario de la Aeronave. No se emplea el término “Operador UAS”, ya que la OACI no lo determina."
+      "A la persona que manipula los mandos de control de una UA en Categoría Abierta durante el tiempo de vuelo de la misma, quien no cuenta con Certificado de Idoneidad como Piloto UAS.",
+      "A la persona que manipula los mandos de control de una UA en cualquier categoría y quien conoce a profundidad el Manual del Usuario de la Aeronave.",
+      "No se emplea el término “Operador UAS”, ya que la OACI no lo determina."
     ],
     "correct": 0
   },
@@ -148,34 +173,41 @@
     "number": 17,
     "q": "¿Qué significa la sigla FPV?",
     "options": [
-      "Follow Plane View / seguimiento del plano visual Facultad Para Volar First Person View / Vista en primera personal"
+      "Follow Plane View / seguimiento del plano visual",
+      "Facultad Para Volar",
+      "First Person View / Vista en primera personal"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "RAC 100",
     "number": 18,
     "q": "La sigla ZNVD significa Zona Norte para Vuelo de Drones. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 19,
     "q": "¿Qué tipo de aeronaves no tripuladas deben registrarse en categoría abierta ante la Aerocivil?",
     "options": [
-      "Todas aquellas Aeronaves No Tripuladas cuyo PMBO sea 250 gramos. Todos aquellos Sistemas de Aeronaves No Tripuladas en los que su UA tenga un peso igual o superior a 200 gramos. Solamente aquellas Aeronaves No Tripuladas que sean empleadas para actividades comerciales o profesionales."
+      "Todas aquellas Aeronaves No Tripuladas cuyo PMBO sea 250 gramos.",
+      "Todos aquellos Sistemas de Aeronaves No Tripuladas en los que su UA tenga un peso igual o superior a 200 gramos.",
+      "Solamente aquellas Aeronaves No Tripuladas que sean empleadas para actividades comerciales o profesionales."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 20,
     "q": "En el caso de que se celebren contratos de arrendamiento sobre un UAS, la responsabilidad operacional y jurídica recaerá sobre el arrendatario en su condición de Explotador UAS.",
     "options": [
-      "Verdadero, siempre y cuando el arrendatario o el arrendador ponga en conocimiento del asunto a la Aerocivil. Verdadero, no importa la circunstancia en la que se presente. Falso, no importa que el arrendatario o el arrendador ponga en conocimiento del asunto a la Aerocivil."
+      "Verdadero, siempre y cuando el arrendatario o el arrendador ponga en conocimiento del asunto a la Aerocivil.",
+      "Verdadero, no importa la circunstancia en la que se presente.",
+      "Falso, no importa que el arrendatario o el arrendador ponga en conocimiento del asunto a la Aerocivil."
     ],
     "correct": 0
   },
@@ -184,7 +216,8 @@
     "number": 21,
     "q": "Es obligatorio que cada UA tenga una etiqueta de identificación y que contenga datos mínimos del propietario o Explotador UAS. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -193,16 +226,20 @@
     "number": 22,
     "q": "¿Qué es la Categoría “Abierta”?",
     "options": [
-      "Corresponde a las aeronaves no comerciales y con un PMBO de hasta 15 kilogramos, incluyendo todos los elementos que estén a bordo en el despegue. Corresponde a las operaciones aéreas comerciales y con un PMBO de hasta 25 kilogramos, incluyendo todos los elementos que estén a bordo en el despegue. Corresponde a las operaciones aéreas no comerciales y con un PMBO de hasta 25 kilogramos, incluyendo todos los elementos que estén a bordo en el despegue."
+      "Corresponde a las aeronaves no comerciales y con un PMBO de hasta 15 kilogramos, incluyendo todos los elementos que estén a bordo en el despegue.",
+      "Corresponde a las operaciones aéreas comerciales y con un PMBO de hasta 25 kilogramos, incluyendo todos los elementos que estén a bordo en el despegue.",
+      "Corresponde a las operaciones aéreas no comerciales y con un PMBO de hasta 25 kilogramos, incluyendo todos los elementos que estén a bordo en el despegue."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "RAC 100",
     "number": 23,
     "q": "¿Cuál de las siguientes expresiones define mejor la categoría “Específica”, según el RAC 100?",
     "options": [
-      "Corresponde a las operaciones con UA; indiferente de su peso, y hasta 250 kilogramos de peso (masa) bruto en el despegue incluyendo todos los elementos a bordo… con finalidades comerciales. Corresponde a las operaciones de vuelo con UA las cuales se emplean en actividades diferentes a las comerciales; y hasta 250 kilogramos de peso general, incluyendo todos los elementos a bordo. Corresponde a las aeronaves no tripuladas UA que se empleen en actividades comerciales; desde 25 kilogramos y hasta 250 kilogramos de peso máximo, incluyendo todos los elementos a bordo."
+      "Corresponde a las operaciones con UA; indiferente de su peso, y hasta 250 kilogramos de peso (masa) bruto en el despegue incluyendo todos los elementos a bordo… con finalidades comerciales.",
+      "Corresponde a las operaciones de vuelo con UA las cuales se emplean en actividades diferentes a las comerciales; y hasta 250 kilogramos de peso general, incluyendo todos los elementos a bordo.",
+      "Corresponde a las aeronaves no tripuladas UA que se empleen en actividades comerciales; desde 25 kilogramos y hasta 250 kilogramos de peso máximo, incluyendo todos los elementos a bordo."
     ],
     "correct": 0
   },
@@ -211,7 +248,8 @@
     "number": 24,
     "q": "La Categoría Certificada corresponde a las operaciones de sistemas de aeronaves remotamente piloteadas RPAS, cuyas condiciones de vuelo y fines de utilización son similares a las realizadas en la aviación tripulada. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -220,7 +258,8 @@
     "number": 25,
     "q": "Planear el desarrollo de la operación, conocer las diferentes clasificaciones del espacio aéreo, operar una UA de manera responsable y segura, operar la UA dentro de las limitaciones establecidas por el fabricante y garantizar que la UA y sus correspondientes sistemas se encuentran en condiciones aptas para realizar un vuelo seguro, son algunas de las responsabilidades tanto de un operador UA, como de un piloto a distancia UA. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -229,52 +268,61 @@
     "number": 26,
     "q": "La distancia máxima permitida para operar una UA en condición visual VLOS es:",
     "options": [
-      "500 mts. 750 mts. 500 ft."
+      "500 mts.",
+      "750 mts.",
+      "500 ft."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 27,
     "q": "El RAC 100 permite que las operaciones aéreas con UAS, se puedan efectuar por encima de la primera capa de nubes, siempre y cuando estas se encuentren a no más de 500 ft. de altura. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 28,
     "q": "El RAC 100 limita la cantidad de observadores UAS a uno solo por operación aérea, cuando se realicen operaciones en condición EVLOS. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 29,
     "q": "Para la Categoría Específica, la condición de vuelo nocturno la puede realizar cualquier piloto de UAS, siempre y cuando tenga al día su certificado de aprobación del curso básico de piloto a distancia UAS en un CIAC autorizado por la Aerocivil. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 30,
     "q": "¿Cuáles de las siguientes postulaciones son condiciones a cumplir al realizar actividades de vuelo en zona urbana? 1- Límite horizontal de 30 mts. en cercanía a una persona ajena a la operación. 2- No se puede volar por encima de 400 ft. 3- Únicamente en condiciones VLOS.",
     "options": [
-      "Solo el numeral 3 es correcto Los numerales 1 y 3 son correctos Los numerales 1, 2 y 3 son correctos"
+      "Solo el numeral 3 es correcto",
+      "Los numerales 1 y 3 son correctos",
+      "Los numerales 1, 2 y 3 son correctos"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "RAC 100",
     "number": 31,
     "q": "¿Cuáles de los siguientes Vuelos Especiales con UAS, son considerados dentro del RAC 100?",
     "options": [
-      "Vuelo nocturno, Vuelo en zona urbana, Vuelo autónomo, Vuelo para demostraciones comerciales o de capacidad tecnológica UAS, Vuelos en competencias y actividades deportivas. Vuelo acrobático, Vuelo en zona rural, Vuelo automático, Vuelo para demostraciones y Vuelos bajo techo. Vuelo pesado, Vuelo urbano, Vuelo acrobático, Vuelos bajo techo y Vuelos de paisajismo."
+      "Vuelo nocturno, Vuelo en zona urbana, Vuelo autónomo, Vuelo para demostraciones comerciales o de capacidad tecnológica UAS, Vuelos en competencias y actividades deportivas.",
+      "Vuelo acrobático, Vuelo en zona rural, Vuelo automático, Vuelo para demostraciones y Vuelos bajo techo.",
+      "Vuelo pesado, Vuelo urbano, Vuelo acrobático, Vuelos bajo techo y Vuelos de paisajismo."
     ],
     "correct": 0
   },
@@ -283,34 +331,40 @@
     "number": 32,
     "q": "De acuerdo con el RAC 100 para una Inspección Operacional, todo Operador UA debe tener siempre a la mano únicamente certificado de inscripción de la UA ante la Aerocivil y copia del Libro de Vuelo y Mantenimiento. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 33,
     "q": "Con respecto al consumo de sustancias que perjudiquen las facultades humanas en su desempeño, la norma establece que no se podrá operar una UA, estando bajo su influencia, o dentro de las 36 horas siguientes a su consumo, bien sea de alcohol u otra sustancia psicoactiva. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 34,
     "q": "Las sanciones que expresamente detalla el RAC 100 por la comisión de un acto prohibido o por incumplimiento de lo descrito en ella acarreará entre otras:",
     "options": [
-      "Suspender o revocar cualquier certificado o autorización aprobado previamente por la Aerocivil o negar cualquier solicitud elevada ante ella. Iniciar actos administrativos sancionatorios según lo dispuesto en el RAC 13 sin perjuicio de la responsabilidad civil, penal, policiva o administrativa inherente al hecho. Las dos opciones son correctas."
+      "Suspender o revocar cualquier certificado o autorización aprobado previamente por la Aerocivil o negar cualquier solicitud elevada ante ella.",
+      "Iniciar actos administrativos sancionatorios según lo dispuesto en el RAC 13 sin perjuicio de la responsabilidad civil, penal, policiva o administrativa inherente al hecho.",
+      "Las dos opciones son correctas."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "RAC 100",
     "number": 35,
     "q": "Es obligatorio que cada UA tenga una etiqueta de identificación y que contenga datos mínimos del propietario o Explotador UAS. Este postulado es:",
     "options": [
-      "Sí, es completamente obligatorio. No es obligatorio, se realiza si el usuario ve la necesidad de reportarlo. Si se reporta, solo en el caso de adelantar la gestión administrativa para el cobro de la póliza."
+      "Sí, es completamente obligatorio.",
+      "No es obligatorio, se realiza si el usuario ve la necesidad de reportarlo.",
+      "Si se reporta, solo en el caso de adelantar la gestión administrativa para el cobro de la póliza."
     ],
     "correct": 0
   },
@@ -319,16 +373,19 @@
     "number": 36,
     "q": "Teniendo en cuenta que las aeronaves no tripuladas que realicen operaciones aéreas en la Categoría Abierta no requieren pedir permiso ante la Aerocivil, el RAC 100 no contempla las especificaciones requeridas y las reglas de operación para esta categoría. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 37,
     "q": "Las condiciones específicas de operaciones con UAS en Colombia y determinadas por el RAC 100, en Categoría Abierta y Categoría Específica son entre otras:",
     "options": [
-      "Altura máxima 400 ft., VLOS 750 mts., VMC, Separación personas a 30 mts., Consulta de Espacios Aéreos. Altura máxima 400 mts., VLOS 500 ft., IMC, Separación personas a 300 mts., Consulta de Metares. Ninguna de las anteriores, la Categoría Abierta no requiere de condiciones de operación."
+      "Altura máxima 400 ft., VLOS 750 mts., VMC, Separación personas a 30 mts., Consulta de Espacios Aéreos.",
+      "Altura máxima 400 mts., VLOS 500 ft., IMC, Separación personas a 300 mts., Consulta de Metares.",
+      "Ninguna de las anteriores, la Categoría Abierta no requiere de condiciones de operación."
     ],
     "correct": 0
   },
@@ -337,52 +394,62 @@
     "number": 38,
     "q": "¿Cuáles de las siguientes son consideradas restricciones para la operación de la Categoría Abierta? 1- Volar en Zonas Restringidas, Prohibidas, Peligrosas, ZNVD y BVLOS. 2- Actividades de transporte, delivery o comerciales. 3- Actividades recreativas o de deporte. 4- Volar en zonas despobladas o determinadas para el uso de aeromodelos. 5- Volar en cercanía de: Presidente, Unidades Militares y Aeródromos.",
     "options": [
-      "Los numerales 1, 2 y 3 son correctos Los numerales 3, 4 y 5 son correctos Los numerales 1, 2 y 5 son correctos"
+      "Los numerales 1, 2 y 3 son correctos",
+      "Los numerales 3, 4 y 5 son correctos",
+      "Los numerales 1, 2 y 5 son correctos"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "RAC 100",
     "number": 39,
     "q": "Un Operador de una UA en Categoría Abierta deberá tener conocimiento, entre otras, de las siguientes áreas de conocimiento:",
     "options": [
-      "Manual de operación del fabricante, conocimiento de las UA y conciencia situacional. Procedimientos de operación y seguridad del fabricante, cuidados y mantenimiento, aerodinámica aplicada y conocimiento de las UA, meteorología y navegación aplicada, actuación humana, distracciones y conciencia situacional. Solamente basta con conocer el funcionamiento de cada botón y palancas de control remoto de la aeronave."
+      "Manual de operación del fabricante, conocimiento de las UA y conciencia situacional.",
+      "Procedimientos de operación y seguridad del fabricante, cuidados y mantenimiento, aerodinámica aplicada y conocimiento de las UA, meteorología y navegación aplicada, actuación humana, distracciones y conciencia situacional.",
+      "Solamente basta con conocer el funcionamiento de cada botón y palancas de control remoto de la aeronave."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 40,
     "q": "Las consideraciones que indica el RAC 100 para una operación en Categoría Específica son:",
     "options": [
-      "Que la operación sea realizada para vuelos de hobby, recreación o deporte. Que la operación sea realizada con fines comerciales y que la operación exceda las condiciones y limitaciones dispuestas para la Categoría Abierta. Que el piloto quiera realizar operaciones en esta categoría, por las bondades que ofrece."
+      "Que la operación sea realizada para vuelos de hobby, recreación o deporte.",
+      "Que la operación sea realizada con fines comerciales y que la operación exceda las condiciones y limitaciones dispuestas para la Categoría Abierta.",
+      "Que el piloto quiera realizar operaciones en esta categoría, por las bondades que ofrece."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 41,
     "q": "Las operaciones aéreas de vigilancia y seguridad privada, las puede realizar cualquier persona operadora de UAS en la Categoría Abierta, siempre y cuando esta actividad se desarrolle sin ánimo de lucro, en apoyo a una labor social y en coordinación directa con el cuadrante de la Policía Nacional que opera en el sector. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 42,
     "q": "Las actividades de instrucción propia de los CIAC, aunque están catalogadas como operaciones de la Categoría Específica, no requieren cumplir el total de los formalismos relacionados para esta categoría, teniendo en cuenta que se encuentran bajo condiciones muy controladas de seguridad. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 43,
     "q": "Para que un Explotador UAS pueda realizar una operación aérea de conformidad con las disposiciones legales del RAC 100, es requisito:",
     "options": [
-      "Contar con un Certificado de Explotador UAS expedido por la Aerocivil. No haber inscrito ante la Aerocivil los equipos especiales que empleará. No es necesario contar con la póliza de responsabilidad civil."
+      "Contar con un Certificado de Explotador UAS expedido por la Aerocivil.",
+      "No haber inscrito ante la Aerocivil los equipos especiales que empleará.",
+      "No es necesario contar con la póliza de responsabilidad civil."
     ],
     "correct": 0
   },
@@ -391,25 +458,31 @@
     "number": 44,
     "q": "Para que un Explotador UAS pueda realizar una operación aérea de conformidad con las disposiciones legales del RAC 100 es requisito:",
     "options": [
-      "Es opcional contar con el manual de operaciones y del fabricante. Es voluntario realizar el respectivo análisis de riesgos de seguridad operacional. Obtener las autorizaciones de vuelo correspondientes."
+      "Es opcional contar con el manual de operaciones y del fabricante.",
+      "Es voluntario realizar el respectivo análisis de riesgos de seguridad operacional.",
+      "Obtener las autorizaciones de vuelo correspondientes."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "RAC 100",
     "number": 45,
     "q": "En caso de ser requerido por un Explotador UAS realizar modificaciones estructurales a una de sus UA, lo podrá hacer para brindar un mejor servicio a sus clientes. El anterior postulado es:",
     "options": [
-      "Falso, nunca se puede hacer. Verdadero, siempre y cuando se tenga la respectiva autorización por parte de la Aerocivil. Verdadero, siempre y cuando estén expresamente aprobadas por el fabricante."
+      "Falso, nunca se puede hacer.",
+      "Verdadero, siempre y cuando se tenga la respectiva autorización por parte de la Aerocivil.",
+      "Verdadero, siempre y cuando estén expresamente aprobadas por el fabricante."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "RAC 100",
     "number": 46,
     "q": "Dado el caso en que el piloto automático de la UA que se está volando presente fallas es necesario:",
     "options": [
-      "Suspender la operación aérea, para no incurrir en un accidente o incidente. Deshabilitar el piloto automático del UA y continuar en vuelo manual. Terminar rápidamente el trabajo que se está realizando, para no perder tiempo."
+      "Suspender la operación aérea, para no incurrir en un accidente o incidente.",
+      "Deshabilitar el piloto automático del UA y continuar en vuelo manual.",
+      "Terminar rápidamente el trabajo que se está realizando, para no perder tiempo."
     ],
     "correct": 0
   },
@@ -418,7 +491,8 @@
     "number": 47,
     "q": "Las acciones de mitigación de riesgos procuradas por el Explotador UAS en cuanto a la pérdida de la conexión de comunicación entre el UA y la estación en tierra deberán enfocarse en minimizar los daños en caso de falla del enlace C2; estas acciones deben estar debidamente consignadas en el MO. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -427,16 +501,19 @@
     "number": 48,
     "q": "Para el caso específico de un Explotador UAS que vuele una aeronave no tripulada de 60 Kilos de PMBO, en operaciones de aspersión agrícola en su propio predio de cultivo y con una altura de fumigación no superior a 3 mts., debe:",
     "options": [
-      "Pedir permiso a la Aerocivil para ejecutar su vuelo. Contar con el Certificado de Idoneidad y las adiciones correspondientes del caso específico. Contar con la matriz de análisis y mitigación del riesgo SMS."
+      "Pedir permiso a la Aerocivil para ejecutar su vuelo.",
+      "Contar con el Certificado de Idoneidad y las adiciones correspondientes del caso específico.",
+      "Contar con la matriz de análisis y mitigación del riesgo SMS."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 49,
     "q": "Para el caso específico de un Explotador UAS que vuele una aeronave no tripulada de 60 Kilos de PMBO, en operaciones de aspersión agrícola en su propio predio de cultivo y con una altura de fumigación no superior a 3 mts., debe de forma obligatoria pedir permiso a la Aerocivil para ejecutar su vuelo. Este postulado es:",
     "options": [
-      "Verdadero. Falso."
+      "Verdadero.",
+      "Falso."
     ],
     "correct": 0
   },
@@ -445,25 +522,30 @@
     "number": 50,
     "q": "Uno de los requisitos expresados en el RAC 100 y que es de suma importancia para poder solicitar un permiso de vuelo para realizar operaciones de enjambre con UAS, es:",
     "options": [
-      "Ser Ingeniero de Sistemas especializado en el software que controla el enjambre. Contar con un documento válido que soporte las habilidades y competencias necesarias para efectuar este tipo de operaciones. Poseer un sistema de protección especial para evitar incidentes o accidentes en caso de que fallen y se desplomen algunas aeronaves."
+      "Ser Ingeniero de Sistemas especializado en el software que controla el enjambre.",
+      "Contar con un documento válido que soporte las habilidades y competencias necesarias para efectuar este tipo de operaciones.",
+      "Poseer un sistema de protección especial para evitar incidentes o accidentes en caso de que fallen y se desplomen algunas aeronaves."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 51,
     "q": "¿Qué significa una operación “Dron Delivery”?",
     "options": [
-      "Es una operación especial de topografía. Es una operación de transporte y entrega de carga. Es una operación de transporte de personas (taxi)."
+      "Es una operación especial de topografía.",
+      "Es una operación de transporte y entrega de carga.",
+      "Es una operación de transporte de personas (taxi)."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 52,
     "q": "Un Explotador UAS que requiera hacer operaciones aéreas “Dron Delivery” está en la obligación de demostrar que el personal designado para efectuar este tipo de labor cuente con la capacitación correspondiente del fabricante de la aeronave en cuanto a manipulación y operación de la aeronave. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -472,7 +554,8 @@
     "number": 53,
     "q": "Tener capacitación certificada en cuanto a transporte seguro de mercancías peligrosas vía aérea, es un requisito obligatorio para poder ejecutar operaciones Dron Delivery. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -481,7 +564,9 @@
     "number": 54,
     "q": "¿Qué límite debe ser excedido para poder considerar una operación de una UA como operación BVLOS?",
     "options": [
-      "Superar la distancia horizontal entre el Piloto UAS y la Aeronave de 3000 mts o antes si pierde línea de vista directa. Superar la distancia horizontal entre el Piloto UAS y la Aeronave de 1500 mts. Solamente disponer de un sistema de administración en tiempo real de la aeronave, para poder volar."
+      "Superar la distancia horizontal entre el Piloto UAS y la Aeronave de 3000 mts o antes si pierde línea de vista directa.",
+      "Superar la distancia horizontal entre el Piloto UAS y la Aeronave de 1500 mts.",
+      "Solamente disponer de un sistema de administración en tiempo real de la aeronave, para poder volar."
     ],
     "correct": 0
   },
@@ -490,16 +575,18 @@
     "number": 55,
     "q": "Una operación BVLOS puede llevarse a cabo en cualquier lugar, no requiere condiciones especiales para su vuelo; solamente se requiere que el Explotador UAS realice una solicitud ordinaria ante la Aerocivil. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 56,
     "q": "Las operaciones aéreas que sean realizadas en condiciones BVLOS por parte de un Explotador UAS, requieren que este cuente con una autorización expresa para este tipo de operación y un área específica determinada para el efecto. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -508,16 +595,20 @@
     "number": 57,
     "q": "¿Qué condiciones especiales debe tener en cuenta un Explotador UAS para poder volar BVLOS? 1- Máxima altura de 400 pies AGL y en VFR (VMC). 2- Falta de conciencia situacional permanente en la ubicación de la UA en vuelo. 3- Máxima desviación permitida de 30 mts. entre ruta de los WP. 4- Pérdida del enlace C2 se considera operación normal. 5- Visualización de la telemetría y sistema de administración del espacio en tiempo real. 6- Monitoreo parcial y esporádico de la meteorología.",
     "options": [
-      "Los Numerales 1, 2 y 3 son correctos Los Numerales 4, 5 y 6 son correctos Los Numerales 1, 3 y 5 son correctos"
+      "Los Numerales 1, 2 y 3 son correctos",
+      "Los Numerales 4, 5 y 6 son correctos",
+      "Los Numerales 1, 3 y 5 son correctos"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "RAC 100",
     "number": 58,
     "q": "El certificado como Explotador UAS expedido por la Aerocivil para la Categoría Específica permite:",
     "options": [
-      "Que el Explotador UAS cuente con autorización por parte de la Aerocivil para poder prestar un determinado servicio de aviación civil con el uso de UAS. Que el Explotador UAS pueda determinar de mejor forma las tarifas de su servicio. Que el Explotador UAS relacione sin restricción los Pilotos de UAS sin certificado, que requiera la empresa."
+      "Que el Explotador UAS cuente con autorización por parte de la Aerocivil para poder prestar un determinado servicio de aviación civil con el uso de UAS.",
+      "Que el Explotador UAS pueda determinar de mejor forma las tarifas de su servicio.",
+      "Que el Explotador UAS relacione sin restricción los Pilotos de UAS sin certificado, que requiera la empresa."
     ],
     "correct": 0
   },
@@ -526,7 +617,9 @@
     "number": 59,
     "q": "Algunos de los requisitos que necesita una empresa para poder gestionar ante la Aerocivil un certificado como Explotador UAS, son:",
     "options": [
-      "Contar con un registro mercantil válido. Obtener resultado satisfactorio en la Inspección Operacional por parte de la Aerocivil. Las dos opciones son correctas."
+      "Contar con un registro mercantil válido.",
+      "Obtener resultado satisfactorio en la Inspección Operacional por parte de la Aerocivil.",
+      "Las dos opciones son correctas."
     ],
     "correct": 0
   },
@@ -535,7 +628,9 @@
     "number": 60,
     "q": "¿Con qué lapso de tiempo un Explotador UAS debe reportar cambios en su información de registro para evitar inconsistencias que ocasionen la suspensión de su certificado de explotador UAS?",
     "options": [
-      "Mínimo semestralmente, el último día hábil de cada periodo. Dentro de los 15 días siguientes a la ocurrencia del cambio. Solamente se requiere el registro inicial, no hay necesidad de reportar cambios."
+      "Mínimo semestralmente, el último día hábil de cada periodo.",
+      "Dentro de los 15 días siguientes a la ocurrencia del cambio.",
+      "Solamente se requiere el registro inicial, no hay necesidad de reportar cambios."
     ],
     "correct": 0
   },
@@ -544,7 +639,8 @@
     "number": 61,
     "q": "Mantener al día el libro de vuelo y mantenimiento de cada UA, así como emitir y mantener actualizado el Manual de Operación (MO), hacen parte integral de las responsabilidades que el Explotador UAS certificado, debe asumir. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -553,25 +649,29 @@
     "number": 62,
     "q": "No es necesario que el Explotador UAS certifique el tiempo de vuelo acumulado a cada Piloto UAS que trabaje en la empresa, teniendo en cuenta que la Aerocivil lleva este registro por medio de los permisos de vuelo tramitados. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 63,
     "q": "Es responsabilidad de cada uno de los Pilotos UAS que trabaja con un Explotador UAS, mantener sus competencias de entrenamiento para cumplir con los diferentes tipos de operación que realiza la empresa, realizando por cuenta propia los cursos de repaso y verificaciones correspondientes. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 64,
-    "q": "¿Cuáles son los parámetros que la Aerocivil tiene en cuenta para suspender y cancelar un certificado como Explotador UAS? 1.\tIncumplimiento de requisitos y condiciones establecidos en la reglamentación. 2.\tEfectuar operaciones aéreas que pongan en riesgo la seguridad operacional. 3.\tIncapacidad técnica para realizar actividades de mantenimiento. 4.\tAbandono de la actividad autorizada sin justificación por más de un año.",
+    "q": "¿Cuáles son los parámetros que la Aerocivil tiene en cuenta para suspender y cancelar un certificado como Explotador UAS? 1. Incumplimiento de requisitos y condiciones establecidos en la reglamentación. 2. Efectuar operaciones aéreas que pongan en riesgo la seguridad operacional. 3. Incapacidad técnica para realizar actividades de mantenimiento. 4. Abandono de la actividad autorizada sin justificación por más de un año.",
     "options": [
-      "Los numerales 1 y 4 son correctos. Los numerales 2 y 3 son correctos. Todos los numerales son correctos."
+      "Los numerales 1 y 4 son correctos.",
+      "Los numerales 2 y 3 son correctos.",
+      "Todos los numerales son correctos."
     ],
     "correct": 0
   },
@@ -580,7 +680,9 @@
     "number": 65,
     "q": "Un Explotador UAS que tenga registrado bajo su dominio tres (3) o más UAS, ¿qué cargos debe registrar y designar ante la Aerocivil?",
     "options": [
-      "Una persona en el cargo de Jefe de Mantenimiento de UA y otra persona en el cargo de Gerente de Proyectos. Una persona en el cargo de Jefe de Pilotos UA y otra persona en el cargo de Gerente de Seguridad Operacional. Una persona en el cargo de Secretaría para UAS y otra persona en el cargo de Gerente de Seguridad de los “Vertipuertos”."
+      "Una persona en el cargo de Jefe de Mantenimiento de UA y otra persona en el cargo de Gerente de Proyectos.",
+      "Una persona en el cargo de Jefe de Pilotos UA y otra persona en el cargo de Gerente de Seguridad Operacional.",
+      "Una persona en el cargo de Secretaría para UAS y otra persona en el cargo de Gerente de Seguridad de los “Vertipuertos”."
     ],
     "correct": 0
   },
@@ -589,7 +691,9 @@
     "number": 66,
     "q": "¿Cuál de las siguientes afirmaciones no corresponde a la experiencia que debe ostentar un Jefe de Pilotos?",
     "options": [
-      "Contar con capacitación como Piloto UAS en al menos una de las operaciones aéreas autorizadas al Explotador UAS. Contar con experiencia administrativa de al menos cien (100) horas de trámites de vuelo para UAS. Contar con capacitación certificada por CIAC, de mínimo cuarenta (40) horas, en el Sistema de Gestión de la Seguridad Operacional – SMS."
+      "Contar con capacitación como Piloto UAS en al menos una de las operaciones aéreas autorizadas al Explotador UAS.",
+      "Contar con experiencia administrativa de al menos cien (100) horas de trámites de vuelo para UAS.",
+      "Contar con capacitación certificada por CIAC, de mínimo cuarenta (40) horas, en el Sistema de Gestión de la Seguridad Operacional – SMS."
     ],
     "correct": 0
   },
@@ -598,7 +702,8 @@
     "number": 67,
     "q": "El aseguramiento de la adecuada asignación y utilización de cada UA y de cada Piloto UAS de acuerdo con las competencias requeridas, para el desarrollo de la operación autorizada al Explotador UAS certificado, es una función expresa del Jefe de Pilotos. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -607,16 +712,19 @@
     "number": 68,
     "q": "Monitorear los estándares operativos y la eficiencia de cada Piloto UAS designado, es una de las funciones principales del Gerente de Seguridad Operacional. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 69,
     "q": "De las siguientes calificaciones y experiencias del Gerente de Seguridad Operacional, ¿cuál es la correcta?",
     "options": [
-      "Contar con un curso básico sobre el Sistema de Gestión de Calidad, certificado por ICONTEC de mínimo cuarenta (40) horas. Tener formación acreditada en áreas del sector aeronáutico. Experiencia administrativa contable acreditada respecto de las funciones y naturaleza de la Empresa del Explotador UAS."
+      "Contar con un curso básico sobre el Sistema de Gestión de Calidad, certificado por ICONTEC de mínimo cuarenta (40) horas.",
+      "Tener formación acreditada en áreas del sector aeronáutico.",
+      "Experiencia administrativa contable acreditada respecto de las funciones y naturaleza de la Empresa del Explotador UAS."
     ],
     "correct": 0
   },
@@ -625,16 +733,18 @@
     "number": 70,
     "q": "La responsabilidad de la identificación de los peligros y el análisis y gestión de los riesgos en cuanto a la operación con aeronaves no tripuladas es una función inherente al Jefe de Pilotos. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 71,
     "q": "Monitorear que se lleven a cabo las acciones correctivas (planes de acción) de un Explotador UAS, es una función inherente al Gerente de la Seguridad Operacional. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -643,7 +753,9 @@
     "number": 72,
     "q": "¿Cuál es el nombre del documento expedido por la Aerocivil y que permite a los pilotos UA desarrollar operaciones de vuelo con aeronaves no tripuladas en Categoría Específica?",
     "options": [
-      "Licencia de Idoneidad UAS. Certificado de Idoneidad de piloto UAS. Licencia de Operación de UAS."
+      "Licencia de Idoneidad UAS.",
+      "Certificado de Idoneidad de piloto UAS.",
+      "Licencia de Operación de UAS."
     ],
     "correct": 0
   },
@@ -652,7 +764,9 @@
     "number": 73,
     "q": "¿Cuál de los requisitos a continuación aplica para poder solicitar un certificado de idoneidad para operar UAS en la Categoría Específica?",
     "options": [
-      "Haber culminado satisfactoriamente con Acta de Grado los estudios de básica secundaria en una institución reconocida nacionalmente. Haber culminado satisfactoriamente el contenido del curso básico de piloto UAS de aeronaves no tripuladas en un CIAC aprobado por la Aerocivil. Pagar un Objeto Virtual de Aprendizaje para reforzar los conocimientos de UAS."
+      "Haber culminado satisfactoriamente con Acta de Grado los estudios de básica secundaria en una institución reconocida nacionalmente.",
+      "Haber culminado satisfactoriamente el contenido del curso básico de piloto UAS de aeronaves no tripuladas en un CIAC aprobado por la Aerocivil.",
+      "Pagar un Objeto Virtual de Aprendizaje para reforzar los conocimientos de UAS."
     ],
     "correct": 0
   },
@@ -661,7 +775,9 @@
     "number": 74,
     "q": "¿Cuál de los siguientes es requisito para poder volar una UA en Categoría Específica?",
     "options": [
-      "Contar con un certificado de idoneidad como piloto UAS expedido por la Aerocivil. Contar con una aeronave no tripulada sin registro ante la Aerocivil. Solicitar una autorización de vuelo no requiere presentar la póliza RCE."
+      "Contar con un certificado de idoneidad como piloto UAS expedido por la Aerocivil.",
+      "Contar con una aeronave no tripulada sin registro ante la Aerocivil.",
+      "Solicitar una autorización de vuelo no requiere presentar la póliza RCE."
     ],
     "correct": 0
   },
@@ -670,25 +786,30 @@
     "number": 75,
     "q": "El certificado de idoneidad obtenido por una persona podrá ser transferido a otra, de acuerdo con la solicitud expresa de un Explotador UAS en un determinado momento y bajo unas circunstancias específicas. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 76,
     "q": "Para poder obtener el certificado de idoneidad de piloto UA en Categoría Específica, se requiere contar con un certificado médico con las siguientes características:",
     "options": [
-      "Médico Ocupacional: Vigencia de dos años, optometría, audiometría, tensión arterial, neurología, psicología e integridad de extremidades inferiores. Médico Ocupacional: Vigencia de un año, optometría, audiometría, lenguaje verbal e integridad de extremidades superiores. Médico Aeronáutico: Vigencia de tres años, optometría, audiometría, oftalmología, neurología, psicología y coeficiente intelectual."
+      "Médico Ocupacional: Vigencia de dos años, optometría, audiometría, tensión arterial, neurología, psicología e integridad de extremidades inferiores.",
+      "Médico Ocupacional: Vigencia de un año, optometría, audiometría, lenguaje verbal e integridad de extremidades superiores.",
+      "Médico Aeronáutico: Vigencia de tres años, optometría, audiometría, oftalmología, neurología, psicología y coeficiente intelectual."
     ],
     "correct": 0
   },
   {
     "category": "RAC 100",
     "number": 77,
-    "q": "La estructura académica del curso de piloto UAS, contiene las siguientes áreas de conocimiento entre otras: 1.\tAerodinámica aplicada. 2.\tDespacho de aeronaves. 3.\tRegulaciones aeronáuticas. 4.\tPeso y balance. 5.\tMeteorología aeronáutica. 6.\tNavegación aérea. 7.\tAsistente en vuelo.",
+    "q": "La estructura académica del curso de piloto UAS, contiene las siguientes áreas de conocimiento entre otras: 1. Aerodinámica aplicada. 2. Despacho de aeronaves. 3. Regulaciones aeronáuticas. 4. Peso y balance. 5. Meteorología aeronáutica. 6. Navegación aérea. 7. Asistente en vuelo.",
     "options": [
-      "Los numerales 1, 3, 5 y 6 son correctos. Los numerales 2, 4, 6 y 7 son correctos. Todos los numerales son correctos."
+      "Los numerales 1, 3, 5 y 6 son correctos.",
+      "Los numerales 2, 4, 6 y 7 son correctos.",
+      "Todos los numerales son correctos."
     ],
     "correct": 0
   },
@@ -697,7 +818,8 @@
     "number": 78,
     "q": "Para la planificación del vuelo, requiero el uso práctico de GIS. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -706,7 +828,8 @@
     "number": 79,
     "q": "Actividades como la dispersión, aspersión e instructor de vuelo UAS, son considerados como adiciones al certificado de idoneidad. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -715,25 +838,30 @@
     "number": 80,
     "q": "Actividades de fotogrametría y modelamiento digital del terreno, son considerados como adiciones al certificado de idoneidad. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 81,
     "q": "Los requisitos generales para obtener una adición al certificado de idoneidad como Piloto UAS en la Categoría Específica, son:",
     "options": [
-      "Ser titular de una aeronave que requiera de las especificaciones de la adición; demostrar horas de práctica relacionada con la correspondiente adición; y pago de la compensación económica de la adición. Ser titular de un certificado de idoneidad de Piloto UAS otorgado por la Aerocivil; demostrar capacitación teórica y práctica relacionada con la correspondiente adición y pago de los derechos de la respectiva adición. No tienen requisitos generales y se solicita a la Dirección a los servicios de la Navegación Aérea."
+      "Ser titular de una aeronave que requiera de las especificaciones de la adición; demostrar horas de práctica relacionada con la correspondiente adición; y pago de la compensación económica de la adición.",
+      "Ser titular de un certificado de idoneidad de Piloto UAS otorgado por la Aerocivil; demostrar capacitación teórica y práctica relacionada con la correspondiente adición y pago de los derechos de la respectiva adición.",
+      "No tienen requisitos generales y se solicita a la Dirección a los servicios de la Navegación Aérea."
     ],
     "correct": 0
   },
   {
     "category": "RAC 100",
     "number": 82,
-    "q": "La suspensión o cancelación de un certificado de idoneidad o de sus adiciones, se origina por: 1.\tA solicitud del interesado. 2.\tTitular no reúna los requisitos que dieron origen a su otorgamiento. 3.\tSanción en caso de infracción de los Reglamentos Aeronáuticos de Colombia. 4.\tSuspensión provisional por riesgo inminente contra la seguridad operacional en flagrancia.",
+    "q": "La suspensión o cancelación de un certificado de idoneidad o de sus adiciones, se origina por: 1. A solicitud del interesado. 2. Titular no reúna los requisitos que dieron origen a su otorgamiento. 3. Sanción en caso de infracción de los Reglamentos Aeronáuticos de Colombia. 4. Suspensión provisional por riesgo inminente contra la seguridad operacional en flagrancia.",
     "options": [
-      "Los numerales 2 y 3 son correctos. Los numerales 1 y 4 son correctos. Todos los numerales son correctos."
+      "Los numerales 2 y 3 son correctos.",
+      "Los numerales 1 y 4 son correctos.",
+      "Todos los numerales son correctos."
     ],
     "correct": 0
   },
@@ -742,16 +870,18 @@
     "number": 83,
     "q": "El Sistema de Gestión de la Seguridad Operacional – SMS, es de cumplimiento opcional para los Explotadores UAS que operan en Colombia. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 84,
     "q": "El Sistema de Gestión de la Seguridad Operacional – SMS, es de obligatorio cumplimiento para los Explotadores UAS que operan en Colombia y es requisito fundamental para poder obtener el Certificado de Explotador UAS de la Aerocivil. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -760,7 +890,9 @@
     "number": 85,
     "q": "Tres (3) documentos requeridos para poder realizar una solicitud de autorización de vuelo en Categoría Específica ante la Aerocivil son:",
     "options": [
-      "Formato de solicitud de vuelo, matriz SMS y póliza. Manual de operaciones, factura de compra, manual del fabricante. Todas las opciones son correctas."
+      "Formato de solicitud de vuelo, matriz SMS y póliza.",
+      "Manual de operaciones, factura de compra, manual del fabricante.",
+      "Todas las opciones son correctas."
     ],
     "correct": 0
   },
@@ -769,16 +901,19 @@
     "number": 86,
     "q": "Es requisito fundamental para tramitar el certificado de Explotador UAS, contar con el Manual de Operaciones de la empresa aprobado por la Aerocivil. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
   {
     "category": "RAC 100",
     "number": 87,
-    "q": "Los documentos mínimos requeridos para solicitar un certificado de idoneidad como piloto UAS son: 1.\tCertificado del curso básico de piloto UAS en un CIAC aprobado. 2.\tCopia del Registro Civil. 3.\tCopia del documento de identificación. 4.\tCopia declaración de renta. 5.\tCopia de la constancia de realización del OVA. 6.\tCopia certificado aprobación examen teórico virtual. 7.\tCopia de licencia de conducción. 8.\tCopia certificado médico ocupacional.",
+    "q": "Los documentos mínimos requeridos para solicitar un certificado de idoneidad como piloto UAS son: 1. Certificado del curso básico de piloto UAS en un CIAC aprobado. 2. Copia del Registro Civil. 3. Copia del documento de identificación. 4. Copia declaración de renta. 5. Copia de la constancia de realización del OVA. 6. Copia certificado aprobación examen teórico virtual. 7. Copia de licencia de conducción. 8. Copia certificado médico ocupacional.",
     "options": [
-      "Los numerales 1, 3, 5, 6 y 8 son requeridos. Los numerales 2, 4, 5 y 7 no son requeridos. Todos los numerales son requeridos."
+      "Los numerales 1, 3, 5, 6 y 8 son requeridos.",
+      "Los numerales 2, 4, 5 y 7 no son requeridos.",
+      "Todos los numerales son requeridos."
     ],
     "correct": 0
   },
@@ -787,16 +922,19 @@
     "number": 88,
     "q": "Los documentos mínimos requeridos para la solicitud de registro de una UA contemplan: las fotografías de la aeronave, la factura de compra, la declaración de importación, paz y salvo de la DIAN y el documento de identificación del propietario. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 89,
     "q": "El procedimiento correcto para informar a la Aerocivil de que se requiere o se realizó una cesión de dominio de un UAS de un Propietario a un Explotador UAS que compró o alquiló la aeronave, se realiza:",
     "options": [
-      "Por medio de carta dirigida al Grupo Drones y Movilidad Urbana Aérea firmada por el propietario del registro. Tramitando el formato reporte de desuso o solicitud cambio de propiedad de UAS o equipo tecnológico, adjuntando para el efecto la documentación solicitada. No se requiere informar a la Aerocivil de la novedad."
+      "Por medio de carta dirigida al Grupo Drones y Movilidad Urbana Aérea firmada por el propietario del registro.",
+      "Tramitando el formato reporte de desuso o solicitud cambio de propiedad de UAS o equipo tecnológico, adjuntando para el efecto la documentación solicitada.",
+      "No se requiere informar a la Aerocivil de la novedad."
     ],
     "correct": 0
   },
@@ -805,43 +943,51 @@
     "number": 90,
     "q": "Los únicos documentos requeridos para iniciar el proceso de Certificación de Explotador UAS son la Carta de cumplimiento, y el Manual de Operaciones con SMS. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 91,
     "q": "De las siguientes opciones, determine la fases para obtener la certificación como Explotador UAS (seleccione la correcta).",
     "options": [
-      "Solicitud, Aprobación de manuales, Inspección y Certificado. Presolicitud, Evaluación documental, Solicitud formal, Demostración y Certificado. Presolicitud, Solicitud, Evaluación Documental, Inspección y demostración y Emisión del certificado."
+      "Solicitud, Aprobación de manuales, Inspección y Certificado.",
+      "Presolicitud, Evaluación documental, Solicitud formal, Demostración y Certificado.",
+      "Presolicitud, Solicitud, Evaluación Documental, Inspección y demostración y Emisión del certificado."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "RAC 100",
     "number": 92,
     "q": "Toda solicitud de autorización de vuelo que involucre el uso de espacio aéreo restringido, peligroso, prohibido o de operación militar, debe ser solicitado a la Aerocivil, con copia dirigida a la Fuerza Aeroespacial Colombiana. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 93,
     "q": "¿Qué requisito es necesario si un Explotador UAS va a realizar un vuelo que esté dentro de una ZNVD?",
     "options": [
-      "Requerirá obligatoriamente el pago de los derechos para poder operar en una ZNVD. Requerirá obligatoriamente una autorización escrita de la entidad responsable de la ZNVD. Requerirá obligatoriamente una carta de confidencialidad exclusiva de la Fiscalía General de la Nación."
+      "Requerirá obligatoriamente el pago de los derechos para poder operar en una ZNVD.",
+      "Requerirá obligatoriamente una autorización escrita de la entidad responsable de la ZNVD.",
+      "Requerirá obligatoriamente una carta de confidencialidad exclusiva de la Fiscalía General de la Nación."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "RAC 100",
     "number": 94,
     "q": "¿Qué es y qué significa la sigla CDM?",
     "options": [
-      "CDM: Toma de decisiones en colaboración. CDM: Coordinación de Datos Monitoreados. CDM: Compilación De Maniobras integradas."
+      "CDM: Toma de decisiones en colaboración.",
+      "CDM: Coordinación de Datos Monitoreados.",
+      "CDM: Compilación De Maniobras integradas."
     ],
     "correct": 0
   },
@@ -850,8 +996,10 @@
     "number": 95,
     "q": "¿Qué significa la sigla MCM?",
     "options": [
-      "MCM: Maniobras Controladas por Manual. MCM: Monitoreo de Control Manual. MCM: Manual Control Mantenimiento."
+      "MCM: Maniobras Controladas por Manual.",
+      "MCM: Monitoreo de Control Manual.",
+      "MCM: Manual Control Mantenimiento."
     ],
-    "correct": 0
+    "correct": 2
   }
 ]
