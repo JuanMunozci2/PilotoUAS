@@ -1,134 +1,150 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Quiz Piloto UAS</title>
-  <style>
-    :root{font-family:Arial,Helvetica,sans-serif;background:#111;color:#f5f5f5;}
-    #app{max-width:720px;margin:40px auto;padding:24px;border:2px solid #444;border-radius:14px;background:#222;box-shadow:0 0 25px rgba(0,0,0,.6);}
-    h1{text-align:center;margin-bottom:14px;font-size:1.8rem;letter-spacing:.4px;}
-    select{width:100%;padding:10px;border-radius:8px;margin-bottom:20px;background:#333;color:#f5f5f5;border:none;font-size:1rem;cursor:pointer;}
-    .category{font-size:1.1rem;font-weight:600;margin-bottom:6px;color:#00e5ff;text-align:center;}
-    button{display:block;width:100%;margin:9px 0;padding:13px;border:none;border-radius:9px;font-size:1rem;cursor:pointer;background:#333;color:#f5f5f5;transition:background .2s;}
-    button:hover{background:#555;}
-    button.correct{background:#2e7d32!important;color:#fff;}
-    button.wrong{background:#c62828!important;color:#fff;}
-    #status{margin-top:18px;text-align:center;font-size:1.1rem;min-height:1.4em;}
-    #next-btn{margin-top:22px;background:#0069c0;display:none;}
-    .progress-bar{height:12px;background:#444;border-radius:4px;overflow:hidden;margin-bottom:24px;}
-    .progress-bar-inner{height:100%;width:0;background:#00c853;transition:width .4s;}
-  </style>
+<meta charset="UTF-8">
+<title>Quiz Piloto UAS</title>
+<style>
+  body{background:#111;color:#eee;font-family:Arial,Helvetica,sans-serif;display:flex;justify-content:center}
+  #quiz-box{max-width:900px;width:95%;padding:22px;border:2px solid #333;border-radius:12px;margin-top:20px}
+  h1{margin:0 0 16px;text-align:center}
+  select{width:100%;padding:8px;border-radius:6px;border:none;font-size:15px}
+  #bar{height:8px;background:#444;border-radius:4px;margin:14px 0}
+  #bar-inner{height:100%;background:#20c997;border-radius:4px;width:0%}
+  #cat{font-weight:bold;color:#11d9ff;text-align:center;margin:6px 0}
+  #question{margin:12px 0;line-height:1.35em}
+  .btn-option{display:block;width:100%;padding:12px 8px;margin:8px 0;border:none;border-radius:6px;background:#333;color:#eee;cursor:pointer;font-size:15px;white-space:normal;line-height:1.3em;transition:background .2s}
+  .btn-option:hover{background:#444}
+  .correct{background:#198754!important}
+  .wrong{background:#dc3545!important}
+  ul{margin:4px 0 0 18px;padding:0}
+</style>
 </head>
 <body>
-  <div id="app">
-    <h1>Quiz Piloto UAS</h1>
-    <select id="category-select">
-      <option value="all">Todas las categorías (413)</option>
-      <option value="rac100">RAC 100 (95)</option>
-      <option value="derecho">Derecho Aéreo y Regulaciones (41)</option>
-      <option value="aerodinamica">Aerodinámica Aplicada (32)</option>
-      <option value="meteorologia">Meteorología Aeronáutica (56)</option>
-      <option value="navegacion">Navegación Aérea (54)</option>
-      <option value="comunicaciones">Comunicaciones Aeronáuticas (14)</option>
-      <option value="factoreshumanos">Factores Humanos y Actuación Humana (17)</option>
-      <option value="seguridad">Gestión de la Seguridad Operacional (48)</option>
-      <option value="ua">Conocimientos Generales de las UA (35)</option>
-      <option value="planificacion">Planificación de Vuelo (21)</option>
-    </select>
+<div id="quiz-box">
+  <h1>Quiz Piloto UAS</h1>
 
-    <div class="progress-bar"><div class="progress-bar-inner" id="bar"></div></div>
-    <div id="category" class="category"></div>
-    <div id="question"></div>
-    <div id="options"></div>
-    <div id="status"></div>
-    <button id="next-btn">Siguiente</button>
-  </div>
+  <select id="sel">
+    <option value="all">Todas las categorías (413)</option>
+    <option value="rac_100">RAC 100 (95)</option>
+    <option value="derecho_aereo_y_regulaciones_aeronauticas">Derecho Aéreo y Regulaciones (41)</option>
+    <option value="aerodinamica_aplicada">Aerodinámica Aplicada (32)</option>
+    <option value="meteorologia_aeronautica">Meteorología Aeronáutica (56)</option>
+    <option value="navegacion_aerea">Navegación Aérea (54)</option>
+    <option value="comunicaciones_aeronauticas">Comunicaciones Aeronáuticas (14)</option>
+    <option value="factores_humanos_y_actuacion_humana">Factores Humanos y Act. Humana (17)</option>
+    <option value="gestion_de_la_seguridad_operacional">Gestión de la Seguridad Operacional (48)</option>
+    <option value="conocimientos_generales_de_las_ua">Conoc. Generales de las UA (35)</option>
+    <option value="planificacion_de_vuelo">Planificación de Vuelo (21)</option>
+  </select>
 
-  <script>
-  const files={
-    all:'uas-bank.json',
-    rac100:'rac100.json',
-    derecho:'derecho.json',
-    aerodinamica:'aerodinamica.json',
-    meteorologia:'meteorologia.json',
-    navegacion:'navegacion.json',
-    comunicaciones:'comunicaciones.json',
-    factoreshumanos:'factoreshumanos.json',
-    seguridad:'seguridad.json',
-    ua:'ua.json',
-    planificacion:'planificacion.json'
-  };
+  <div id="bar"><div id="bar-inner"></div></div>
 
-  let questions=[];let current=0,score=0;
-  const catEl=document.getElementById('category');
-  const qEl=document.getElementById('question');
-  const optEl=document.getElementById('options');
-  const statusEl=document.getElementById('status');
-  const nextBtn=document.getElementById('next-btn');
-  const bar=document.getElementById('bar');
-  const select=document.getElementById('category-select');
+  <div id="cat"></div>
+  <div id="question"></div>
+  <div id="opts"></div>
+</div>
 
-  select.addEventListener('change',()=>loadCategory(select.value));
+<script>
+const files = {
+  all:                              'uas-bank.json',
+  rac_100:                          'rac_100.json',
+  derecho_aereo_y_regulaciones_aeronauticas: 'derecho_aereo_y_regulaciones_aeronauticas.json',
+  aerodinamica_aplicada:            'aerodinamica_aplicada.json',
+  meteorologia_aeronautica:         'meteorologia_aeronautica.json',
+  navegacion_aerea:                 'navegacion_aerea.json',
+  comunicaciones_aeronauticas:      'comunicaciones_aeronauticas.json',
+  factores_humanos_y_actuacion_humana: 'factores_humanos_y_actuacion_humana.json',
+  gestion_de_la_seguridad_operacional: 'sistema_de_gestion_de_la_seguridad_operacional.json',
+  conocimientos_generales_de_las_ua:   'conocimientos_generales_de_las_ua.json',
+  planificacion_de_vuelo:           'planificacion_de_vuelo.json'
+};
 
-  function loadCategory(key){
-    fetch(files[key]).then(r=>r.json()).then(data=>{
-      questions=data;
-      shuffleArray(questions);
-      current=0;score=0;
-      bar.style.width='0%';
-      loadQuestion();
-    }).catch(err=>{
-      qEl.textContent='No se pudo cargar '+files[key];
-      console.error(err);
+let questions=[], current=0, score=0;
+
+const sel      = document.getElementById('sel');
+const catEl    = document.getElementById('cat');
+const qEl      = document.getElementById('question');
+const optsEl   = document.getElementById('opts');
+const barInner = document.getElementById('bar-inner');
+
+sel.addEventListener('change', () => loadCategory(sel.value));
+loadCategory('all');
+
+/* ---------- funciones ---------- */
+
+function loadCategory(key){
+  fetch(files[key])
+    .then(r=>r.json())
+    .then(data=>{
+       questions = shuffleArray([...data]);   // copia y baraja
+       current = score = 0;
+       loadQuestion();
     });
-  }
+}
 
-  function loadQuestion(){
-    const q=questions[current];
-    catEl.textContent=q.category || 'General';
-    qEl.textContent=`${current+1}. ${q.q}`;
-    optEl.innerHTML='';
-    q.options.forEach((opt,i)=>{
-      const btn=document.createElement('button');
-      btn.textContent=opt;
-      btn.addEventListener('click',()=>selectOption(btn,i));
-      optEl.appendChild(btn);
-    });
-    statusEl.textContent='';
-    nextBtn.style.display='none';
-  }
+function loadQuestion(){
+  if(current >= questions.length){ finishQuiz(); return; }
+  const q = questions[current];
 
-  function selectOption(clickedBtn,idx){
-    const q=questions[current];
-    Array.from(optEl.children).forEach((btn,i)=>{
-      btn.disabled=true;
-      if(i===q.correct){btn.classList.add('correct');}
-    });
-    if(idx!==q.correct){
-      clickedBtn.classList.add('wrong');
-      statusEl.textContent=`Incorrecto. Respuesta correcta: ${q.options[q.correct]}`;
-    }else{
-      score++;statusEl.textContent='¡Correcto!';
-    }
-    bar.style.width=`${(score/questions.length)*100}%`;
-    nextBtn.style.display='block';
-  }
+  catEl.textContent = q.category;
+  qEl.innerHTML = prettyText(q.q);
 
-  nextBtn.addEventListener('click',()=>{
-    if(current<questions.length-1){current++;loadQuestion();}
-    else{qEl.textContent='¡Juego terminado!';catEl.textContent='';optEl.innerHTML='';nextBtn.style.display='none';statusEl.textContent=`Aciertos: ${score}/${questions.length}`;confetti();}
+  optsEl.innerHTML='';
+  q.options.forEach((opt,i)=>{
+     const btn = document.createElement('button');
+     btn.className='btn-option';
+     btn.innerHTML = prettyText(opt);
+     btn.onclick = ()=> checkAnswer(btn,i,q.correct);
+     optsEl.appendChild(btn);
   });
 
-  function shuffleArray(arr){
-    for(let i=arr.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[arr[i],arr[j]]=[arr[j],arr[i]];}
+  barInner.style.width = ((current)/questions.length*100)+'%';
+}
+
+function checkAnswer(btn, idx, correct){
+  const buttons=[...document.querySelectorAll('.btn-option')];
+  buttons.forEach(b=>b.disabled=true);
+  if(idx===correct){
+     btn.classList.add('correct'); score++;
+  }else{
+     btn.classList.add('wrong');
+     buttons[correct].classList.add('correct');
   }
+  current++;
+  setTimeout(loadQuestion, 900);
+}
 
-  function confetti(){const d=2000,end=Date.now()+d;(function frame(){confettiBurst();if(Date.now()<end)requestAnimationFrame(frame);})();}
-  function confettiBurst(){for(let i=0;i<18;i++){const el=document.createElement('div');el.style.position='fixed';el.style.zIndex=9999;el.style.top=Math.random()*100+'vh';el.style.left=Math.random()*100+'vw';el.style.width=el.style.height='8px';el.style.background=`hsl(${Math.random()*360},100%,50%)`;el.style.pointerEvents='none';el.style.opacity=1;document.body.appendChild(el);const anim=setInterval(()=>{el.style.transform=`translateY(${parseFloat(el.style.top)+Math.random()*4}px)`;el.style.opacity-=0.02;if(el.style.opacity<=0){clearInterval(anim);el.remove();}},16);}}
+function finishQuiz(){
+  qEl.innerHTML = `<strong>¡Completado!</strong><br>Obtuviste ${score} de ${questions.length} preguntas.`;
+  optsEl.innerHTML = '<button class="btn-option" onclick="loadCategory(sel.value)">Reiniciar</button>';
+  barInner.style.width='100%';
+}
 
-  // Carga inicial
-  loadCategory('all');
-  </script>
+/* ---------- helpers ---------- */
+
+function shuffleArray(arr){
+  for(let i=arr.length-1;i>0;i--){
+    const j=Math.floor(Math.random()*(i+1));
+    [arr[i],arr[j]]=[arr[j],arr[i]];
+  }
+  return arr;
+}
+
+/* Convierte numerales "1- ... 2- ... 3- ..." en lista ul/li */
+function prettyText(t){
+  const listMatch = t.match(/(?:^|\s)1[\-\.]\s/);
+  if(!listMatch) return t;                        // no es lista
+
+  const parts = t.split(/\s[1-4][\-\.]\s/).filter(Boolean);
+  if(parts.length<2) return t;                    // sólo un numeral, dejar
+
+  let intro = t.substring(0, listMatch.index).trim();
+  let html  = intro ? intro + '<br>' : '';
+  html += '<ul>';
+  parts.forEach(p => html += `<li>${p.trim()}</li>`);
+  html += '</ul>';
+  return html;
+}
+</script>
 </body>
 </html>
