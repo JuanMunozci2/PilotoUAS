@@ -4,7 +4,9 @@
     "number": 1,
     "q": "¿Qué es la meteorología?",
     "options": [
-      "Es el estudio de los fenómenos que ocurren en la atmósfera. Es el estudio de las condiciones marítimas que tienen influencia en el viento y la lluvia. Es el comportamiento del tiempo y clima de un lugar específico."
+      "Es el estudio de los fenómenos que ocurren en la atmósfera.",
+      "Es el estudio de las condiciones marítimas que tienen influencia en el viento y la lluvia.",
+      "Es el comportamiento del tiempo y clima de un lugar específico."
     ],
     "correct": 0
   },
@@ -13,7 +15,9 @@
     "number": 2,
     "q": "¿En cuáles campos se hace uso de aplicación de la meteorología?",
     "options": [
-      "Experimental, sinóptica, agrícola, marítima y aeronáutica. Forestal, aerodinámica y agropecuaria. Todas las opciones son correctas."
+      "Experimental, sinóptica, agrícola, marítima y aeronáutica.",
+      "Forestal, aerodinámica y agropecuaria.",
+      "Todas las opciones son correctas."
     ],
     "correct": 0
   },
@@ -22,7 +26,9 @@
     "number": 3,
     "q": "¿A qué se le conoce como clima?",
     "options": [
-      "Descripción estadística de las condiciones meteorológicas más frecuentes de una región, en un determinado periodo de tiempo. Variación diaria de las condiciones atmosféricas que se presentan en una región específica. Variaciones del viento en cuanto a velocidad y dirección que se presentan en una región específica."
+      "Descripción estadística de las condiciones meteorológicas más frecuentes de una región, en un determinado periodo de tiempo.",
+      "Variación diaria de las condiciones atmosféricas que se presentan en una región específica.",
+      "Variaciones del viento en cuanto a velocidad y dirección que se presentan en una región específica."
     ],
     "correct": 0
   },
@@ -31,43 +37,52 @@
     "number": 4,
     "q": "¿A qué se le conoce como “Tiempo Meteorológico”?",
     "options": [
-      "Descripción estadística de las condiciones meteorológicas más frecuentes de una región, en un determinado periodo de tiempo. Variación diaria o de tiempos muy cortos de análisis de las condiciones atmosféricas que se presentan en una región específica. Variaciones del viento en cuanto a velocidad y dirección que se presentan en una región específica."
+      "Descripción estadística de las condiciones meteorológicas más frecuentes de una región, en un determinado periodo de tiempo.",
+      "Variación diaria o de tiempos muy cortos de análisis de las condiciones atmosféricas que se presentan en una región específica.",
+      "Variaciones del viento en cuanto a velocidad y dirección que se presentan en una región específica."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 5,
     "q": "¿Cuál es la diferencia entre tiempo meteorológico y clima?",
     "options": [
-      "No hay diferencia, realmente son lo mismo. El tiempo meteorológico son las condiciones atmosféricas predominantes de una región amplia y se determina por periodos largos de tiempo. El clima es un estado de la atmósfera en un momento determinado, en una locación específica y cambia constantemente. El tiempo meteorológico es un estado de la atmósfera en un momento determinado, en una locación específica y cambia constantemente. El Clima son las condiciones atmosféricas predominantes de una región amplia y se determina por periodos largos de tiempo."
+      "No hay diferencia, realmente son lo mismo.",
+      "El tiempo meteorológico son las condiciones atmosféricas predominantes de una región amplia y se determina por periodos largos de tiempo. El clima es un estado de la atmósfera en un momento determinado, en una locación específica y cambia constantemente.",
+      "El tiempo meteorológico es un estado de la atmósfera en un momento determinado, en una locación específica y cambia constantemente. El Clima son las condiciones atmosféricas predominantes de una región amplia y se determina por periodos largos de tiempo."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 6,
     "q": "¿Qué aspectos contribuyen a que se determinen los parámetros de clima en un lugar determinado?",
     "options": [
-      "Latitud y orografía. Posición geográfica relativa respecto a continentes y océanos. Las dos opciones son correctas."
+      "Latitud y orografía.",
+      "Posición geográfica relativa respecto a continentes y océanos.",
+      "Las dos opciones son correctas."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 7,
     "q": "De las siguientes opciones, ¿Qué instrumentos meteorológicos se emplean para capturar información del tiempo meteorológico? 1- Indicador de velocidad y dirección de viento. 2- Termómetros de altas y alcohol. 3- Odómetro. 4- Sensor de humedad. 5- Sensor presión ATM. 6- Tensiómetro. 7- Ceilómetro. 8- Variómetro. 9- Horizonte artificial. 10- Manómetro.",
     "options": [
-      "Los numerales 2, 4, 6, 8 y 10 son correctos. Los numerales 1, 3, 6, 8, 9 y 10 son correctos. Los numerales 1, 2, 4, 5 y 7 son correctos."
+      "Los numerales 2, 4, 6, 8 y 10 son correctos.",
+      "Los numerales 1, 3, 6, 8, 9 y 10 son correctos.",
+      "Los numerales 1, 2, 4, 5 y 7 son correctos."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 8,
     "q": "La observación meteorológica consiste en la medición de todos los elementos meteorológicos que en conjunto representan las condiciones del estado de la atmósfera. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -76,7 +91,9 @@
     "number": 9,
     "q": "¿Qué es la atmósfera?",
     "options": [
-      "Es el conjunto de gases y nubes que envuelven a la tierra. Es manto de vapor de agua que rodea a la tierra. Ninguna de las opciones es correcta."
+      "Es el conjunto de gases y nubes que envuelven a la tierra.",
+      "Es manto de vapor de agua que rodea a la tierra.",
+      "Ninguna de las opciones es correcta."
     ],
     "correct": 0
   },
@@ -85,7 +102,9 @@
     "number": 10,
     "q": "¿Cuál es la composición estándar del aire de la atmósfera?",
     "options": [
-      "Nitrógeno 78% - Oxígeno 21% - Otros gases 1% Nitrógeno 70% - Oxígeno 25% - Otros gases 5% Nitrógeno 80% - Oxígeno 19% - Otros gases 1%"
+      "Nitrógeno 78% - Oxígeno 21% - Otros gases 1%",
+      "Nitrógeno 70% - Oxígeno 25% - Otros gases 5%",
+      "Nitrógeno 80% - Oxígeno 19% - Otros gases 1%"
     ],
     "correct": 0
   },
@@ -94,7 +113,9 @@
     "number": 11,
     "q": "Además de los elementos gaseosos estándar del aire, ¿Qué otras moléculas conforman la atmósfera?",
     "options": [
-      "Agua en sus tres estados. Núcleos higroscópicos. No contiene otros elementos que la conformen."
+      "Agua en sus tres estados.",
+      "Núcleos higroscópicos.",
+      "No contiene otros elementos que la conformen."
     ],
     "correct": 0
   },
@@ -103,7 +124,8 @@
     "number": 12,
     "q": "Las capas de la atmósfera según la composición química del aire son Homósfera y Heterósfera. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -112,16 +134,19 @@
     "number": 13,
     "q": "¿Cuál de las siguientes es una característica de la tropósfera?",
     "options": [
-      "Disminución abrupta de la temperatura con el incremento de altitud. Contiene toda la humedad de la atmósfera. La altitud promedio del tope de la atmósfera es alrededor de 6 millas."
+      "Disminución abrupta de la temperatura con el incremento de altitud.",
+      "Contiene toda la humedad de la atmósfera.",
+      "La altitud promedio del tope de la atmósfera es alrededor de 6 millas."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 14,
     "q": "La ionósfera es una capa de la atmósfera no clasificada según temperatura, la cual contiene una gran cantidad de iones que son importantes para procesos electromagnéticos. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -130,7 +155,9 @@
     "number": 15,
     "q": "¿Qué característica tiene la ionósfera?",
     "options": [
-      "Permite la reflexión de las ondas largas de radio HF. Permite la refracción de las ondas de radio HF. Permite la difracción de las ondas de radio VHF."
+      "Permite la reflexión de las ondas largas de radio HF.",
+      "Permite la refracción de las ondas de radio HF.",
+      "Permite la difracción de las ondas de radio VHF."
     ],
     "correct": 0
   },
@@ -139,34 +166,42 @@
     "number": 16,
     "q": "¿Qué es el viento?",
     "options": [
-      "Es el movimiento de una masa de aire en sentido vertical. Es el movimiento de una masa de aire en sentido horizontal. Es el movimiento de una masa de aire sin importar su sentido."
+      "Es el movimiento de una masa de aire en sentido vertical.",
+      "Es el movimiento de una masa de aire en sentido horizontal.",
+      "Es el movimiento de una masa de aire sin importar su sentido."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 17,
     "q": "¿Cuáles son las unidades empleadas para poder medir la velocidad del viento?",
     "options": [
-      "(m/s) metros/ segundo y (km/h) kilómetros /hora. (kt) nudos. Todas las opciones son verdaderas."
+      "(m/s) metros/ segundo y (km/h) kilómetros /hora.",
+      "(kt) nudos.",
+      "Todas las opciones son verdaderas."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 18,
     "q": "El movimiento vertical de una masa de aire, inducido por el calor se llama:",
     "options": [
-      "Estratificación. Convección. Efecto de Coriolis."
+      "Estratificación.",
+      "Convección.",
+      "Efecto de Coriolis."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 19,
     "q": "Los vientos catabáticos son identificados como:",
     "options": [
-      "Vientos que viajan de los picos hacia las faldas de las montañas. Vientos de los valles. Vientos que viajan por las costas."
+      "Vientos que viajan de los picos hacia las faldas de las montañas.",
+      "Vientos de los valles.",
+      "Vientos que viajan por las costas."
     ],
     "correct": 0
   },
@@ -175,7 +210,9 @@
     "number": 20,
     "q": "El movimiento desordenado del aire originado por diferentes causas se le conoce como:",
     "options": [
-      "Turbulencia. Viento geostrófico. Corriente de chorro."
+      "Turbulencia.",
+      "Viento geostrófico.",
+      "Corriente de chorro."
     ],
     "correct": 0
   },
@@ -184,34 +221,41 @@
     "number": 21,
     "q": "¿Qué es turbulencia?",
     "options": [
-      "Es el flujo de un fluido de forma ordenada y laminar con respecto a su dirección e intensidad. Es el flujo de un fluido de forma desordenada con respecto a su dirección e intensidad. Es una situación de desorden presentado por un grupo en general."
+      "Es el flujo de un fluido de forma ordenada y laminar con respecto a su dirección e intensidad.",
+      "Es el flujo de un fluido de forma desordenada con respecto a su dirección e intensidad.",
+      "Es una situación de desorden presentado por un grupo en general."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 22,
     "q": "Para la aviación no tripulada, ¿por qué es peligrosa una situación de turbulencia del aire?",
     "options": [
-      "Porque interrumpe el flujo laminar sobre las superficies sustentadoras, causando desplome. Porque existiendo la condición turbulenta, no se puede ver a simple vista. Las dos opciones son correctas."
+      "Porque interrumpe el flujo laminar sobre las superficies sustentadoras, causando desplome.",
+      "Porque existiendo la condición turbulenta, no se puede ver a simple vista.",
+      "Las dos opciones son correctas."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 23,
     "q": "¿Qué es temperatura?",
     "options": [
-      "Es un concepto teórico basado en las sensaciones del cuerpo humano. Es la comparación entre la sensación de frío y calor. Es la medida de la energía interna de un cuerpo."
+      "Es un concepto teórico basado en las sensaciones del cuerpo humano.",
+      "Es la comparación entre la sensación de frío y calor.",
+      "Es la medida de la energía interna de un cuerpo."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 24,
     "q": "El calor es la energía manifestada por el aumento de la temperatura en un cuerpo determinado. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -220,7 +264,9 @@
     "number": 25,
     "q": "¿Qué es radiación solar?",
     "options": [
-      "Es la energía emitida por el sol. Son las crestas de fuego que produce el sol. Se le conoce como la corona solar cuando hay un eclipse de sol."
+      "Es la energía emitida por el sol.",
+      "Son las crestas de fuego que produce el sol.",
+      "Se le conoce como la corona solar cuando hay un eclipse de sol."
     ],
     "correct": 0
   },
@@ -229,25 +275,30 @@
     "number": 26,
     "q": "La radiación solar se compone de radiación infrarroja y radiación ultravioleta únicamente. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 27,
     "q": "¿Cuál es la principal causa de la variación climatológica y del estado de la meteorología?",
     "options": [
-      "Cambios en la presión del aire sobre la superficie de la tierra. Movimientos de las masas de aire de las áreas húmedas a las áreas secas. Variaciones de la energía solar en la superficie terrestre."
+      "Cambios en la presión del aire sobre la superficie de la tierra.",
+      "Movimientos de las masas de aire de las áreas húmedas a las áreas secas.",
+      "Variaciones de la energía solar en la superficie terrestre."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 28,
     "q": "¿A qué se le conoce como meteoro?",
     "options": [
-      "A un fenómeno atmosférico sólido (granizo, lluvia, etc.). A cualquier fenómeno atmosférico. Ninguna de las anteriores."
+      "A un fenómeno atmosférico sólido (granizo, lluvia, etc.).",
+      "A cualquier fenómeno atmosférico.",
+      "Ninguna de las anteriores."
     ],
     "correct": 0
   },
@@ -256,16 +307,19 @@
     "number": 29,
     "q": "¿A qué se le conoce como meteorito?",
     "options": [
-      "Cualquier fenómeno atmosférico. Cualquier fragmento de materia sólida procedente del espacio interestelar. Las dos opciones son correctas."
+      "Cualquier fenómeno atmosférico.",
+      "Cualquier fragmento de materia sólida procedente del espacio interestelar.",
+      "Las dos opciones son correctas."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 30,
     "q": "Las nubes son las manifestaciones visibles del vapor de agua contenido en la atmósfera, la cual nos está indicando saturación y condensación del agua. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -274,7 +328,9 @@
     "number": 31,
     "q": "¿A qué se le conoce como “Precipitación”?",
     "options": [
-      "Caída de agua líquida o sólida desde la atmósfera hacia la superficie terrestre. Cuando alguien realiza una acción de forma acelerada. Evaporación del agua de la superficie."
+      "Caída de agua líquida o sólida desde la atmósfera hacia la superficie terrestre.",
+      "Cuando alguien realiza una acción de forma acelerada.",
+      "Evaporación del agua de la superficie."
     ],
     "correct": 0
   },
@@ -283,16 +339,20 @@
     "number": 32,
     "q": "Cuando la temperatura actual del aire se acerca a la temperatura del punto de rocío identificamos que:",
     "options": [
-      "Menor probabilidad hay de formación de niebla o nubes bajas. Mayor probabilidad hay de formación de niebla o nubes bajas. No hay probabilidad de precipitación."
+      "Menor probabilidad hay de formación de niebla o nubes bajas.",
+      "Mayor probabilidad hay de formación de niebla o nubes bajas.",
+      "No hay probabilidad de precipitación."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 33,
     "q": "Las nubes tipo Estratos, Cúmulos y Estratocúmulos son consideradas nubes:",
     "options": [
-      "Bajas Medias De tormenta"
+      "Bajas",
+      "Medias",
+      "De tormenta"
     ],
     "correct": 0
   },
@@ -301,25 +361,31 @@
     "number": 34,
     "q": "Las nubes tipo Cirros, Cirroestratos y Cirrocúmulos son consideradas nubes:",
     "options": [
-      "Bajas Altas Medias"
+      "Bajas",
+      "Altas",
+      "Medias"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 35,
     "q": "La clasificación de las nubes según su apariencia es:",
     "options": [
-      "Estratiformes, bancos de niebla y cirriformes. Estratiformes, cumuliformes y cirriformes. De formación vertical."
+      "Estratiformes, bancos de niebla y cirriformes.",
+      "Estratiformes, cumuliformes y cirriformes.",
+      "De formación vertical."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 36,
     "q": "¿Cuál es el tipo de nube que produce mayor turbulencia y es potencialmente peligrosa para la aviación?",
     "options": [
-      "CS - Cirrostratos CB - Cumulonimbos Todas las nubes son peligrosas para la aviación."
+      "CS - Cirrostratos",
+      "CB - Cumulonimbos",
+      "Todas las nubes son peligrosas para la aviación."
     ],
     "correct": 0
   },
@@ -328,7 +394,9 @@
     "number": 37,
     "q": "¿Qué tipo de nubes se consideran de desarrollo vertical?",
     "options": [
-      "Torrecúmulos y Cumulonimbos. Torrecúmulos y Nimboestratos. Cumulonimbos y Nimboestratos."
+      "Torrecúmulos y Cumulonimbos.",
+      "Torrecúmulos y Nimboestratos.",
+      "Cumulonimbos y Nimboestratos."
     ],
     "correct": 0
   },
@@ -337,7 +405,9 @@
     "number": 38,
     "q": "El término FEW empleado para determinar condiciones de nubosidad corresponde a:",
     "options": [
-      "1 a 2 octas. Sky clear. 3 a 4 octas."
+      "1 a 2 octas.",
+      "Sky clear.",
+      "3 a 4 octas."
     ],
     "correct": 0
   },
@@ -346,34 +416,42 @@
     "number": 39,
     "q": "El término empleado cuando nos referimos a un cielo totalmente cubierto (8 Octas) por condiciones de nubosidad se le llama:",
     "options": [
-      "SCATER OVERCAST CAVOK"
+      "SCATER",
+      "OVERCAST",
+      "CAVOK"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 40,
     "q": "En Colombia la visibilidad horizontal en la aviación se mide en:",
     "options": [
-      "Pies Metros Millas"
+      "Pies",
+      "Metros",
+      "Millas"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 41,
     "q": "¿Cuáles son los mínimos meteorológicos aplicables a las Reglas de Vuelo Visual VFR?",
     "options": [
-      "Visibilidad de más de 500 mts. y techo de nubes de más de 5000 ft. Visibilidad de más de 5000 mts. y techo de nubes de más de 500 ft. Visibilidad de más de 10000 mts. y techo de nubes de más de 5000 ft."
+      "Visibilidad de más de 500 mts. y techo de nubes de más de 5000 ft.",
+      "Visibilidad de más de 5000 mts. y techo de nubes de más de 500 ft.",
+      "Visibilidad de más de 10000 mts. y techo de nubes de más de 5000 ft."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 42,
     "q": "Se le llama al fenómeno compuesto en su mayoría por partículas de vapor de agua que enturbian el aire, que reduce la visibilidad por debajo de 5 km:",
     "options": [
-      "HZ (Bruma). GR (Granizo). FG (Niebla)."
+      "HZ (Bruma).",
+      "GR (Granizo).",
+      "FG (Niebla)."
     ],
     "correct": 0
   },
@@ -382,7 +460,9 @@
     "number": 43,
     "q": "¿Cuál de las siguientes es considerada nubes de tormenta?",
     "options": [
-      "Cc (Cirrocúmulos). St (Estratos). Cb (Cumulonimbos)."
+      "Cc (Cirrocúmulos).",
+      "St (Estratos).",
+      "Cb (Cumulonimbos)."
     ],
     "correct": 0
   },
@@ -391,7 +471,9 @@
     "number": 44,
     "q": "¿Qué es la presión atmosférica?",
     "options": [
-      "Peso de una columna de aire desde el punto de medición hasta el límite de la tropósfera sobre una superficie determinada. Presión de una columna de aire desde el nivel medio del mar hasta el límite superior de la atmósfera sobre una superficie estándar de un centímetro cuadrado. Fuerza que ejerce el peso de una columna de aire desde el punto de medición hasta el límite superior de la atmósfera sobre cada unidad de superficie."
+      "Peso de una columna de aire desde el punto de medición hasta el límite de la tropósfera sobre una superficie determinada.",
+      "Presión de una columna de aire desde el nivel medio del mar hasta el límite superior de la atmósfera sobre una superficie estándar de un centímetro cuadrado.",
+      "Fuerza que ejerce el peso de una columna de aire desde el punto de medición hasta el límite superior de la atmósfera sobre cada unidad de superficie."
     ],
     "correct": 0
   },
@@ -400,7 +482,9 @@
     "number": 45,
     "q": "Fuerza que ejerce peso de una columna de aire sobre una unidad de superficie, que se extiende desde la superficie en la cual se realiza la medición, hasta el límite superior de la atmósfera, se le conoce como:",
     "options": [
-      "Presión barométrica. Fuerza atmosférica. Presión atmosférica."
+      "Presión barométrica.",
+      "Fuerza atmosférica.",
+      "Presión atmosférica."
     ],
     "correct": 0
   },
@@ -409,7 +493,9 @@
     "number": 46,
     "q": "En cuanto a la presión atmosférica, ¿cuál de las siguientes relaciones es la correcta?",
     "options": [
-      "Entre más cerca del MSL, más presión atmosférica. Entre más cerca del MSL, menos presión atmosférica. Entre más cerca del AGL, más presión atmosférica."
+      "Entre más cerca del MSL, más presión atmosférica.",
+      "Entre más cerca del MSL, menos presión atmosférica.",
+      "Entre más cerca del AGL, más presión atmosférica."
     ],
     "correct": 0
   },
@@ -418,7 +504,9 @@
     "number": 47,
     "q": "En cuanto a la densidad del aire, se determina:",
     "options": [
-      "Que, entre menos presión atmosférica mayor es la densidad del aire. Que, entre más presión atmosférica, mayor es la densidad del aire. Que, no importa la presión atmosférica, la densidad siempre va a ser igual."
+      "Que, entre menos presión atmosférica mayor es la densidad del aire.",
+      "Que, entre más presión atmosférica, mayor es la densidad del aire.",
+      "Que, no importa la presión atmosférica, la densidad siempre va a ser igual."
     ],
     "correct": 0
   },
@@ -427,16 +515,19 @@
     "number": 48,
     "q": "Cuando nos referimos al término VFR, nos estamos refiriendo a las condiciones meteorológicas de vuelo visuales. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "Meteorología Aeronáutica",
     "number": 49,
     "q": "Un vuelo para una aeronave no tripulada debe ser efectuado de acuerdo con:",
     "options": [
-      "Reglas de vuelo instrumentos y en condiciones IMC. Reglas de vuelo visual y en condiciones VMC. Reglas de vuelo visual y en condiciones IMC."
+      "Reglas de vuelo instrumentos y en condiciones IMC.",
+      "Reglas de vuelo visual y en condiciones VMC.",
+      "Reglas de vuelo visual y en condiciones IMC."
     ],
     "correct": 0
   },
@@ -445,7 +536,8 @@
     "number": 50,
     "q": "Las unidades para la medición de la temperatura son Celsius, Kelvin y Fahrenheit. Este postulado es:",
     "options": [
-      "Verdadero Falso"
+      "Verdadero",
+      "Falso"
     ],
     "correct": 0
   },
@@ -454,7 +546,9 @@
     "number": 51,
     "q": "¿Qué es la humedad?",
     "options": [
-      "Es la cantidad de agua presente en la atmósfera. Es la cantidad de agua presente en los océanos. Es el vapor de agua que se puede encontrar en la tierra."
+      "Es la cantidad de agua presente en la atmósfera.",
+      "Es la cantidad de agua presente en los océanos.",
+      "Es el vapor de agua que se puede encontrar en la tierra."
     ],
     "correct": 0
   },
@@ -463,7 +557,9 @@
     "number": 52,
     "q": "¿Cómo se define el “Punto de Rocío”?",
     "options": [
-      "Temperatura del aire en la cual se condensa el vapor de agua que hay en la atmósfera. Temperatura del aire en la cual se evaporan las moléculas de agua. Presión del aire en la cual se condensa el vapor de agua."
+      "Temperatura del aire en la cual se condensa el vapor de agua que hay en la atmósfera.",
+      "Temperatura del aire en la cual se evaporan las moléculas de agua.",
+      "Presión del aire en la cual se condensa el vapor de agua."
     ],
     "correct": 0
   },
@@ -472,7 +568,9 @@
     "number": 53,
     "q": "El METAR, SPECI y TAF son:",
     "options": [
-      "Informes meteorológicos aeronáuticos. Informes meteorológicos de tiempo real aeronáuticos. Información documentada de las condiciones meteorológicas de un determinado lugar."
+      "Informes meteorológicos aeronáuticos.",
+      "Informes meteorológicos de tiempo real aeronáuticos.",
+      "Información documentada de las condiciones meteorológicas de un determinado lugar."
     ],
     "correct": 0
   },
@@ -481,7 +579,9 @@
     "number": 54,
     "q": "¿Dentro de la Información que se maneja en el mundo aeronáutico, a que se le conoce como METAR?",
     "options": [
-      "Publicación de Información Aeronáutica. Reporte Meteorológico Horario de Aeródromo. Pronóstico Meteorológico de Área Terminal."
+      "Publicación de Información Aeronáutica.",
+      "Reporte Meteorológico Horario de Aeródromo.",
+      "Pronóstico Meteorológico de Área Terminal."
     ],
     "correct": 0
   },
@@ -490,7 +590,9 @@
     "number": 55,
     "q": "En los reportes METAR el término NSW significa:",
     "options": [
-      "Chubascos en la vecindad. No hay reportes significativos de meteorología. Precaución de tormenta en el sector."
+      "Chubascos en la vecindad.",
+      "No hay reportes significativos de meteorología.",
+      "Precaución de tormenta en el sector."
     ],
     "correct": 0
   },
@@ -499,7 +601,9 @@
     "number": 56,
     "q": "En los reportes METAR el término CAVOK significa:",
     "options": [
-      "Cielo (techo) y visibilidad buenos. Estamos todos bien. Comunicaciones y vectores correctos."
+      "Cielo (techo) y visibilidad buenos.",
+      "Estamos todos bien.",
+      "Comunicaciones y vectores correctos."
     ],
     "correct": 0
   }
